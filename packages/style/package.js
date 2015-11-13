@@ -17,7 +17,6 @@ Package.onUse(function(api) {
         'less',
         'routes',
         'session',
-        'style',
         'templating',
         'tracker'
         ], 'client');

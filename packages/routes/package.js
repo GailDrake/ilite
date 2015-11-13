@@ -15,7 +15,6 @@ Package.onUse(function(api) {
 
         'jquery',
         'less',
-        'routes',
         'session',
         'style',
         'templating',
