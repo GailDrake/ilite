@@ -3,7 +3,7 @@
  */
 Package.describe({
 
-    summary:'Cyber'
+    summary:'Routes'
 
 });
 
@@ -14,9 +14,10 @@ Package.onUse(function(api) {
     api.use([
 
         'jquery',
+        'kadira:flow-router',
+        'kadira:blaze-layout',
         'less',
         'session',
-        'style',
         'templating',
         'tracker'
         ], 'client');
@@ -26,9 +27,8 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'routes_client.js',
+        'routes_server.js'
     ],'web');
 
 });

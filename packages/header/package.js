@@ -3,7 +3,7 @@
  */
 Package.describe({
 
-    summary:'Cyber'
+    summary:'Header'
 
 });
 
@@ -15,9 +15,7 @@ Package.onUse(function(api) {
 
         'jquery',
         'less',
-        'routes',
         'session',
-        'style',
         'templating',
         'tracker'
         ], 'client');
@@ -27,9 +25,9 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'header.html',
+        'header.less',
+        'header_client.js'
     ],'web');
 
 });

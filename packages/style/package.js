@@ -3,7 +3,7 @@
  */
 Package.describe({
 
-    summary:'Cyber'
+    summary:'Base Style Package'
 
 });
 
@@ -15,7 +15,6 @@ Package.onUse(function(api) {
 
         'jquery',
         'less',
-        'routes',
         'session',
         'templating',
         'tracker'
@@ -26,9 +25,7 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'style.less',
     ],'web');
 
 });

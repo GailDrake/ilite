@@ -3,7 +3,7 @@
  */
 Package.describe({
 
-    summary:'Cyber'
+    summary:'sustainability'
 
 });
 
@@ -15,9 +15,7 @@ Package.onUse(function(api) {
 
         'jquery',
         'less',
-        'routes',
         'session',
-        'style',
         'templating',
         'tracker'
         ], 'client');
@@ -27,9 +25,9 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'sustainability.html',
+        'sustainability.less',
+        'sustainability_client.js'
     ],'web');
 
 });
