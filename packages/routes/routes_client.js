@@ -1,6 +1,6 @@
-//  FlowRouter.route("/", {
-//   action(){ BlazeLayout.render("layout", {}) }
-// });
+ FlowRouter.route("/", {
+  action(){ BlazeLayout.render("layout", {}) }
+});
 //
 // FlowRouter.route("/iroc", {
 //   action(){ BlazeLayout.render("iroc", {}) }

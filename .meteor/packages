@@ -21,4 +21,16 @@ insecure                # Allow all DB writes from clients (for prototyping)
 kadira:flow-router
 kadira:blaze-layout
 
+
+# local packages
+cyber
+expo
+footer
+header
+iroc
+layout
+merch
+robotics
 routes
+style
+sustainability

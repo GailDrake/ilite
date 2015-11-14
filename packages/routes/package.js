@@ -3,7 +3,7 @@
  */
 Package.describe({
 
-    summary:'Cyber'
+    summary:'Routes'
 
 });
 
@@ -25,9 +25,8 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'routes_client.js',
+        'routes_server.js'
     ],'web');
 
 });
