@@ -14,6 +14,8 @@ Package.onUse(function(api) {
     api.use([
 
         'jquery',
+        'kadira:flow-router',
+        'kadira:blaze-layout',
         'less',
         'session',
         'templating',

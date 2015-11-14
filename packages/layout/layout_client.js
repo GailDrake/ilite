@@ -1,3 +1,3 @@
-Template.layout.onRendered{ function() {
+Template.layout.onRendered( function() {
   console.log( 'layout here')
-}}
+});

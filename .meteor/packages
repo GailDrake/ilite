@@ -23,7 +23,7 @@ kadira:blaze-layout
 
 
 # local packages
-cyber
+# cyber           # this package has errors
 expo
 footer
 header
