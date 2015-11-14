@@ -16,7 +16,6 @@ Package.onUse(function(api) {
         'jquery',
         'less',
         'session',
-        'style',
         'templating',
         'tracker'
         ], 'client');

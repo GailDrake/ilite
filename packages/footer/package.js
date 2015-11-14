@@ -27,9 +27,9 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'footer.html',
+        'footer.less',
+        'footer_client.js'
     ],'web');
 
 });

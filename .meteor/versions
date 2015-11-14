@@ -36,6 +36,7 @@ jquery@1.11.4
 kadira:blaze-layout@2.2.0
 kadira:flow-router@2.9.0
 launch-screen@1.0.4
+less@2.5.1
 livedata@1.0.15
 logging@1.0.8
 meteor@1.1.10
@@ -56,6 +57,7 @@ reactive-var@1.0.6
 reload@1.1.4
 retry@1.0.4
 routepolicy@1.0.6
+routes@0.0.0
 session@1.1.1
 spacebars@1.0.7
 spacebars-compiler@1.0.7

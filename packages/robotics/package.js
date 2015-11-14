@@ -27,9 +27,9 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'robotics.html',
+        'robotics.less',
+        'robotics_client.js'
     ],'web');
 
 });

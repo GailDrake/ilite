@@ -27,9 +27,9 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'sustainability.html',
+        'sustainability.less',
+        'sustainability_client.js'
     ],'web');
 
 });

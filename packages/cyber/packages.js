@@ -17,6 +17,7 @@ Package.onUse(function(api) {
         'less',
         'routes',
         'session',
+        'style',
         'templating',
         'tracker'
         ], 'client');
@@ -26,7 +27,9 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'style.less',
+        'cyber.html',
+        'cyber.less',
+        'cyber_client.js'
     ],'web');
 
 });

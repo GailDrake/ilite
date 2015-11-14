@@ -27,9 +27,10 @@ Package.onUse(function(api) {
     ],both);
 
     api.addFiles([
-        'cyber.html',
-        'cyber.less',
-        'cyber_client.js'
+        'merch.html',
+        'merch.less',
+        'merch_client.js',
+        'merch_server.js'
     ],'web');
 
 });
