@@ -3,13 +3,13 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>iLite · US</title>
-
+    <link rel="stylesheet" type="type/css" href="css/styles.css">
 </head>
 <body>
 
-<?php  include("header.php");  ?>
+<?php  include("includes/header.php");  ?>
 
-<?php  include("content.php");  ?>
+<?php  include("includes/content.php");  ?>
 
 
 
