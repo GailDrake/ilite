@@ -1,4 +1,4 @@
-# ilite
+# Style guides
 
 ### LESS style guide
 [ilite style guide] (https://github.com/GailDrake/ilite/wiki/Less-Style-guide)
