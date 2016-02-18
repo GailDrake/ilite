@@ -1,0 +1,365 @@
+@import (less) "fonts.css";
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+body, html { font-size: 100%; padding: 0; margin: 0;}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before, .clearfix:after { content: " "; display: table; }
+.clearfix:after { clear: both; }
+
+html, body { 
+  height: 100%; 
+  width: 100%;
+  }
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #666;
+	background: #333;
+	overflow: hidden;
+	margin: 0;
+   padding: 0;
+   text-align: center;
+}
+
+a {
+	color: #ddd;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fff;
+}
+.pt-trigger-container {
+	color: #fff;
+    position: absolute;
+    right: 0px;
+    z-index: 9;
+    width: 3%;
+    height: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	vertical-align: middle;
+    background: transparent;
+}
+.pt-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    -webkit-perspective: 1200px;
+    -moz-perspective: 1200px;
+    perspective: 1200px;
+}
+.pt-perspective {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	-webkit-perspective: 100%;
+	-moz-perspective: 100%;
+	perspective: 100%;
+}
+
+.pt-page {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	visibility: hidden;
+	overflow: hidden;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+.pt-page-current,
+.no-js .pt-page {
+	visibility: visible;
+	z-index: 1;
+}
+.no-js body {
+	overflow: auto;
+}
+
+.pt-page-ontop {
+	z-index: 999;
+}
+
+/* Text Styles, Colors, Backgrounds */
+
+.topper h1 {
+	color: #fff;
+	position: absolute;
+	font-weight: 600;
+	font-size: 7em;
+	line-height: 1;
+	margin: 0;
+	top: 40%;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.3),
+               0 0 5px rgba(0,0,0,.3),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.6),
+               0 5px 10px rgba(0,0,0,1),
+               0 10px 10px rgba(0,0,0,.6),
+               0 20px 20px rgba(0,0,0,.75);
+}
+.downer h1 {
+	position: absolute;
+	font-weight: 600;
+	font-size: 4em;
+	text-transform: uppercase;
+	line-height: 1;
+	margin: 0;
+	top: 6%;
+	width: 100%;
+}
+.robo  strong {
+	color: #A836D1;
+}
+.cyber  strong {
+	color: #E8D71E;
+}
+.sustain  strong {
+	color: #74D136;
+}
+.downer  span {
+	color: #DEDEDE;
+	font-size: 0.9em;
+}
+.slash {
+	padding-left: 11px;	
+}
+.slash-2 {
+		padding-right: 10px;
+}
+.pt-page h2 {
+	position: absolute;
+	font-weight: 300;
+	line-height: 1;
+	letter-spacing: 6px;
+	margin: 0;
+	top: 6%;
+	width: 100%;
+	height: 10%;
+	text-align: center;
+	text-transform: uppercase;
+	word-spacing: -0.3em;
+   color: rgba(1,1,1,1,.9);
+   font: 'Lucida Grande', Tahoma, Verdana, sans-serif;
+	font-size: 1em;
+}
+.pt-page h3 {
+	font-size: 1em;
+	text-transform: uppercase;
+	padding-bottom: 5%;
+}
+.pt-page-1 {
+	background: transparent;
+}
+
+.pt-page-2 {
+	background: #121212;
+}
+.pt-page-3, .pt-page-4, .pt-page-5 {
+	background: #EDEDED;
+}
+.pt-page-6 {
+	background: transparent;
+}
+
+/* Triggers (menu and button) */
+
+.pt-trigger {
+	display: block;
+	background: transparent;
+	border: none;
+	height: 16.67%;
+}
+.pt-trigger img {
+	width: 100%;
+}
+.no-js .pt-triggers {
+	display: none;
+}
+.pt-message {
+	display: none;
+	position: absolute;
+	z-index: 99999;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #da475c;
+	color: #fff;
+	text-align: center;
+}
+
+.pt-message p {
+	margin: 0;
+	line-height: 60px;
+	font-size: 26px;
+}
+
+.no-cssanimations .pt-message {
+	display: block;
+}
+
+@media screen and (max-width: 47.4375em) {
+	.pt-page h1 {
+		font-size: 3em;
+	}
+
+	.pt-triggers .dl-menuwrapper {
+		display: none;
+	}
+}
+
+@media screen and (max-height: 45.9em) {
+	.pt-triggers .dl-menuwrapper li a {
+		padding-top: 2px;
+		padding-bottom: 2px;
+	}
+	.pt-triggers .dl-menuwrapper li.dl-back:after, .dl-menuwrapper li > a:not(:only-child):after {
+		line-height: 24px;
+	}
+}
+
+@media screen and (max-height: 38em) { 
+	.pt-triggers .dl-menuwrapper {
+		display: none;
+	}
+}
+
+video#bigvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: transparent;
+    background-size: cover; 
+}
+#container {
+	width: 100%;
+	margin: 10% auto;
+	background: transparent;
+}
+.column {
+	float: left;
+	margin-bottom: 2%;
+}
+.first{
+	width: 35%;
+	margin-left: 2.5%;
+}
+.second{
+		width: 27%;
+}
+.third {
+		width: 25%;
+	margin-right: 10.5%;
+}
+/*@group calendar*/
+.calendar {
+	width: 90%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.cal_row {
+	overflow: hidden;
+}
+.cal_row > div {
+	width: 14%;
+	height: 100px;
+	float: left;
+	display: block;
+	background: #fff;
+	border-bottom: 1px solid #e6e6e6;
+	border-right: 1px solid #e6e6e6;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.cal_row > div:hover {
+	cursor: pointer;
+	background: #f9f9f9;
+}
+.day_names.cal_row > div {
+	background: none;
+	font-weight: bold;
+}
+.day_names.cal_row > div:hover {
+	cursor: inherit;
+}
+.cal_row > div:first-child,
+.cal_row > div:nth-child(7n+8) {
+	border-left: 1px solid #e6e6e6;
+}
+.day_names.cal_row > div {
+	height: auto;
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 5px;
+	border-right-color: #fff;
+	border-left-color: #fff;
+}
+.cal_row .has_event {
+	background: #f9f9f9;
+}
+.cal_row > div i {
+	padding: 2px 0 0 4px;
+	display: block;
+	color: #222;
+}
+.cal_row > .prev_month i,
+.cal_row > .next_month i {
+	color: #999;
+}
+.cal_row > div a {
+	font-size: 11px;
+	padding: 4px;
+	line-height: 6px;
+}
+
+@media only screen and (max-width: 600px) {
+	.day_names.cal_row > div span {
+		display: none;
+	}
+	.cal_row > div {
+		height: 60px;
+	}
+}
+.in {
+	font-size: 6em;
+	color: #fff; 
+text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+               }

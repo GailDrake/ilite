@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page Transition Example</title>
+    <link rel="stylesheet" href="css/transition-animations.css"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+
+<body>
+
+<div class="pt-wrapper">
+    <div class="pt-trigger-container">
+        <button class="pt-trigger" data-animation="54" data-goto="1"><i class="fa fa-home fa-2x" style="color: #fff;"></i></button>
+        <button class="pt-trigger" data-animation="55" data-goto="2"><i class="fa fa-calendar fa-2x" style="color: #fff;"></i></button>
+        <button class="pt-trigger" data-animation="56" data-goto="3"><i class="fa fa-cog fa-2x" style="color: #fff;"></i></button>
+        <button class="pt-trigger" data-animation="57" data-goto="4"><i class="fa fa-code fa-2x" style="color: #fff;"></i></button>
+        <button class="pt-trigger" data-animation="58" data-goto="5"><i class="fa fa-leaf fa-2x" style="color: #fff;"></i></button>
+		<button class="pt-trigger" data-animation="58" data-goto="6"><i class="fa fa-leaf fa-2x" style="color: #fff;"></i></button>
+
+    </div>
+
+    <!--All Pages-->
+
+    <div class="pt-page pt-page-1 topper">
+       	<h1>WE  ARE ILITE.</h1>
+			 <video id="bigvid" height="100%" width="100%" autoplay loop controls muted>
+  <source src="assets/movie.mp4" type="video/mp4">
+</video> 
+    </div>
+    <div class="pt-page pt-page-2 downer dash">
+ 
+       <div id="header"><h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>DASHBOARD</strong></h1></div>
+      <div id="container">
+<div class="column first">
+<h3>UPCOMING EVENTS</h3>
+<div class="calendar">
+<div class="day_names cal_row">.
+<div>Sun</div>
+<div>Mon</div>
+<div>Tue</div>
+<div>Wed</div>
+<div>Thur</div>
+<div>Fri</div>
+<div>Sat</div>
+</div>
+<div class="cal_row">
+<div class="prev_month">
+<i>29</i>
+</div>
+<div class="prev_month">
+<i>30</i>
+</div>
+<div>
+<i>1</i>
+</div>
+<div>
+<i>2</i>
+</div>
+<div>
+<i>3</i>
+</div>
+<div>
+<i>4</i>
+</div>
+<div>
+<i>5</i>
+</div>
+<div>
+<i>6</i>
+</div>
+<div>
+<i>7</i>
+</div>
+<div>
+<i>8</i>
+</div>
+<div>
+<i>9</i>
+</div>
+<div class="has_event">
+<i>10</i>
+<a href="#">Bob - Anniversary</a>
+</div>
+<div>
+<i>11</i>
+</div>
+<div>
+<i>12</i>
+</div>
+<div>
+<i>13</i>
+</div>
+<div>
+<i>14</i>
+</div>
+<div>
+<i>15</i>
+</div>
+<div>
+<i>16</i>
+</div>
+<div>
+<i>17</i>
+</div>
+<div>
+<i>18</i>
+</div>
+<div>
+<i>19</i>
+</div>
+<div>
+<i>20</i>
+</div>
+<div>
+<i>21</i>
+</div>
+<div>
+<i>22</i>
+</div>
+<div>
+<i>23</i>
+</div>
+<div>
+<i>24</i>
+</div>
+<div>
+<i>25</i>
+</div>
+<div>
+<i>26</i>
+</div>
+<div>
+<i>27</i>
+</div>
+<div>
+<i>28</i>
+</div>
+<div>
+<i>29</i>
+</div>
+<div>
+<i>30</i>
+</div>
+<div>
+<i>31</i>
+</div>
+<div class="next_month">
+<i>June 1</i>
+</div>
+<div class="next_month">
+<i>2</i>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="column second">
+<h3>IN THE NEWS</h3>
+<h3>SOCIAL MEDIA</h3>
+
+</div>
+
+<div class="column third">
+<h3>IMPORTANT NUMBERS</h3>
+<span class="in">1135+</span><br><hr class="short">People Inspired<br>
+<span class="in">11+</span><br><hr class="short">Years in the Making<br>
+<span class="in">1</span><br><hr class="short">Multifaceted Vision<br>
+<h3>PILLAR WEBSITES</h3>
+</div>
+
+</div>
+    </div>
+    <div class="pt-page pt-page-3 downer robo">
+        <h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>ROBOTICS</strong></h1>
+    </div>
+    <div class="pt-page pt-page-4 downer cyber">
+             <h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>CYBER</strong></h1>
+    </div>
+    <div class="pt-page pt-page-5 downer sustain">
+             <h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>SUSTAINABILITY</strong></h1>
+    </div>
+    <div class="pt-page pt-page-6 downer">
+        <h1><strong>GET CONNECTED</strong></h1>
+    </div>
+
+</div>
+
+
+
+<div class="pt-message">
+    <p>Your browser does not support CSS animations.</p>
+</div>
+
+<script src="js/jquery-2.1.3.min.js"></script>
+<script src="js/transition.js"></script>
+
+</body>
+</html>
