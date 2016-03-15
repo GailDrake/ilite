@@ -22412,3 +22412,7 @@ caption {
   padding: 14px 20px;
   margin-bottom: 0;
 }
+.post-thumb img {
+  display: block;
+  height: 200px;
+}
