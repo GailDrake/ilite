@@ -22360,6 +22360,9 @@ caption {
   float: left;
   padding-right: 50px;
 }
+.contentcontent {
+  max-width: 1100px;
+}
 .home__img-holder {
   display: flex;
   height: 200px;
@@ -22400,6 +22403,14 @@ caption {
 }
 .home__img-holder .home__img.champs-2015 {
   background-image: url("http://iliterobotics.org/wp-content/uploads/2015/04/FIRST-2015-Greater-DC-Regional-5224-X21-1024x419.jpg");
+}
+.outreach__image {
+  height: 400px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .flexbox-columns {
   display: flex;

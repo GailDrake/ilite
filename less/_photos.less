@@ -1,6 +1,12 @@
+// Problem: container div is too wide, tracking the text out too far on large screens
+// Solution: set max-width, so that they will only grow so big. max-width overrides
+// the 90% width, but otherwise there is a nice margin.
+.contentcontent {
+  max-width: 1100px;
+}
+
 // Problem: images stretched to fit in div
-// Solution:
-// I switched the images from inline <img/> elements to background-images to take advantage of
+// Solution: I switched the images from inline <img/> elements to background-images to take advantage of
 // the background-size and background-position properties. The images can either
 // be cropped to cover a div of any dimension without stretching {background-size: cover}
 // or kept centered {background-size: contain; background-position: center;}
@@ -52,6 +58,16 @@
   .home__img.champs-2015 {
     background-image: url( "http://iliterobotics.org/wp-content/uploads/2015/04/FIRST-2015-Greater-DC-Regional-5224-X21-1024x419.jpg" );
   }
+}
+
+// Similar fix as above, except I assigned the background image url inline, for easy editing.
+.outreach__image {
+  height: 400px;
+  max-width: 800px;
+  margin: 0 auto; // centers when it's over it's max width
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
