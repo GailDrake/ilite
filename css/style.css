@@ -22427,3 +22427,59 @@ caption {
   display: block;
   height: 200px;
 }
+.sponsorbig,
+.sponsormed,
+.sponsorsmall {
+  clear: both;
+  height: auto;
+  min-height: 200px;
+  overflow: hidden;
+}
+.sponsorbig .sponsor__image,
+.sponsormed .sponsor__image,
+.sponsorsmall .sponsor__image {
+  display: flex;
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+.sponsorbig .sponsor__image img,
+.sponsormed .sponsor__image img,
+.sponsorsmall .sponsor__image img {
+  margin: auto;
+  height: auto;
+  width: 100%;
+}
+.sponsorbig .sponsor__text,
+.sponsormed .sponsor__text,
+.sponsorsmall .sponsor__text {
+  display: flex;
+  float: left;
+  min-height: 200px;
+  width: calc( 100% - 200px);
+}
+.sponsorbig .sponsor__text span,
+.sponsormed .sponsor__text span,
+.sponsorsmall .sponsor__text span {
+  display: inline-block;
+  margin: auto 0 auto 20px;
+}
+.sponsors__hr {
+  clear: both;
+}
+@media all and (max-width: 767px) {
+  .sponsorbig .sponsor__image,
+  .sponsormed .sponsor__image,
+  .sponsorsmall .sponsor__image {
+    display: flex;
+    margin: 0 auto;
+    float: none;
+  }
+  .sponsorbig .sponsor__text,
+  .sponsormed .sponsor__text,
+  .sponsorsmall .sponsor__text {
+    float: none;
+    width: 100%;
+    min-height: auto;
+  }
+}
