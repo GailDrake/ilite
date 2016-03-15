@@ -1,201 +1,525 @@
-<!DOCTYPE html>
-<html>
-
+﻿<!doctype html>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-gb" class="no-js"> <!--<![endif]-->
 <head>
-    <title>Page Transition Example</title>
-    <link rel="stylesheet" href="css/transition-animations.css"/>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/style.css"/>
+	<title>ILITE Robotics | Home</title>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+    <link rel="shortcut icon" type="image/png" href="images/favicon-gray.png"/>  
+	<link rel="shortcut icon" href="images/favicon.html">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+       
+    <!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/simpleline-icons/simple-line-icons.css" media="screen" />
+    <link href="js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" media="screen" href="responsive-layouts.css" type="text/css" />
+    <link rel="stylesheet" href="js/flexslider/flexslider.css" type="text/css" media="screen" />
+ 	<link rel="stylesheet" type="text/css" href="js/flexslider/skin.css" />  
 </head>
 
 <body>
 
-<div class="pt-wrapper">
-    <div class="pt-trigger-container">
-        <button class="pt-trigger" data-animation="54" data-goto="1"><i class="fa fa-home fa-2x" style="color: #fff;"></i></button>
-        <button class="pt-trigger" data-animation="55" data-goto="2"><i class="fa fa-calendar fa-2x" style="color: #fff;"></i></button>
-        <button class="pt-trigger" data-animation="56" data-goto="3"><i class="fa fa-cog fa-2x" style="color: #fff;"></i></button>
-        <button class="pt-trigger" data-animation="57" data-goto="4"><i class="fa fa-code fa-2x" style="color: #fff;"></i></button>
-        <button class="pt-trigger" data-animation="58" data-goto="5"><i class="fa fa-leaf fa-2x" style="color: #fff;"></i></button>
-		<button class="pt-trigger" data-animation="58" data-goto="6"><i class="fa fa-leaf fa-2x" style="color: #fff;"></i></button>
+<div class="site_wrapper">
 
+<div id="wrap">
+
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+
+<section class="navigation">
+      <div class="nav-container">
+        <div class="brand">
+          <a href="../index.html"><img src="images/logo24.png" style="width: 150px; height: 90px; padding-top: 13px;"></a>
+        </div>
+        <nav>
+          <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
+          <ul class="nav-list">
+            <li>
+              <a href="#"><i class="fa fa-home bold"></i></a>
+            </li>
+            <li>
+              <a href="#" class="topnav">About</a>
+                 <ul class="nav-dropdown">
+                <li>
+                  <a href="about/missionandvision.html">Mission & Vision</a>
+                </li>
+                <li>
+                  <a href="about/organization.html">Organization</a>
+                </li>
+                <li>
+                  <a href="about/teamhistory.html">Team History</a>
+                </li>
+                <li>
+                  <a href="about/members.html">Members</a>
+                </li>
+				 <li>
+                  <a href="about/sponsors.html">Sponsors</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#!" class="topnav">FIRST</a>
+              <ul class="nav-dropdown">
+                <li>
+                  <a href="first/season.html">2016 Season</a>
+                </li>
+                <li>
+                  <a href="first/whatisfirst.html">What is FIRST?</a>
+                </li>
+                <li>
+                  <a href="first/firstprograms.html">FIRST Programs</a>
+                </li>
+                <li>
+                  <a href="first/scholarships.html">Scholarships</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#!" class="topnav">Community</a>
+                 <ul class="nav-dropdown">
+				 <li>
+                  <a href="community/iliteevents.html">ILITE Events</a>
+                </li>
+                <li>
+                  <a href="community/usstemfoundation.html">US STEM Foundation</a>
+                </li>
+                <li>
+                  <a href="community/firstcampaign.html">FIRST Campaign</a>
+                </li>
+                <li>
+                  <a href="community/outreach.html">Additional Outreach</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#!" class="topnav">Media</a>
+                 <ul class="nav-dropdown">
+                <li>
+                  <a href="media/contactus.html">Contact Us</a>
+                </li>
+                <li>
+                  <a href="media/press.html">Press</a>
+                </li>
+                <li>
+                  <a href="media/photosvideos.html">Photos/Videos</a>
+                </li>
+              </ul>
+            </li>
+                         <li>
+              <a href="#!" class="topnav">ILITE EVENTS</a>
+                 <ul class="nav-dropdown">   
+                <li>
+                  <a href="iliteevents/haymakerstemexpo.html">HayMaker Stem Expo</a>
+                </li>
+					<li>
+                  <a href="iliteevents/districtfrccompetition.html">District FRC Competition</a>
+                </li>
+				<li>
+                  <a href="iliteevents/summercampss2016.html">Summer Camps 2016</a>
+                </li>
+                <li>
+                  <a href="iliteevents/regionalftccompetition.html">Regional FTC Competition</a>
+                </li>
+                <li>
+                  <a href="iliteevents/iroc.html">IROC</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#!"><span class="bold">Get Involved</span></a>
+   <ul class="nav-dropdown">
+    <li>
+                  <a href="getinvolved/whereisilite.html">Where is ILITE?</a>
+                </li>
+                <li>
+                  <a href="getinvolved/volunteereventportal.html">Volunteer Event Portal</a>
+                </li>
+                <li>
+                  <a href="getinvolved/studenteventportal.html">Student Event Portal</a>
+                </li>
+                
+				    <li>
+                  <a href="getinvolved/becomeasponsor.html">Become a Sponsor</a>
+                </li>
+				 <li>
+                  <a href="getinvolved/becomeamember.html">Become a Member</a>
+                </li>
+				  <li>
+                  <a href="getinvolved/becomeamentor.html">Become a Mentor</a>
+                 
+                </li>
+                 <li>
+                  <a href="getinvolved/firstfuel.html">FIRST Fuel</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </div>
+  
+<div class="clearfix"></div>
+
+</div><!-- end home section -->
+
+<div class="clearfix"></div>
+
+</div><!-- end home section -->
+
+
+<div class="clearfix"></div>
+
+
+<div id="wrap2">
+<div class="margin_top11"></div>
+
+<div class="container">
+
+ <div class="stcode_titleA1">
+    	<h1 class="roboto white caps">
+            <em>WE ARE FRC TEAM 1885:</em>
+            <strong> ILITE ROBOTICS</strong>
+            <span class="line white"></span>
+        </h1>
+	</div><!-- end title -->
+	
+    <div class="less5 centf bigtfont gray">Here at ILITE First Team 1885, we believe that every student is a leader. Through our different subteams of business, graphics, electronics, programming, and build, we work very hard to give every team member the opportunity to learn and lead. We have created an environment in which FIRST Robotics is so loved that our alumni volunteer across the nation even after graduating. </div><br>
+	
+	<div class="less5 centf bigtfont gray">Our leadership reaches beyond of FIRST Team 1885. We have created an identity for ourselves in our community, county, state, and nation. ILITE reaches out to our community through town festivals, charitable involvement, elementary school tutoring, and hosting our annual Haymaker STEM Expo. On a broader scale, ILITE members have lobbied politicians through their School Board and meetings at the Capitol to encourage the advancement of STEM in education. </div><br>
+	
+	<div class="less5 centf bigtfont gray">Whether it be through our summer camps that teach hundreds of students about STEM, or our annually-hosted FIRST competitions, ILITE continuously inspires those around them. We strive to embody the FIRST mission of "More than Robots" in all we do."</div>
+    <div class="clearfix margin_bottom5"></div>
+        
+    <p class="alicent"><a href="about/missionandvision.html" class="button ththree">LEARN MORE ABOUT US!</a></p>
+    
+    
+</div><!-- end section -->
+       
+   <div class="clearfix margin_top12"></div>
+
+<div id="wrap5">
+
+<div class="featured_section142 A">
+<div class="container">
+
+    <div class="stcode_title14">
+    	<h1 class="roboto dark caps">
+            <strong>Upcoming Events</strong>
+            <span class="line"></span>
+        </h1>
+	</div><!-- end title -->
+    
+
+    <div class="clearfix margin_top3"></div>
+    
+	<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
+    
+		<a href="#"><img src="images/site-img251.jpg" alt="" class="rimg" /></a>
+        
+        <div class="addes">
+        	<em><a href="#"><i class="fa fa-map-marker"></i> Google Map</a></em>
+            <strong>FRC Districts, ILITE Hosted</strong>
+			<strong>March 5th - March 6th</strong>
+			15000 Graduation Dr, Haymarket, VA 20169
+		</div>
+
+        
+	</div><!-- end section -->
+    
+    <div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="250">
+    
+		<a href="#"><img src="images/site-img259.jpg" alt="" class="rimg" /></a>
+        
+        <div class="addes">
+        	
+                  <strong>RoboProm, ILITE Hosted</strong>
+				  <strong>March 5th @ 9:00 pm - 10:00 pm</strong>
+			15000 Graduation Dr, Haymarket, VA 20169
+		</div>
+    	
+        
+        
+	</div><!-- end section -->
+    
+    <div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
+    
+		<a href="#"><img src="images/site-img252.jpg" alt="" class="rimg" /></a>
+        
+        <div class="addes">
+        	<em><a href="#"><i class="fa fa-map-marker"></i> Google Map</a></em>
+                  <strong>2016 Summer Camps</strong>
+				  <strong>TBD</strong>
+			15000 Graduation Dr, Haymarket, VA 20169
+		</div>
+
+        
+	</div><!-- end section -->   
+</div>
+</div> <!-- end featured section 142 -->
+
+<div class="featured_section142 B">
+<div class="container">
+
+    <div class="stcode_title15">
+    	<h1 class="roboto dark caps">
+            <strong>News</strong>
+            <span class="line"></span>
+        </h1>
+	</div><!-- end title -->
+    
+    <div class="clearfix margin_top3"></div>
+    
+	<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
+    
+		<a href="http://www.northernvatimes.com/gainesville/article/battlefield-hosts-stem-expo-jan.-23"><img src="images/site-img250.jpg" alt="" class="rimg" /></a>
+        
+        <div class="addes">
+        	 <strong>ILITE Hosts HayMaker STEM Expo</strong>
+			 In the midst of build season, ILITE hosted a STEM Expo where the team exhibited many different fun, educational activities.
+		</div>
+    	
+     
+        
+	</div><!-- end section -->
+    
+    <div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="250">
+    
+		<a href="http://patch.com/virginia/manassas/frc-robotics-teams-compete-ilite-robotics-season-challenge-iroc-battlefield-high-school-haymarket-va"><img src="http://cdn.patch.com/users/22871327/2015/11/T800x600/201511564137d64beca.jpg" alt="" class="rimg" /></a><div class="addes">
+        	 <strong>ILITE Hosts & Shines at IROC</strong>
+			 IROC is a FIRST robotics off season hosted annually by Battlefield High School FRC Team 1885, ILITE Robotics in Haymarket
+		</div>
+    	
+        
+	</div><!-- end section -->
+    
+    <div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
+    
+		<a href="http://www.connectionnewspapers.com/news/2014/apr/03/area-robotics-teams-compete-patriot-center/"><img src="http://iliterobotics.org/wp-content/uploads/2015/04/FIRST-2015-Greater-DC-Regional-5224-X21-1024x419.jpg" alt="" class="rimg" /></a>
+        
+        <div class="addes">
+        	 <strong>ILITE @ World Championships 2015</strong>
+			 ILITE does it again! FRC Team 1885, ILITE qualified by winning the DC Regional Chairman’s Award, thus earning a spot in the World Championship. 
+		</div>
+    	
+        
+	</div><!-- end section -->   
+</div>
+</div> <!-- end featured section 142 -->
+
+<div class="clearfix"></div>
+
+
+<div class="parallax_section1 sthree">
+<div class="container">
+	
+    <div class="stcode_title14">
+    	<h1 class="roboto white caps">
+            <em>for their continued their support</em>
+            <strong>We would like to thank our sponsors</strong>
+            <span class="line white"></span>
+        </h1>
+	</div><!-- end title -->
+    
+    <div class="clearfix"></div>
+    
+	<div class="flexslider carousel">
+        <ul class="slides">
+                 
+            <li>
+                  	<img src="images/sponsors/1.jpg" alt="" />
+                <h6>- NetApp -</h6>
+			</li><!-- end slide -->
+            
+                 <li>
+                  	<img src="images/sponsors/2.png" alt="" />
+                <h6>- A1 FloodTech-</h6> 
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/3.png" alt="" />
+                <h6>- Lockheed Martin-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/4.png" alt="" />
+                <h6>- Battlefield High School -</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/5.png" alt="" />
+                <h6>- Data Sync -</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/6.png" alt="" />
+                <h6>- Macedon Technologies-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/7.png" alt="" />
+                <h6>- FRDA-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/8.jpg" alt="" />
+                <h6>- Bell Pump & Well Inc.-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/9.png" alt="" />
+                <h6>- InCadence-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/10.jpg" alt="" />
+                <h6>- Geico-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/11.png" alt="" />
+                <h6>- Evolution Environmental Group-</h6>]
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/12.jpg" alt="" />
+                <h6>- Novec </h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/13.gif" alt="" />
+                <h6>- AFCEA-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/14.png" alt="" />
+                <h6>- ASCO: American Stripping Co.-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/15.png" alt="" />
+                <h6>- PWCS -</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/16.png" alt="" />
+                <h6>- Wanderstock Photography-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/17.png" alt="" />
+                <h6>- US STEM Foundation-</h6>
+			</li><!-- end slide -->
+
+     <li>
+                  	<img src="images/sponsors/18.png" alt="" />
+                <h6>- Geico-</h6>
+			</li><!-- end slide -->
+
+                
+     <li>
+                  	<img src="images/sponsors/19.jpg" alt="" />
+                <h6>- A -</h6>
+			</li><!-- end slide -->
+
+		</ul>
+	</div>
+
+</div>
+</div><!-- end parallax section 1 -->
+
+
+</div><!-- end events section -->
+
+<div class="clearfix"></div>
+
+
+<div id="wrap7">
+
+<div class="featured_section82 three">
+    <div class="ovfull_container">
+    
+        <div class="box animate" data-anim-type="fadeInRight" data-anim-delay="200">
+            <a href="mailto:team1885@gmail.com?Subject=ILITE%ROBOTICS:" target="_top"><i class="fa fa-envelope-o"></i></a>
+            <a href="http://maps.google.com/maps/place/Battlefield+High+School,+15000+Graduation+Dr,+Haymarket,+VA+20169/@38.8450007,-77.6304667,17z/data=!4m2!3m1!1s0x89b668be1850b531:0x54b85e4d7455f560"><i class="fa fa-map-marker"></i></a>
+               <a href="https://calendar.google.com/calendar/embed?src=dGVhbTE4ODVAZ21haWwuY29t"><i class="fa fa-calendar"></i></a>
+        </div><!-- end section -->
+        
+        <div class="box animate" data-anim-type="fadeInRight" data-anim-delay="400">
+                    <a href="http://instagram.com/team1885"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/team1885"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.facebook.com/iliterobotics/"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.youtube.com/channel/UCCWs22DHGwRloB613zOJ9UA"><i class="fa fa-youtube"></i></a>
+        
+        </div><!-- end section -->
+        
+        <div class="box last animate" data-anim-type="fadeInRight" data-anim-delay="550">
+            <a href="index.html"><i class="fa fa-cog"></i></a>
+			       <a href="#"><i class="fa fa-code"></i></a>
+            <a href="#"><i class="fa fa-leaf"></i></a>
+            </div><!-- end section -->
+    
     </div>
-
-    <!--All Pages-->
-
-    <div class="pt-page pt-page-1 topper">
-       	<h1>WE  ARE ILITE.</h1>
-			 <video id="bigvid" height="100%" width="100%" autoplay loop controls muted>
-  <source src="assets/movie.mp4" type="video/mp4">
-</video> 
+    </div><!-- end featured section 82 -->   
+    
+    <div class="clearfix"></div>
+    
+    <div class="featured_section208 three">
+    <div class="ctmidarea ovfull_container">
+    
+        1500 Graduation Drive, Haymarket, VA 20169 <span>© 2016 ILITE Robotics. All rights reserved.</span>
+        
+        
     </div>
-    <div class="pt-page pt-page-2 downer dash">
- 
-       <div id="header"><h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>DASHBOARD</strong></h1></div>
-      <div id="container">
-<div class="column first">
-<h3>UPCOMING EVENTS</h3>
-<div class="calendar">
-<div class="day_names cal_row">.
-<div>Sun</div>
-<div>Mon</div>
-<div>Tue</div>
-<div>Wed</div>
-<div>Thur</div>
-<div>Fri</div>
-<div>Sat</div>
-</div>
-<div class="cal_row">
-<div class="prev_month">
-<i>29</i>
-</div>
-<div class="prev_month">
-<i>30</i>
-</div>
-<div>
-<i>1</i>
-</div>
-<div>
-<i>2</i>
-</div>
-<div>
-<i>3</i>
-</div>
-<div>
-<i>4</i>
-</div>
-<div>
-<i>5</i>
-</div>
-<div>
-<i>6</i>
-</div>
-<div>
-<i>7</i>
-</div>
-<div>
-<i>8</i>
-</div>
-<div>
-<i>9</i>
-</div>
-<div class="has_event">
-<i>10</i>
-<a href="#">Bob - Anniversary</a>
-</div>
-<div>
-<i>11</i>
-</div>
-<div>
-<i>12</i>
-</div>
-<div>
-<i>13</i>
-</div>
-<div>
-<i>14</i>
-</div>
-<div>
-<i>15</i>
-</div>
-<div>
-<i>16</i>
-</div>
-<div>
-<i>17</i>
-</div>
-<div>
-<i>18</i>
-</div>
-<div>
-<i>19</i>
-</div>
-<div>
-<i>20</i>
-</div>
-<div>
-<i>21</i>
-</div>
-<div>
-<i>22</i>
-</div>
-<div>
-<i>23</i>
-</div>
-<div>
-<i>24</i>
-</div>
-<div>
-<i>25</i>
-</div>
-<div>
-<i>26</i>
-</div>
-<div>
-<i>27</i>
-</div>
-<div>
-<i>28</i>
-</div>
-<div>
-<i>29</i>
-</div>
-<div>
-<i>30</i>
-</div>
-<div>
-<i>31</i>
-</div>
-<div class="next_month">
-<i>June 1</i>
-</div>
-<div class="next_month">
-<i>2</i>
-</div>
-</div>
-</div>
-</div>
+    </div><!-- end featured section 208 -->
 
 
-<div class="column second">
-<h3>IN THE NEWS</h3>
-<h3>SOCIAL MEDIA</h3>
+</div><!-- end contact section -->
 
-</div>
 
-<div class="column third">
-<h3>IMPORTANT NUMBERS</h3>
-<span class="in">1135+</span><br><hr class="short">People Inspired<br>
-<span class="in">11+</span><br><hr class="short">Years in the Making<br>
-<span class="in">1</span><br><hr class="short">Multifaceted Vision<br>
-<h3>PILLAR WEBSITES</h3>
-</div>
-
-</div>
-    </div>
-    <div class="pt-page pt-page-3 downer robo">
-        <h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>ROBOTICS</strong></h1>
-    </div>
-    <div class="pt-page pt-page-4 downer cyber">
-             <h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>CYBER</strong></h1>
-    </div>
-    <div class="pt-page pt-page-5 downer sustain">
-             <h1>ILITE<span class="slash">/</span><span class="slash-2">/</span><strong>SUSTAINABILITY</strong></h1>
-    </div>
-    <div class="pt-page pt-page-6 downer">
-        <h1><strong>GET CONNECTED</strong></h1>
-    </div>
+<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
 </div>
 
 
+<!-- ######### JS FILES ######### -->
+<!-- get jQuery used for the theme -->
+			
+<script type="text/javascript" src="js/universal/jquery.js"></script>
+<script src="js/animations/js/animations.min.js" type="text/javascript"></script>
 
-<div class="pt-message">
-    <p>Your browser does not support CSS animations.</p>
-</div>
+<script src="js/onepage3/bootstrap.min.js"></script>
+<script src="js/onepage3/jPinning.js"></script>
 
-<script src="js/jquery-2.1.3.min.js"></script>
-<script src="js/transition.js"></script>
+<script src="js/scrolltotop/totop.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/mainmenu/modernizr.custom.75180.js"></script>
+
+<script type="text/javascript" src="js/cubeportfolio/jquery.cubeportfolio.min.js"></script>
+<script type="text/javascript" src="js/cubeportfolio/main41.js"></script>
+
+<script src="js/carouselowl/owl.carousel.js"></script>
+
+<script type="text/javascript" src="js/cform/form-validate.js"></script>
+
+<script src="js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
+
+<script src="js/progressbar/progress.js" type="text/javascript" charset="utf-8"></script>
+
+<script defer src="js/flexslider/jquery.flexslider.js"></script>
+<script defer src="js/flexslider/custom.js"></script>
+
 
 </body>
 </html>
