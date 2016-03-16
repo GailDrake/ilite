@@ -1,21 +1,21 @@
 // Problem: container div is too wide, tracking the text out too far on large screens
 // Solution: set max-width, so that they will only grow so big. max-width overrides
-// the 90% width, but otherwise there is a nice margin.
+//   the 90% width, but otherwise there is a nice margin.
 .contentcontent {
   max-width: 1100px;
 }
 
 // Problem: images stretched to fit in div
 // Solution: I switched the images from inline <img/> elements to background-images to take advantage of
-// the background-size and background-position properties. The images can either
-// be cropped to cover a div of any dimension without stretching {background-size: cover}
-// or kept centered {background-size: contain; background-position: center;}
-// Contain works great for logos, or other images that can't be cropped.
-// Cover works great for making sure your images span the full div.
+//   the background-size and background-position properties. The images can either
+//   be cropped to cover a div of any dimension without stretching {background-size: cover}
+//   or kept centered {background-size: contain; background-position: center;}
+//   Contain works great for logos, or other images that can't be cropped.
+//   Cover works great for making sure your images span the full div.
 
 // note: I also removed the <a> tags for the Upcoming Events, since they didnt'
-// lead anywhere. You can just replace the <div> with <a>, but keep the class on
-// the element.
+//   lead anywhere. You can just replace the <div> with <a>, but keep the class on
+//   the element.
 
 .home__img-holder {
   display: flex;
@@ -73,7 +73,7 @@
 
 // Problem: div heights in column don't line up. Text length is determining div height
 // Solution: Set a flex height to the wrapping div. Have to wrap the columns in
-// a wrapper <div> to support flexbox
+//   a wrapper <div> to support flexbox
 
 .flexbox-columns {
   display: flex; // makes all columns the same height

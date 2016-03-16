@@ -22360,6 +22360,10 @@ caption {
   float: left;
   padding-right: 50px;
 }
+.raleway-bold {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
 .contentcontent {
   max-width: 1100px;
 }
@@ -22426,6 +22430,57 @@ caption {
 .post-thumb img {
   display: block;
   height: 200px;
+}
+.home__section-header {
+  margin-top: 70px;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.0625em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  color: #242424;
+}
+.home__section-sub-header {
+  margin-top: 30px;
+  font-size: 18px;
+  text-align: center;
+  color: #959595;
+}
+.home__section-header.white,
+.home__section-sub-header.white {
+  color: #fff;
+}
+.home__sponsors {
+  background-color: #fff;
+  overflow: hidden;
+}
+.home__sponsors .home__sponsors__container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.home__sponsors .home__sponsors__logo-wrap {
+  margin: 50px 0;
+  text-align: center;
+}
+.home__sponsors .home__sponsors__logo-link {
+  display: inline-block;
+  margin: 10px 20px;
+}
+.home__sponsors .home__sponsors__logo {
+  height: 80px;
+  width: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+@media all and (max-width: 479px) {
+  .home__sponsors .home__sponsors__logo-link {
+    margin: 10px 5px;
+  }
+  .home__sponsors .home__sponsors__logo {
+    width: 140px;
+  }
 }
 .sponsorbig,
 .sponsormed,
