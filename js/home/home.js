@@ -8,14 +8,11 @@ $( document ).ready(function() {
 	    // Things to do based on scroll height - called in function so height can be "checked" on load
 	    var scrollPosition = window.pageYOffset;
 
-			console.log( scrollPosition );
 	    if ( scrollPosition > 10 && scrollPosition < homeBannerHeight ) {
-				console.log( 'A')
 	        $( "#wrap" ).addClass( 'fade-nav' );
 	    }
 
 	    if ( scrollPosition < 10 || scrollPosition > homeBannerHeight ) {
-				console.log( 'B')
 	        $( "#wrap" ).removeClass( 'fade-nav' );
 	    }
 

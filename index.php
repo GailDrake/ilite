@@ -266,13 +266,14 @@
 <div class="clearfix"></div>
 
 
-<?php include "../includes/footer.php" ?>
+<?php include "includes/footer.php" ?>
 
 
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
 </div>
 
+<?php include "includes/side-menu.php" ?>
 
 <!-- ######### JS FILES ######### -->
 <?php include "includes/javascript.php" ?>

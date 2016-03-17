@@ -9,13 +9,11 @@ var Ilite = {
     // A simple dropdown
     // Click is disabled if mouseover has fired
     trigger.on( 'click', function () {
-      console.log('click')
       if( !trigger.hasClass( 'moused' ) ){
         dropdown.stop().slideToggle();
       }
     });
     trigger.on( 'mouseenter', function () {
-      console.log('mouseenter')
       trigger.addClass( "moused" );
       dropdown.stop().slideDown();
     });
@@ -27,25 +25,6 @@ var Ilite = {
   }
 };
 
-var IliteDropdown = function ( trigger, dropdown ) {
-  // A simple dropdown
-  // Click is disabled if mouseover has fired
-  trigger.on( 'click', function () {
-    if( !trigger.hasClass( 'moused' ) ){
-      dropdown.stop().slideToggle();
-    }
-  });
-  trigger.on( 'mouseenter', function () {
-    trigger.addClass( "moused" );
-    dropdown.stop().slideDown();
-  });
-  trigger.on( 'mouseleave', function () {
-    trigger.removeClass( "moused" );
-    dropdown.stop().slideUp();
-  });
-
-}
-
 // jQuery is ready:
 $( document ).ready(function() {
   // initialize dropdowns
@@ -54,4 +33,18 @@ $( document ).ready(function() {
   Ilite.dropdown( $( '#nav__first' ), $( '#nav__first__wrapper' ) );
   Ilite.dropdown( $( '#nav__community' ), $( '#nav__community__wrapper' ) );
   Ilite.dropdown( $( '#nav__involved' ), $( '#nav__involved__wrapper' ) );
+
+  // /* Side menu slideout
+  // --------------------------------------------------------------------------------------------------------------- */
+  $( '#burger' ).on( "click", function() {
+    console.log('clicker')
+    if( $( '#wrap' ).hasClass( 'right-0' ) ){
+      $( '#wrap, #navigation' ).removeClass( 'right-0' ).addClass( 'right-240' );
+      $( '#side-menu' ).removeClass( 'width-0' ).addClass( 'width-240' );
+    } else {
+      $( '#wrap, #navigation' ).removeClass( 'right-240' ).addClass( 'right-0' );
+      $( '#side-menu' ).removeClass( 'width-240' ).addClass( 'width-0' );
+    }
+  });
+
 });
