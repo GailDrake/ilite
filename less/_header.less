@@ -1,0 +1,103 @@
+
+
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  margin: 0;
+  border: none;
+  background: #fff;
+  box-shadow: none;
+  .nav-container {
+    text-align: right;
+  }
+  .nav__logo {
+    display: block;
+    position: absolute;
+    height: 76px;
+    width: 133px;
+    top: 5px;
+    left: 30px;
+    background-image: url( "../images/ilite-logo.png" );
+    background-repeat: no-repeat;
+  }
+  .nav__link {
+    display: inline-block;
+    position: relative;
+    margin: 30px 15px 0;
+    padding-right: 15px;
+    .raleway-bold;
+    font-size: 13px;
+    letter-spacing: 0.0625em;
+    color: @text-med;
+    cursor: pointer;
+  }
+  .nav__link.no-caret {
+    padding-right: 0;
+  }
+  .nav__link.action {
+    color: @green-light;
+    .caret {
+      border-top: 	5px solid @green-light;
+    }
+  }
+  .nav__link:hover {
+    color: @purple-dark;
+  }
+  .caret {
+    position: absolute;
+    right: 3px;
+    top: 9px;
+    border-top: 	5px solid @text-med;
+    border-left: 	4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  .nav__link__wrapper {
+    display: none;
+    position: absolute;
+    left: -10px;
+    right: -20px;
+    background-color: #fff;
+  }
+  .nav__link__target {
+    display: block;
+    width: 100%;
+    padding: 0.25em 0.25em 0.25em 1em;
+    text-align: left;
+    background-color: #fff;
+    color: @text-light;
+  }
+  .nav__link__target:hover {
+    background-color: @text-light;
+    color: @text-dark;
+  }
+}
+
+// Home page is a bit different
+.home {
+  .navigation {
+    background: transparent;
+    .nav__logo {
+      height: 71px;
+      width: 129px;
+      background-image: url( "../images/ilite-logo__white.png" );
+    }
+    .nav__link {
+      color: #fff;
+    }
+    .nav__link.action {
+      color: @green-light;
+      .caret {
+        border-top: 	5px solid @green-light;
+      }
+    }
+    .nav__link:hover {
+      color: @text-light;
+    }
+    .caret {
+      border-top: 	5px solid #fff;
+    }
+  }
+}
