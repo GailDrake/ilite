@@ -22603,6 +22603,8 @@ span {
   border: none;
   background: #fff;
   box-shadow: none;
+  opacity: 1;
+  transition: opacity 200ms ease-out 50ms;
 }
 .navigation .nav-container {
   position: absolute;
@@ -22710,6 +22712,10 @@ span {
 }
 .home .home__top-style .navigation .caret {
   border-top: 5px solid #fff;
+}
+.home .fade-nav .navigation {
+  opacity: 0;
+  pointer-events: none;
 }
 @media all and (min-width: 768px) and (max-width: 960px) {
   .navigation .nav__link {
