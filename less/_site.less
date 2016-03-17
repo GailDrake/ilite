@@ -9,3 +9,11 @@ a {
 p {
   text-indent: inherit;
 }
+
+// Set .desktop-break in a span tag, and the content inside will be in a new line,
+//   but only above the size in the media break.  
+@media all and (min-width: 768px){
+  .desktop-break {
+    display: block;
+  }
+}

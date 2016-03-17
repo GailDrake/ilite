@@ -69,25 +69,3 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-
-// Problem: div heights in column don't line up. Text length is determining div height
-// Solution: Set a flex height to the wrapping div. Have to wrap the columns in
-//   a wrapper <div> to support flexbox
-
-.flexbox-columns {
-  display: flex; // makes all columns the same height
-  width: 100%;
-  .one_third {
-    background-color: #fff;
-  }
-  .addes {
-    padding: 14px 20px; // padding wasn't centered
-    margin-bottom: 0;
-  }
-}
-
-.post-thumb img {
-  display: block;
-  height: 200px;
-}
