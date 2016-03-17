@@ -34,6 +34,7 @@ $( document ).ready(function() {
   Ilite.dropdown( $( '#nav__community' ), $( '#nav__community__wrapper' ) );
   Ilite.dropdown( $( '#nav__involved' ), $( '#nav__involved__wrapper' ) );
 
+  console.log('clicker here')
   // /* Side menu slideout
   // --------------------------------------------------------------------------------------------------------------- */
   $( '#burger' ).on( "click", function() {

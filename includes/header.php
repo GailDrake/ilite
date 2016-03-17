@@ -1,6 +1,10 @@
 <nav id="navigation" class="navigation">
   <a class="nav__logo" href="../index.php"></a>
-  <div class="nav-mobile"><div id="nav-toggle"><span></span></div></div>
+
+  <div id="burger">
+
+    <div class="nav-mobile"><div id="nav-toggle"><span></span></div></div>
+  </div>
 
   <div class="nav-container">
 

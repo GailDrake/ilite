@@ -1,4 +1,4 @@
-<nav id='menu' class='menu width-0'>
+<nav id='side-menu' class='menu width-0'>
 	<div class='menu-box'>
 		<ul class='menu-list'>
 			<li><a class='menu-link' href='index.html'>Home</a></li>
