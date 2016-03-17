@@ -1,0 +1,51 @@
+
+
+
+
+// Adding a new background image (this class was added to container div)
+.home__news-container {
+  width: 100%;
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-image: url( "../images/home/news-bg-sm.jpg" );
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+
+  @media all and (min-width: 768px) {
+    background-image: url( "../images/home/news-bg-med.jpg" );
+  }
+
+  @media all and (min-width: 1200px) {
+    background-image: url( "../images/home/news-bg-lg.jpg" );
+  }
+
+
+  // Problem: div heights in column don't line up. Text length is determining div height
+  // Solution: Set a flex height to the wrapping div. Have to wrap the columns in
+  //   a wrapper <div> to support flexbox
+
+  .flexbox-columns {
+    display: flex; // makes all columns the same height
+    width: 100%;
+    .one_third {
+      background-color: #fff;
+    }
+    .addes {
+      padding: 14px 20px; // padding wasn't centered
+      margin-bottom: 0;
+    }
+  }
+
+  .post-thumb img {
+    display: block;
+    height: 200px;
+  }
+
+  @media all and (max-width: 639px){
+    .flexbox-columns {
+      display: block; // prevents width 100% from working
+    }
+  }
+}
