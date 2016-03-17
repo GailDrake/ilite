@@ -11,9 +11,14 @@ p {
 }
 
 // Set .desktop-break in a span tag, and the content inside will be in a new line,
-//   but only above the size in the media break.  
+//   but only above the size in the media break.
 @media all and (min-width: 768px){
   .desktop-break {
     display: block;
   }
+}
+
+// Set a standard transition for common elements
+a, p, div, span {
+  transition: opacity 350ms ease-out 50ms, color 350ms ease-out 50ms, background-color 350ms ease-out 50ms;
 }

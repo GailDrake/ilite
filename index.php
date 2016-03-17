@@ -33,15 +33,15 @@
 
 <body>
 
-<div class="site_wrapper">
+<div class="site_wrapper home">
 
-<div id="wrap">
+<div id="wrap" class="home__top-style">
 
 	<?php include "includes/header.php" ?>
 
 <div class="home__wrap" >
 
-	<div class="home__banner">
+	<div id="home__banner" class="home__banner">
 
 		<div class="home__banner__text-container">
 			<h1>ilite robotics</h1>
@@ -315,9 +315,11 @@
 
 
 <!-- ######### JS FILES ######### -->
-<!-- get jQuery used for the theme -->
+<?php include "includes/javascript.php" ?>
 
-<script type="text/javascript" src="js/universal/jquery.js"></script>
+<!-- Home page only JS -->
+<script src="js/home/min/home.min.js" type="text/javascript"></script>
+
 <script src="js/animations/js/animations.min.js" type="text/javascript"></script>
 
 <script src="js/onepage3/bootstrap.min.js"></script>

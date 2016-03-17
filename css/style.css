@@ -22379,6 +22379,12 @@ p {
     display: block;
   }
 }
+a,
+p,
+div,
+span {
+  transition: opacity 350ms ease-out 50ms, color 350ms ease-out 50ms, background-color 350ms ease-out 50ms;
+}
 .contentcontent {
   max-width: 1100px;
 }
@@ -22586,6 +22592,121 @@ p {
   .home__sponsors .home__sponsors__logo {
     width: 140px;
   }
+}
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  margin: 0;
+  border: none;
+  background: #fff;
+  box-shadow: none;
+}
+.navigation .nav-container {
+  text-align: right;
+}
+.navigation .nav__logo {
+  display: block;
+  position: absolute;
+  height: 76px;
+  width: 133px;
+  top: 5px;
+  left: 30px;
+  background-image: url("../images/ilite-logo.png");
+  background-repeat: no-repeat;
+}
+.navigation .nav__link {
+  display: inline-block;
+  position: relative;
+  margin: 30px 15px 0;
+  padding-right: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.0625em;
+  color: #4a4a4a;
+  cursor: pointer;
+}
+.navigation .nav__link.no-caret {
+  padding-right: 0;
+}
+.navigation .nav__link.action {
+  color: #43eb85;
+}
+.navigation .nav__link.action .caret {
+  border-top: 5px solid #43eb85;
+}
+.navigation .nav__link:hover {
+  color: #6737c8;
+}
+.navigation .nav__link:hover .caret {
+  border-top: 5px solid #6737c8;
+}
+.navigation .caret {
+  position: absolute;
+  right: 3px;
+  top: 9px;
+  border-top: 5px solid #4a4a4a;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+}
+.navigation .nav__link__wrapper {
+  display: none;
+  position: absolute;
+  left: -10px;
+  width: 200px;
+  background-color: #fff;
+}
+.navigation .nav__link__target {
+  display: block;
+  width: 100%;
+  padding: 0.25em 0.25em 0.25em 1em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  background-color: #fff;
+  color: #959595;
+}
+.navigation .nav__link__target:hover {
+  color: #6737c8;
+}
+.home .home__top-style .navigation {
+  background: transparent;
+}
+.home .home__top-style .navigation .nav__logo {
+  height: 71px;
+  width: 129px;
+  background-image: url("../images/ilite-logo__white.png");
+}
+.home .home__top-style .navigation .nav__link {
+  color: #fff;
+}
+.home .home__top-style .navigation .nav__link:hover {
+  color: #959595;
+}
+.home .home__top-style .navigation .nav__link:hover .caret {
+  border-top: 5px solid #959595;
+}
+.home .home__top-style .navigation .nav__link.action {
+  color: #43eb85;
+}
+.home .home__top-style .navigation .nav__link.action .caret {
+  border-top: 5px solid #43eb85;
+}
+.home .home__top-style .navigation .nav__link.action .nav__link__wrapper {
+  left: inherit;
+  right: -5px;
+}
+.home .home__top-style .navigation .nav__link.action:hover {
+  color: #3dc67a;
+}
+.home .home__top-style .navigation .nav__link.action:hover .caret {
+  border-top: 5px solid #3dc67a;
+}
+.home .home__top-style .navigation .caret {
+  border-top: 5px solid #fff;
 }
 .sponsorbig,
 .sponsormed,

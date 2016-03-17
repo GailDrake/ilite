@@ -1,129 +1,55 @@
-<section class="navigation">
-      <div class="nav-container">
-        <div class="brand">
-          <a href="../index.php"><img src="/images/logo24.png" style="width: 150px; height: 90px; padding-top: 13px;"></a>
-        </div>
-        <nav>
-          <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
-          <ul class="nav-list">
-            <li>
-              <a href="#" class="topnav">About</a>
-                 <ul class="nav-dropdown">
-                <li>
-                  <a href="/about/missionandvision.php">Mission & Vision</a>
-                </li>
-                <li>
-                  <a href="/about/organization.php">Organization</a>
-                </li>
-                <li>
-                  <a href="/about/teamhistory.php">Team History</a>
-                </li>
-                <li>
-                  <a href="/about/members.php">Members</a>
-                </li>
-				 <li>
-                  <a href="/about/sponsors.php">Sponsors</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#!" class="topnav">FIRST</a>
-              <ul class="nav-dropdown">
-                <li>
-                  <a href="/first/season.php">2016 Season</a>
-                </li>
-                <li>
-                  <a href="/first/whatisfirst.php">What is FIRST?</a>
-                </li>
-                <li>
-                  <a href="/first/firstprograms.php">FIRST Programs</a>
-                </li>
-                <li>
-                  <a href="/first/scholarships.php">Scholarships</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#!" class="topnav">Community</a>
-                 <ul class="nav-dropdown">
-				 <li>
-                  <a href="/community/iliteevents.php">ILITE Events</a>
-                </li>
-                <li>
-                  <a href="/community/usstemfoundation.php">US STEM Foundation</a>
-                </li>
-                <li>
-                  <a href="/community/firstcampaign.php">FIRST Campaign</a>
-                </li>
-                <li>
-                  <a href="/community/outreach.php">Additional Outreach</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#!" class="topnav">Media</a>
-                 <ul class="nav-dropdown">
-                <li>
-                  <a href="/media/contactus.php">Contact Us</a>
-                </li>
-                <li>
-                  <a href="/media/press.php">Press</a>
-                </li>
-                <li>
-                  <a href="/media/photosvideos.php">Photos/Videos</a>
-                </li>
-              </ul>
-            </li>
+<nav class="navigation">
+  <div class="nav-container">
 
-						<li>
-              <a href="#!" class="topnav">ILITE EVENTS</a>
-                 <ul class="nav-dropdown">
-                <li>
-                  <a href="/iliteevents/haymakerstemexpo.php">HayMaker Stem Expo</a>
-                </li>
-								<li>
-                  <a href="/iliteevents/districtfrccompetition.php">District FRC Competition</a>
-                </li>
-								<li>
-                  <a href="/iliteevents/summercampss2016.php">Summer Camps 2016</a>
-                </li>
-                <li>
-                  <a href="/iliteevents/regionalftccompetition.php">Regional FTC Competition</a>
-                </li>
-                <li>
-                  <a href="/iliteevents/iroc.php">IROC</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="#!"><span class="bold">Get Involved</span></a>
-   <ul class="nav-dropdown">
-    <li>
-                  <a href="/getinvolved/whereisilite.php">Where is ILITE?</a>
-                </li>
-                <li>
-                  <a href="/getinvolved/volunteereventportal.php">Volunteer Event Portal</a>
-                </li>
-                <li>
-                  <a href="/getinvolved/studenteventportal.php">Student Event Portal</a>
-                </li>
+    <a class="nav__logo" href="../index.php"></a>
 
-				    <li>
-                  <a href="/getinvolved/becomeasponsor.php">Become a Sponsor</a>
-                </li>
-				 <li>
-                  <a href="/getinvolved/becomeamember.php">Become a Member</a>
-                </li>
-				  <li>
-                  <a href="/getinvolved/becomeamentor.php">Become a Mentor</a>
+    <div id="nav__about" class="nav__link">
+			About <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__about__wrapper">
+				<a href='/about/missionandvision.php' class="nav__link__target">Mission &amp; Vision</a>
+        <a href='/about/team.php' class="nav__link__target">Team</a>
+				<a href='/about/history.php' class="nav__link__target">History</a>
+				<a href='/about/press.php' class="nav__link__target">Press</a>
+				<a href='/about/contactus.php' class="nav__link__target">Contact Us</a>
+			</div>
+		</div>
 
-                </li>
-                 <li>
-                  <a href="/getinvolved/firstfuel.php">FIRST Fuel</a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </nav>
-      </div>
-	</section>
+    <div id="nav__first" class="nav__link">
+			FIRST Robotics <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__first__wrapper">
+				<a href='/first/whatisfirst.php' class="nav__link__target">About FIRST</a>
+				<a href='/first/scholarships.php' class="nav__link__target">Scholarships</a>
+				<a href='/first/firstcampaign.php' class="nav__link__target">FIRST Outreach</a>
+        <a href='/first/season.php' class="nav__link__target">FIRST 2016 Season</a>
+			</div>
+		</div>
+
+    <div id="nav__community" class="nav__link">
+			Community <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__community__wrapper">
+				<a href='/community/sponsors.php' class="nav__link__target">Sponsors</a>
+				<a href='/community/stem-expo.php' class="nav__link__target">Haymarket STEM Expo</a>
+				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
+				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
+				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Fountdation</a>
+				<a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a>
+			</div>
+		</div>
+
+    <a href='/media/media.php' class="nav__link no-caret">Media</a>
+
+    <div id="nav__involved" class="nav__link action">
+			Get Involved <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__involved__wrapper">
+				<a href='/involved/whereisilite.php' class="nav__link__target">Where is Team 1885</a>
+				<a href='/involved/volunteereventportal.php' class="nav__link__target">Volunteer Portal</a>
+				<a href='/involved/studenteventportal.php' class="nav__link__target">Student Event Portal</a>
+				<a href='/involved/becomeasponsor.php' class="nav__link__target">Become a Sponsor</a>
+				<a href='/involved/becomeamember.php' class="nav__link__target">Become a Member</a>
+				<a href='/involved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
+				<a href='/involved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
+			</div>
+		</div>
+
+  </div>
+</nav>
