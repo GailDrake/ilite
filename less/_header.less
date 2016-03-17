@@ -10,6 +10,8 @@
   border: none;
   background: #fff;
   box-shadow: none;
+  opacity: 1;
+  transition: opacity 200ms ease-out 50ms;
   .nav-container {
     position: absolute;
     top: 0;
@@ -119,6 +121,16 @@
       .caret {
         border-top: 	5px solid #fff;
       }
+    }
+  }
+}
+
+// Hide when scrolling over top div
+.home {
+  .fade-nav {
+    .navigation {
+      opacity: 0;
+      pointer-events: none;
     }
   }
 }
