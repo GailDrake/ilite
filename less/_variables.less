@@ -1,0 +1,35 @@
+
+// font variables
+@raleway: 'Raleway', sans-serif;
+@open-sans: 'Open Sans', sans-serif;
+
+// color variables
+@text-dark:      #242424;
+@text-med:       #4a4a4a;
+@text-light:     #959595;
+@green-dark:     #3dc67a;
+@green-light:    #43eb85;
+@purple-dark:    #6737c8;
+
+// mixins
+.raleway-bold {
+  font-family: @raleway;
+  font-weight: 600;
+}
+.raleway-regular {
+  font-family: @raleway;
+  font-weight: 200;
+}
+
+.button (@color) {
+  display: block;
+  width: 275px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.65em;
+  font-size: 16px;
+  text-align: center;
+  color: @color;
+  border: solid 2px @color;
+  border-radius: 3px;
+}

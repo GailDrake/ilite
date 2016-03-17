@@ -1,0 +1,42 @@
+// Problem: The carousel needs to be removed. A carousel format takes too long to
+//   scroll through all the sponsors, and visitors won't want to wait.
+// Solution: Remove carousel and associated JS (if it's not used elsewhere). Install
+//   a simple floated tile layout. Add a link to the sponsor's site to each sponsor's logo.
+//   Also switched to background images instead of img tags to make logo formatting easy.
+
+
+.home__sponsors {
+  background-color: #fff;
+  overflow: hidden;
+  .home__sponsors__container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .home__sponsors__logo-wrap {
+    margin: 50px 0;
+    text-align: center;
+  }
+
+  .home__sponsors__logo-link {
+    display: inline-block;
+    margin: 10px 20px;
+  }
+  .home__sponsors__logo {
+    height: 80px;
+    width: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+@media all and (max-width: 479px) {
+  .home__sponsors {
+    .home__sponsors__logo-link {
+      margin: 10px 5px;
+    }
+    .home__sponsors__logo {
+      width: 140px;
+    }
+  }
+}

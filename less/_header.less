@@ -1,0 +1,145 @@
+
+
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+  margin: 0;
+  border: none;
+  background: #fff;
+  box-shadow: none;
+  opacity: 1;
+  transition: opacity 200ms ease-out 50ms;
+  .nav-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+  }
+  .nav__logo {
+    display: block;
+    position: absolute;
+    height: 76px;
+    width: 133px;
+    top: 5px;
+    left: 30px;
+    background-image: url( "../images/ilite-logo.png" );
+    background-repeat: no-repeat;
+  }
+  .nav__link {
+    display: inline-block;
+    position: relative;
+    margin: 30px 15px 0;
+    padding-right: 15px;
+    .raleway-bold;
+    font-size: 13px;
+    letter-spacing: 0.0625em;
+    color: @text-med;
+    cursor: pointer;
+  }
+  .nav__link.no-caret {
+    padding-right: 0;
+  }
+  .nav__link.action {
+    color: @green-light;
+    .caret {
+      border-top: 	5px solid @green-light;
+    }
+  }
+  .nav__link:hover {
+    color: @purple-dark;
+    .caret {
+      border-top: 	5px solid @purple-dark;
+    }
+  }
+  .caret {
+    position: absolute;
+    right: 3px;
+    top: 9px;
+    border-top: 	5px solid @text-med;
+    border-left: 	4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  .nav__link__wrapper {
+    display: none;
+    position: absolute;
+    left: -10px;
+    width: 200px;
+    background-color: #fff;
+  }
+  .nav__link__target {
+    display: block;
+    width: 100%;
+    padding: 0.25em 0.25em 0.25em 1em;
+    .raleway-bold;
+    text-align: left;
+    background-color: #fff;
+    color: @text-light;
+  }
+  .nav__link__target:hover {
+    color: @purple-dark;
+  }
+}
+
+// Home page is a bit different (only at the top)
+.home {
+  .home__top-style{
+    .navigation {
+      background: transparent;
+      .nav__logo {
+        height: 71px;
+        width: 129px;
+        background-image: url( "../images/ilite-logo__white.png" );
+      }
+      .nav__link {
+        color: #fff;
+      }
+      .nav__link:hover {
+        color: @text-light;
+        .caret {
+          border-top: 	5px solid @text-light;
+        }
+      }
+      .nav__link.action {
+        color: @green-light;
+        .caret {
+          border-top: 	5px solid @green-light;
+        }
+        .nav__link__wrapper {
+          left: inherit;
+          right: -5px;
+        }
+      }
+      .nav__link.action:hover {
+        color: @green-dark;
+        .caret {
+          border-top: 	5px solid @green-dark;
+        }
+      }
+      .caret {
+        border-top: 	5px solid #fff;
+      }
+    }
+  }
+}
+
+// Hide when scrolling over top div
+.home {
+  .fade-nav {
+    .navigation {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+}
+
+
+@media all and (min-width: 768px) and (max-width: 960px) {
+  .navigation {
+    .nav__link {
+      margin: 30px 10px 0;
+    }
+  }
+}
