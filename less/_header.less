@@ -5,7 +5,7 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 60px;
+  height: 80px;
   margin: 0;
   border: none;
   background: #fff;
@@ -45,6 +45,9 @@
   }
   .nav__link:hover {
     color: @purple-dark;
+    .caret {
+      border-top: 	5px solid @purple-dark;
+    }
   }
   .caret {
     position: absolute;
@@ -58,46 +61,61 @@
     display: none;
     position: absolute;
     left: -10px;
-    right: -20px;
+    width: 200px;
     background-color: #fff;
   }
   .nav__link__target {
     display: block;
     width: 100%;
     padding: 0.25em 0.25em 0.25em 1em;
+    .raleway-bold;
     text-align: left;
     background-color: #fff;
     color: @text-light;
   }
   .nav__link__target:hover {
-    background-color: @text-light;
-    color: @text-dark;
+    color: @purple-dark;
   }
 }
 
-// Home page is a bit different
+// Home page is a bit different (only at the top)
 .home {
-  .navigation {
-    background: transparent;
-    .nav__logo {
-      height: 71px;
-      width: 129px;
-      background-image: url( "../images/ilite-logo__white.png" );
-    }
-    .nav__link {
-      color: #fff;
-    }
-    .nav__link.action {
-      color: @green-light;
-      .caret {
-        border-top: 	5px solid @green-light;
+  .home__top-style{
+    .navigation {
+      background: transparent;
+      .nav__logo {
+        height: 71px;
+        width: 129px;
+        background-image: url( "../images/ilite-logo__white.png" );
       }
-    }
-    .nav__link:hover {
-      color: @text-light;
-    }
-    .caret {
-      border-top: 	5px solid #fff;
+      .nav__link {
+        color: #fff;
+      }
+      .nav__link:hover {
+        color: @text-light;
+        .caret {
+          border-top: 	5px solid @text-light;
+        }
+      }
+      .nav__link.action {
+        color: @green-light;
+        .caret {
+          border-top: 	5px solid @green-light;
+        }
+        .nav__link__wrapper {
+          left: inherit;
+          right: -5px;
+        }
+      }
+      .nav__link.action:hover {
+        color: @green-dark;
+        .caret {
+          border-top: 	5px solid @green-dark;
+        }
+      }
+      .caret {
+        border-top: 	5px solid #fff;
+      }
     }
   }
 }

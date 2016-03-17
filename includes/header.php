@@ -14,23 +14,13 @@
 			</div>
 		</div>
 
-
-    <div id="nav__competition" class="nav__link">
-      Competitions <div class="caret"></div>
-      <div class="nav__link__wrapper" id="nav__competition__wrapper">
-        <a href='/competition/district-frc.php' class="nav__link__target">District FRC</a>
-        <a href='/competition/regional-ftc.php' class="nav__link__target">Regional FTC</a>
-        <a href='/competition/iroc.php' class="nav__link__target">IROC</a>
-        <a href='/competition/season.php' class="nav__link__target">FIRST 2016 Season</a>
-      </div>
-    </div>
-
     <div id="nav__first" class="nav__link">
 			FIRST Robotics <div class="caret"></div>
 			<div class="nav__link__wrapper" id="nav__first__wrapper">
 				<a href='/first/whatisfirst.php' class="nav__link__target">About FIRST</a>
 				<a href='/first/scholarships.php' class="nav__link__target">Scholarships</a>
 				<a href='/first/firstcampaign.php' class="nav__link__target">FIRST Outreach</a>
+        <a href='/first/season.php' class="nav__link__target">FIRST 2016 Season</a>
 			</div>
 		</div>
 
@@ -42,6 +32,7 @@
 				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
 				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
 				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Fountdation</a>
+				<a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a>
 			</div>
 		</div>
 

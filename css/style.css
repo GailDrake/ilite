@@ -22598,7 +22598,7 @@ span {
   top: 0;
   left: 0;
   right: 0;
-  height: 60px;
+  height: 80px;
   margin: 0;
   border: none;
   background: #fff;
@@ -22641,6 +22641,9 @@ span {
 .navigation .nav__link:hover {
   color: #6737c8;
 }
+.navigation .nav__link:hover .caret {
+  border-top: 5px solid #6737c8;
+}
 .navigation .caret {
   position: absolute;
   right: 3px;
@@ -22653,42 +22656,56 @@ span {
   display: none;
   position: absolute;
   left: -10px;
-  right: -20px;
+  width: 200px;
   background-color: #fff;
 }
 .navigation .nav__link__target {
   display: block;
   width: 100%;
   padding: 0.25em 0.25em 0.25em 1em;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
   text-align: left;
   background-color: #fff;
   color: #959595;
 }
 .navigation .nav__link__target:hover {
-  background-color: #959595;
-  color: #242424;
+  color: #6737c8;
 }
-.home .navigation {
+.home .home__top-style .navigation {
   background: transparent;
 }
-.home .navigation .nav__logo {
+.home .home__top-style .navigation .nav__logo {
   height: 71px;
   width: 129px;
   background-image: url("../images/ilite-logo__white.png");
 }
-.home .navigation .nav__link {
+.home .home__top-style .navigation .nav__link {
   color: #fff;
 }
-.home .navigation .nav__link.action {
-  color: #43eb85;
-}
-.home .navigation .nav__link.action .caret {
-  border-top: 5px solid #43eb85;
-}
-.home .navigation .nav__link:hover {
+.home .home__top-style .navigation .nav__link:hover {
   color: #959595;
 }
-.home .navigation .caret {
+.home .home__top-style .navigation .nav__link:hover .caret {
+  border-top: 5px solid #959595;
+}
+.home .home__top-style .navigation .nav__link.action {
+  color: #43eb85;
+}
+.home .home__top-style .navigation .nav__link.action .caret {
+  border-top: 5px solid #43eb85;
+}
+.home .home__top-style .navigation .nav__link.action .nav__link__wrapper {
+  left: inherit;
+  right: -5px;
+}
+.home .home__top-style .navigation .nav__link.action:hover {
+  color: #3dc67a;
+}
+.home .home__top-style .navigation .nav__link.action:hover .caret {
+  border-top: 5px solid #3dc67a;
+}
+.home .home__top-style .navigation .caret {
   border-top: 5px solid #fff;
 }
 .sponsorbig,
