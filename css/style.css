@@ -22605,6 +22605,9 @@ span {
   box-shadow: none;
 }
 .navigation .nav-container {
+  position: absolute;
+  top: 0;
+  right: 0;
   text-align: right;
 }
 .navigation .nav__logo {
@@ -22707,6 +22710,11 @@ span {
 }
 .home .home__top-style .navigation .caret {
   border-top: 5px solid #fff;
+}
+@media all and (min-width: 768px) and (max-width: 960px) {
+  .navigation .nav__link {
+    margin: 30px 10px 0;
+  }
 }
 .sponsorbig,
 .sponsormed,

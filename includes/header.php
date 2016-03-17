@@ -1,7 +1,6 @@
 <nav class="navigation">
+  <a class="nav__logo" href="../index.php"></a>
   <div class="nav-container">
-
-    <a class="nav__logo" href="../index.php"></a>
 
     <div id="nav__about" class="nav__link">
 			About <div class="caret"></div>
