@@ -33,7 +33,7 @@
 
 <body>
 
-<div class="site_wrapper">
+<div class="site_wrapper home">
 
 <div id="wrap">
 
@@ -315,9 +315,8 @@
 
 
 <!-- ######### JS FILES ######### -->
-<!-- get jQuery used for the theme -->
+<?php include "includes/javascript.php" ?>
 
-<script type="text/javascript" src="js/universal/jquery.js"></script>
 <script src="js/animations/js/animations.min.js" type="text/javascript"></script>
 
 <script src="js/onepage3/bootstrap.min.js"></script>
