@@ -22978,6 +22978,11 @@ span {
 }
 .containernew {
   background-color: #f7f7f7;
+  padding: 60px 0 65px;
+}
+.containernew .contentcontent {
+  max-width: 900px;
+  margin: 0 auto;
 }
 .footer {
   padding: 30px 5%;
