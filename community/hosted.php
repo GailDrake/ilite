@@ -34,7 +34,7 @@
 
 <div class="site_wrapper">
 
-<div id="wrap">
+<div id="wrap" class="right-0">
 
 	<?php include "../includes/header.php" ?>
 
@@ -70,7 +70,7 @@
   </div>
 <div class="contentcontent">
  <h1>FIRST Chesapeake District Northern Virginia Event</h1>
- <p>ILITE hosted their first FRC District competition for Week One of the 2016 FIRST Stronghold season. Forty FRC teams from the Chesapeake district gathered to participate in the first competition of Stronghold. Those in attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the two-day event. The event was interrupted with a 
+ <p>ILITE hosted their first FRC District competition for Week One of the 2016 FIRST Stronghold season. Forty FRC teams from the Chesapeake district gathered to participate in the first competition of Stronghold. Those in attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the two-day event. The event was interrupted with a
 pleasant surprise visit by none other than the founder of FIRST, Dean Kamen himself. </p>
   <h1>
 Northern Virginia FTC Qualifier</h1>
@@ -101,9 +101,11 @@ This year's competition will be held on <b>October TBDth, 2016</b> at Battlefiel
 </div>
 
 
-<!-- SCRIPTS DOWN HERE FOR LOADING -->
+<?php include "../includes/side-menu.php" ?>
 
-<script type="text/javascript" src="../js/universal/jquery.js"></script>
+<!-- ######### JS FILES ######### -->
+<?php include "../includes/javascript.php" ?>
+
 <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
 <script src="../js/onepage3/bootstrap.min.js"></script>
 <script src="../js/onepage3/jPinning.js"></script>

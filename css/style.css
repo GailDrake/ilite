@@ -22085,9 +22085,6 @@ nav ul li ul li a:hover {
   width: 70px;
 }
 @media only screen and (max-width: 800px) {
-  .nav-mobile {
-    display: block;
-  }
   .logo {
     position: absolute;
   }
@@ -22598,11 +22595,11 @@ span {
   top: 0;
   left: 0;
   right: 0;
-  height: 80px;
+  height: 60px;
   margin: 0;
+  padding: 0;
   border: none;
   background: #fff;
-  box-shadow: none;
   opacity: 1;
   -webkit-box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
@@ -22688,6 +22685,9 @@ span {
 .navigation .nav__link__target:hover {
   color: #6737c8;
 }
+.navigation .nav-mobile {
+  display: block;
+}
 .navigation #nav-toggle span,
 .navigation #nav-toggle span:before,
 .navigation #nav-toggle span:after {
@@ -22744,8 +22744,14 @@ span {
   pointer-events: none;
 }
 @media all and (min-width: 768px) {
+  .navigation {
+    height: 80px;
+  }
   .navigation .nav-container {
     display: block;
+  }
+  .navigation .nav-mobile {
+    display: none;
   }
 }
 @media all and (min-width: 768px) and (max-width: 960px) {

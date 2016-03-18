@@ -34,7 +34,7 @@
 
 <div class="site_wrapper">
 
-<div id="wrap">
+<div id="wrap" class="right-0">
 
 	<?php include "../includes/header.php" ?>
 
@@ -101,9 +101,11 @@ In 2008, we saw the development of ILITE in the community. Lobbying on Capitol H
 </div>
 
 
-<!-- SCRIPTS DOWN HERE FOR LOADING -->
+<?php include "../includes/side-menu.php" ?>
 
-<script type="text/javascript" src="../js/universal/jquery.js"></script>
+<!-- ######### JS FILES ######### -->
+<?php include "../includes/javascript.php" ?>
+
 <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
 <script src="../js/onepage3/bootstrap.min.js"></script>
 <script src="../js/onepage3/jPinning.js"></script>

@@ -34,7 +34,7 @@
 
 <div class="site_wrapper">
 
-<div id="wrap">
+<div id="wrap" class="right-0">
 
 	<?php include "../includes/header.php" ?>
 
@@ -69,7 +69,7 @@
   </div>
 <div class="contentcontent">
 <h1>The Haymarket Lifestyle 2015</h1>
-<p> After ILITE celebrates its 10+ years history, The Haymarket Lifestyle reinterviewed the team. We were <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">featured</a> as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. <a href=https://flipflashpages.uniflip.com/3/25656/363834/pub/html5.html#page/1">READ MORE.....</a></p>
+<p> After ILITE celebrates its 10+ years history, The Haymarket Lifestyle reinterviewed the team. We were <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">featured</a> as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. <a href="https://flipflashpages.uniflip.com/3/25656/363834/pub/html5.html#page/1">READ MORE.....</a></p>
 <h1>The Haymarket Lifestyle 2012</h1>
 <p> After winning the FTC World Competition, ILITE Robotics, The Haymarket Lifestyle selected students for interviews. We were <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">featured</a> as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">READ MORE.....</a></p>
 <h1>2012 FIRST Championship Celebrates Science, Technology and Robots</h1>
@@ -84,9 +84,11 @@
 </div>
 
 
-<!-- SCRIPTS DOWN HERE FOR LOADING -->
+<?php include "../includes/side-menu.php" ?>
 
-<script type="text/javascript" src="../js/universal/jquery.js"></script>
+<!-- ######### JS FILES ######### -->
+<?php include "../includes/javascript.php" ?>
+
 <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
 <script src="../js/onepage3/bootstrap.min.js"></script>
 <script src="../js/onepage3/jPinning.js"></script>

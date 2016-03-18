@@ -34,7 +34,7 @@
 
 <div class="site_wrapper">
 
-<div id="wrap">
+<div id="wrap" class="right-0">
 
 	<?php include "../includes/header.php" ?>
 
@@ -93,10 +93,11 @@ To join our family, please <a href="../media/contactus.html">contact us.</a></p>
 
 </div>
 
+<?php include "../includes/side-menu.php" ?>
 
-<!-- SCRIPTS DOWN HERE FOR LOADING -->
+<!-- ######### JS FILES ######### -->
+<?php include "../includes/javascript.php" ?>
 
-<script type="text/javascript" src="../js/universal/jquery.js"></script>
 <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
 <script src="../js/onepage3/bootstrap.min.js"></script>
 <script src="../js/onepage3/jPinning.js"></script>

@@ -5,11 +5,11 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 80px;
+  height: 60px;
   margin: 0;
+  padding: 0;
   border: none;
   background: #fff;
-  box-shadow: none;
   opacity: 1;
   -webkit-box-shadow:  0px 0px 55px -8px rgba(0,0,0,0.5);
   -moz-box-shadow:     0px 0px 55px -8px rgba(0,0,0,0.5);
@@ -94,6 +94,9 @@
   }
 
   // Hamburger
+  .nav-mobile {
+    display: block;
+  }
   #nav-toggle span,
   #nav-toggle span:before,
   #nav-toggle span:after {
@@ -167,8 +170,12 @@
 
 @media all and (min-width: 768px) {
   .navigation {
+    height: 80px;
     .nav-container {
       display: block;
+    }
+    .nav-mobile {
+      display: none;
     }
   }
 }
