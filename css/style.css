@@ -22595,7 +22595,7 @@ span {
   top: 0;
   left: 0;
   right: 0;
-  height: 60px;
+  height: 70px;
   margin: 0;
   padding: 0;
   border: none;
@@ -22626,7 +22626,7 @@ span {
 .navigation .nav__link {
   display: inline-block;
   position: relative;
-  margin: 30px 15px 0;
+  margin: 25px 15px 0;
   padding-right: 15px;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
@@ -22750,9 +22750,6 @@ span {
   pointer-events: none;
 }
 @media all and (min-width: 768px) {
-  .navigation {
-    height: 80px;
-  }
   .navigation .nav-container {
     display: block;
   }
@@ -22762,7 +22759,7 @@ span {
 }
 @media all and (min-width: 768px) and (max-width: 960px) {
   .navigation .nav__link {
-    margin: 30px 10px 0;
+    margin: 25px 10px 0;
   }
 }
 .right-0 {
@@ -22933,7 +22930,7 @@ span {
   }
 }
 .head-image.inner-page {
-  margin-top: 80px;
+  margin-top: 70px;
   padding: 135px 0 120px;
   background: white;
   overflow: hidden;
@@ -23037,6 +23034,20 @@ span {
   font-size: 16px;
   vertical-align: middle;
   margin-bottom: 3px;
+}
+.footer__copyright {
+  width: 100%;
+  clear: both;
+  background-color: #5d31b6;
+  overflow: hidden;
+}
+.footer__copyright p {
+  margin: 15px 0;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  color: #c7b1f3;
+  text-align: center;
 }
 @media all and (max-width: 767px) {
   .footer .col {

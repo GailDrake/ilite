@@ -44,4 +44,9 @@
     </div>
   </div>
 
+
+</div>
+
+<div class="footer__copyright">
+  <p>&copy; <span id="copyright-year"></span> ILITE Robotics. All rights reserved.</p>
 </div>

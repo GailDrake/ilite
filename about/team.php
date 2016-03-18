@@ -236,7 +236,7 @@
 
 
 <div class="post-container">
-    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JacobCohen.jpg" /></div>
+    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JacobCohen.JPG" /></div>
     <div class="post-content">
         <h3 class="post-title">Jacob Cohen</h3>
         <b>Year Joined:</b>
@@ -252,7 +252,7 @@
 
 
 <div class="post-container">
-    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JamieLechner.jpg" /></div>
+    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JamieLechner.JPG" /></div>
     <div class="post-content">
         <h3 class="post-title">Jamie Lechner</h3>
         <b>Year Joined:</b>
