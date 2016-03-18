@@ -51,6 +51,8 @@
 										<h1>Student Event Portal </h1>
 									</div>
 
+									<div class="head-image__subheader"></div>
+
 								</div>
 							</div>
 

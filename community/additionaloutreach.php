@@ -49,8 +49,9 @@
 
 									<div class="headline-title">
 										<h1>Additional Outreach</h1>
-                                        <p>reaching the community!</p>
 									</div>
+
+									<div class="head-image__subheader">Reaching the Community!</div>
 
 								</div>
 							</div>

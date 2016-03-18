@@ -51,6 +51,8 @@
 										<h1>HayMaker Stem Expo</h1>
 									</div>
 
+									<div class="head-image__subheader"></div>
+
 								</div>
 							</div>
 

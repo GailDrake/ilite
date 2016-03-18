@@ -51,6 +51,8 @@
 										<h1>Press</h1>
 									</div>
 
+									<div class="head-image__subheader"></div>
+
 								</div>
 							</div>
 

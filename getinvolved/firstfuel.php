@@ -51,6 +51,8 @@
 										<h1>FIRST Fuel</h1>
 									</div>
 
+									<div class="head-image__subheader"></div>
+
 								</div>
 							</div>
 

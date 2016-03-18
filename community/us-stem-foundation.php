@@ -52,6 +52,8 @@
 										<h1>US STEM Foundation</h1>
 									</div>
 
+									<div class="head-image__subheader"></div>
+
 								</div>
 							</div>
 

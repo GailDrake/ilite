@@ -52,6 +52,8 @@
 										<h1>Contact Us</h1>
 									</div>
 
+									<div class="head-image__subheader"></div>
+
 								</div>
 							</div>
 
