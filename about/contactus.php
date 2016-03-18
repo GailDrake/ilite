@@ -10,8 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    <link rel="shortcut icon" type="image/png" href="images/favicon-gray.png"/>
-	<link rel="shortcut icon" href="images/favicon.html">
+
+	<link rel="shortcut icon" href="images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>

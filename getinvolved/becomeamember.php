@@ -7,12 +7,13 @@
 <head>
 	<title>ILITE Robotics | Home</title>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="keywords" content="" />
-	<meta name="description" content="" />
-    <link rel="shortcut icon" type="image/png" href="images/favicon-gray.png"/>
-	<link rel="shortcut icon" href="images/favicon.html">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta name="keywords" content="ilite, robotics, battlefield robotics, first robotics, battlefield, battlefield high school" />
+	<meta name="description" content="We are a team founded on the principles of leadership, teamwork, and academic rigor. Through competitions, outreach, and mentorship we passionately advocate for science and technology in our schools, communities, and throughout the world." />
+
+		<link rel="shortcut icon" href="images/favicon.ico">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
