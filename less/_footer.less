@@ -1,37 +1,75 @@
-.footer p {
-  font-family: Raleway;
-  color: rgb(255, 255, 255);
-}
-.footer h5 {
-  font-family: Raleway;
-  color: rgb(255, 255, 255);
-}
-.footer a {
-  font-family: Raleway;
-  color: rgb( 79, 236, 103);
-}
+
+
 .footer {
-  width: 100vw;
-  height: auto;
+  padding: 30px 5%;
+  background-color: @purple-dark;
   text-align: left;
+  border: none;
+  .footerInfo {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .footer__header {
+    margin-top: 40px;
+    .raleway-bold;
+    color: #fff;
+    letter-spacing: 0.0625em;
+  }
+  .footer__link{
+    display: block;
+    margin-bottom: 15px;
+    .raleway-bold;
+    text-decoration: underline;
+    letter-spacing: 0.0625em;
+    .fa {
+      margin-right: 2px;
+    }
+  }
+  .footer__text {
+    margin-bottom: 0;
+    .raleway-bold;
+    color: #fff;
+    letter-spacing: 0.0225em;
+  }
+  .col {
+    float: left;
+    width: 24%;
+    margin-left: 1%;
+  }
+  .footer__social {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 32px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    .fa {
+      font-size: 16px;
+      vertical-align: middle;
+      margin-bottom: 3px;
+    }
+  }
 }
-.footerInfo {
-  width: 100%;
-  height: auto;
+
+@media all and (max-width: 767px) {
+  .footer {
+    .col {
+      width: 48%;
+      margin-left: 2%;
+    }
+  }
 }
-.footer .col {
-  float: left;
-  width: 25%;
-}
-.footer .id{
-  color: rgb(255, 255, 255);
-  font-size: 20px;
-  width: 28px;
-  height: 28px;
-  text-align: center;
-  vertical-align: middle;
-  line-height: 32px;
-  margin-right: 10px;
-  border: 1px solid rgb(255, 255, 255);
-  border-radius: 100%;
+
+@media all and (max-width: 479px) {
+  .footer {
+    .col {
+      width: 90%;
+      margin-left: 10%;
+    }
+  }
 }
