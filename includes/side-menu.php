@@ -1,42 +1,51 @@
 <nav id='side-menu' class='menu width-0'>
-	<div class='menu-box'>
-		<ul class='menu-list'>
-			<li><a class='menu-link' href='index.html'>Home</a></li>
-			<li id="menu__dropdown" class="fake-link">
-				<span class="menu-link caret">
-					Enterprise
-				</span>
-				<div class="menu__dropdown__wrapper" id="menu__dropdown__wrapper">
-					<a href='university.html' class="menu__dropdown__link os-regular">University</a>
-					<a href='enterprise.html' class="menu__dropdown__link os-regular">Business</a>
-					<a href='hospital.html' class="menu__dropdown__link os-regular">Hospital</a>
-				</div>
-			</li>
-			<li><a class='menu-link' href='team.html'>Team</a></li>
-			<li><a class='menu-link' href='partners.html'>Partners</a></li>
-			<li><a class='menu-link' href='news.html'>News</a></li>
-			<li><a class='menu-link' href='purchase.html'>Gifting &amp; Pricing</a></li>
-			<li id="menu__support__dropdown" class="fake-link">
-				<span class="menu-link caret">
-					Support
-				</span>
-				<div class="menu__dropdown__wrapper" id="menu__support__dropdown__wrapper">
-					<a href='support.html' class="menu__dropdown__link os-regular">FAQ</a>
-					<a href='videos.html' class="menu__dropdown__link os-regular">How to Videos</a>
-				</div>
-			</li>
-			<li><a class='menu-link' href='press.html'>Press Kit</a></li>
-		</ul>
+	<div class="nav-container">
 
-		<a href="http://itunes.apple.com/us/app/lifeline-response-premier/id531619809?ls=1&amp;mt=8" class='app-store'></a>
-		<a href="http://play.google.com/store/apps/details?id=com.llresponse.lifeline" class='google-play'></a>
+    <div id="side-menu__about" class="nav__link">
+			About <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__about__wrapper">
+				<a href='/about/missionandvision.php' class="nav__link__target">Mission &amp; Vision</a>
+        <a href='/about/team.php' class="nav__link__target">Team</a>
+				<a href='/about/history.php' class="nav__link__target">History</a>
+				<a href='/about/press.php' class="nav__link__target">Press</a>
+				<a href='/about/contactus.php' class="nav__link__target">Contact Us</a>
+			</div>
+		</div>
 
-		<ul class='social-list-nav'>
-			<li><a href='https://www.facebook.com/LLResponse' target="_blank" class='facebook-button'></a></li>
-			<li><a href='https://twitter.com/LLResponse' target="_blank" class='twitter-button'></a></li>
-			<li><a href='https://www.youtube.com/user/LLResponse/videos' target="_blank" class='youtube-button'></a></li>
-		</ul>
+    <div id="side-menu__first" class="nav__link">
+			FIRST Robotics <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__first__wrapper">
+				<a href='/first/whatisfirst.php' class="nav__link__target">About FIRST</a>
+				<a href='/first/scholarships.php' class="nav__link__target">Scholarships</a>
+				<a href='/first/firstcampaign.php' class="nav__link__target">FIRST Outreach</a>
+        <a href='/first/season.php' class="nav__link__target">FIRST 2016 Season</a>
+			</div>
+		</div>
 
-		<p class='reserved-desktop'>&copy; LifeLine Response <span class='copyright'></span></p>
-	</div>
+    <div id="side-menu__community" class="nav__link">
+			Community <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__community__wrapper">
+				<a href='/community/sponsors.php' class="nav__link__target">Sponsors</a>
+				<a href='/community/stem-expo.php' class="nav__link__target">Haymarket STEM Expo</a>
+				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
+				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
+				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Fountdation</a>
+				<a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a>
+			</div>
+		</div>
+
+    <a href='/media/media.php' class="nav__link no-caret">Media</a>
+
+    <div id="side-menu__involved" class="nav__link action">
+			Get Involved <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__involved__wrapper">
+				<a href='/getinvolved/whereisilite.php' class="nav__link__target">Where is Team 1885</a>
+				<a href='/getinvolved/volunteereventportal.php' class="nav__link__target">Volunteer Portal</a>
+				<a href='/getinvolved/studenteventportal.php' class="nav__link__target">Student Event Portal</a>
+				<a href='/getinvolved/becomeasponsor.php' class="nav__link__target">Become a Sponsor</a>
+				<a href='/getinvolved/becomeamember.php' class="nav__link__target">Become a Member</a>
+				<a href='/getinvolved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
+				<a href='/getinvolved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
+			</div>
+		</div>
 </nav>

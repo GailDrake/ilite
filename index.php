@@ -35,7 +35,7 @@
 
 <div class="site_wrapper home">
 
-<div id="wrap" class="home__top-style">
+<div id="wrap" class="home__top-style right-0">
 
 	<?php include "includes/header.php" ?>
 

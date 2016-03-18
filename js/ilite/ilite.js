@@ -29,21 +29,25 @@ var Ilite = {
 $( document ).ready(function() {
   // initialize dropdowns
   Ilite.dropdown( $( '#nav__about' ), $( '#nav__about__wrapper' ) );
-  Ilite.dropdown( $( '#nav__competition' ), $( '#nav__competition__wrapper' ) );
   Ilite.dropdown( $( '#nav__first' ), $( '#nav__first__wrapper' ) );
   Ilite.dropdown( $( '#nav__community' ), $( '#nav__community__wrapper' ) );
   Ilite.dropdown( $( '#nav__involved' ), $( '#nav__involved__wrapper' ) );
+  // side menu
+  Ilite.dropdown( $( '#side-menu__about' ), $( '#side-menu__about__wrapper' ) );
+  Ilite.dropdown( $( '#side-menu__first' ), $( '#side-menu__first__wrapper' ) );
+  Ilite.dropdown( $( '#side-menu__community' ), $( '#side-menu__community__wrapper' ) );
+  Ilite.dropdown( $( '#side-menu__involved' ), $( '#side-menu__involved__wrapper' ) );
 
-  console.log('clicker here')
   // /* Side menu slideout
   // --------------------------------------------------------------------------------------------------------------- */
   $( '#burger' ).on( "click", function() {
-    console.log('clicker')
     if( $( '#wrap' ).hasClass( 'right-0' ) ){
-      $( '#wrap, #navigation' ).removeClass( 'right-0' ).addClass( 'right-240' );
+      $( '#wrap' ).removeClass( 'right-0' ).addClass( 'right-240' );
+      $( '#navigation' ).removeClass( 'right-0' ).addClass( 'right-left-240' );
       $( '#side-menu' ).removeClass( 'width-0' ).addClass( 'width-240' );
     } else {
-      $( '#wrap, #navigation' ).removeClass( 'right-240' ).addClass( 'right-0' );
+      $( '#wrap' ).removeClass( 'right-240' ).addClass( 'right-0' );
+      $( '#navigation' ).removeClass( 'right-left-240' ).addClass( 'right-0' );
       $( '#side-menu' ).removeClass( 'width-240' ).addClass( 'width-0' );
     }
   });
