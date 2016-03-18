@@ -65,7 +65,7 @@
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">
-    <li><a href="../index.html">Home</a></li>
+    <li><a href="../index.php">Home</a></li>
     <li><a href="#">Get Involved</a></li>
     <li class="last"><a href="#">Become a Mentor</a></li>
   </ul>
@@ -85,7 +85,7 @@ Grow your community toward recognition of intelligence, creativity, and innovati
 Our goal at ILITE is to increase awareness of every aspect of engineering in our community. Join us in our mission! </p>
 <p>
 Team 1885 is open to mentors from all community members.
-To join our family, please <a href="../media/contactus.html">contact us.</a></p>
+To join our family, please <a href="../media/contactus.php">contact us.</a></p>
 </div>
 </div><!-- end section -->
 

@@ -56,7 +56,7 @@
 	<div class="less5 centf bigtfont gray">Whether it be through our summer camps that teach hundreds of students about STEM, or our annually-hosted FIRST competitions, ILITE continuously inspires those around them. We strive to embody the FIRST mission of "More than Robots" in all we do."</div>
  -->
 
-    <a href="about/missionandvision.html" class="home__banner__button">Our Mission &amp; Vision</a>
+    <a href="about/missionandvision.php" class="home__banner__button">Our Mission &amp; Vision</a>
 
 
 </div><!-- end section -->
