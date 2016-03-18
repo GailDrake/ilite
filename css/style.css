@@ -22778,3 +22778,40 @@ span {
     min-height: auto;
   }
 }
+.footer p {
+  font-family: Raleway;
+  color: #ffffff;
+}
+.footer h5 {
+  font-family: Raleway;
+  color: #ffffff;
+}
+.footer a {
+  font-family: Raleway;
+  color: #4fec67;
+}
+.footer {
+  width: 100vw;
+  height: auto;
+  text-align: left;
+}
+.footerInfo {
+  width: 100%;
+  height: auto;
+}
+.footer .col {
+  float: left;
+  width: 25%;
+}
+.footer .id {
+  color: #ffffff;
+  font-size: 20px;
+  width: 28px;
+  height: 28px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 32px;
+  margin-right: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 100%;
+}

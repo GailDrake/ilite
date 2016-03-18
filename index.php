@@ -178,75 +178,79 @@
 
 			<div class="home__sponsors__logo-wrap">
 
-				<a href="http://www.netapp.com/us/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/1.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.a1floodtech.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/2.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.lockheedmartin.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/3.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://battlefieldhs.schools.pwcs.edu/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/4.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.datasynctech.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/5.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="https://www.macedontechnologies.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/6.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.frdallc.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/7.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.bellpumpandwell.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/8.jpg )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="https://www.incadencecorp.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/9.png )" class="home__sponsors__logo"></div>
+				</a>
+
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
+					<div style="background-image: url( images/sponsors/10.jpg )" class="home__sponsors__logo"></div>
 				</a>
 
 				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/11.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="https://www.novec.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/12.jpg )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.afcea.org/site/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/13.gif )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://ascoweb.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/14.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.pwcs.edu/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/15.jpg )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://wanderstockphoto.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/16.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href=" http://www.usstem.org/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/17.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="https://www.geico.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/18.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.azosai.com/" class="home__sponsors__logo-link" target="_blank">
+				<a href="#" class="home__sponsors__logo-link" target="_blank">
 					<div style="background-image: url( images/sponsors/19.jpg )" class="home__sponsors__logo"></div>
 				</a>
 
@@ -262,13 +266,14 @@
 <div class="clearfix"></div>
 
 
-<?php include "../includes/footer.php" ?>
+<?php include "includes/footer.php" ?>
 
 
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
 </div>
 
+<?php include "includes/side-menu.php" ?>
 
 <!-- ######### JS FILES ######### -->
 <?php include "includes/javascript.php" ?>
