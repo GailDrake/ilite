@@ -1,29 +1,47 @@
 <div class="footer">
-        <div class="footerInfo">
-            <div class="col" >
-                <h5>CONTACT US</h5>
-                <a href="" >team1885@gmail.com</a>
-                <p>Coach Gail Drake</p>
-                <p>(571)261-4726</p>
-            </div>
-            <div class="col" >
-                <h5>LOCATION</h5>
-                <a href="" ><i class="fa fa-map-marker"></i>Map & Directions</a>
-                <p>ILITE Robotics</p>
-                <p>15000 Graduation Drive</p>
-                <p>Haymarket, VA 20169</p>
-            </div>
-            <div class="col" >
-                <h5>CALENDAR</h5>
-                <a href=""><i class="fa fa-calendar-o"></i>Team Events & Schedule</a>
-            </div>
-            <div class="col" >
-                <h5>GET CONNECTED</h5>
-                <a href=""><i class="fa fa-facebook id"></i></a>
-                <a href=""><i class="fa fa-twitter id"></i></a>
-                <a href=""><i class="fa fa-youtube id"></i></a>
-                <a href=""><i class="fa fa-instagram id"></i></a>
-            </div>
-        </div>
+  <div class="footerInfo">
 
+    <div class="col" >
+      <h5 class="footer__header">CONTACT US</h5>
+      <a class="footer__link" href="mailto:team1885@gmail.com" >team1885@gmail.com</a>
+      <p class="footer__text">Coach Gail Drake</p>
+      <p class="footer__text">(571)261-4726</p>
     </div>
+
+    <div class="col" >
+      <h5 class="footer__header">LOCATION</h5>
+      <a class="footer__link" href="/about/contactus.php" >
+        <i class="fa fa-map-marker"></i>
+        Map &amp; Directions
+      </a>
+      <p class="footer__text">ILITE Robotics</p>
+      <p class="footer__text">15000 Graduation Drive</p>
+      <p class="footer__text">Haymarket, VA 20169</p>
+    </div>
+
+    <div class="col" >
+      <h5 class="footer__header">CALENDAR</h5>
+      <a class="footer__link" href="/about/whereisilite.php">
+        <i class="fa fa-calendar-o"></i>
+        Team Events &amp; Schedule
+      </a>
+    </div>
+
+    <div class="col" >
+      <h5 class="footer__header">GET CONNECTED</h5>
+      <a href="https://www.facebook.com/iliterobotics/" target="_blank" class="footer__social">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a href="https://www.twitter.com/team1885" target="_blank" class="footer__social">
+        <i class="fa fa-twitter"></i>
+      </a>
+      <a href="https://www.youtube.com/channel/UCCWs22DHGwRloB613zOJ9UA" target="_blank" class="footer__social">
+        <i class="fa fa-youtube"></i>
+      </a>
+      <a href="https://www.instagram.com/team1885" target="_blank" class="footer__social">
+        <i class="fa fa-instagram"></i>
+      </a>
+    </div>
+  </div>
+
+</div>
