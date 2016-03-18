@@ -10,8 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
-	<link rel="shortcut icon" href="images/favicon.ico">
+
+	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -61,15 +61,16 @@
 					</div>
 
 				</div>
-<div class="containernew">
-<div class="membercap">
+
 <div id="breadnav">
   <ul class="crumbs">
     <li><a href="../index.php">Home</a></li>
     <li><a href="#">About</a></li>
     <li class="last"><a href="#">Members</a></li>
   </ul>
-  </div>
+</div>
+
+<div class="containernew">
 <div class="contentcontent">
 <div id="membercap">
 
@@ -1322,6 +1323,7 @@
 </div>
 </div>
 </div>
+
 </div><!-- end section -->
 
 <?php include "../includes/footer.php" ?>

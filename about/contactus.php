@@ -11,7 +11,7 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 
-	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -79,10 +79,10 @@
 <b>Coach Gail Drake:</b> (571) 261-4726
 </div>
 </div>
-</div><!-- end section -->
 
 <?php include "../includes/footer.php" ?>
 
+</div><!-- end section -->
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
 </div>

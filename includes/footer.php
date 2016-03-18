@@ -21,7 +21,7 @@
 
     <div class="col" >
       <h5 class="footer__header">CALENDAR</h5>
-      <a class="footer__link" href="/about/whereisilite.php">
+      <a class="footer__link" href="/getinvolved/whereisilite.php">
         <i class="fa fa-calendar-o"></i>
         Team Events &amp; Schedule
       </a>
