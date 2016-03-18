@@ -11,8 +11,12 @@
   background: #fff;
   box-shadow: none;
   opacity: 1;
+  -webkit-box-shadow:  0px 0px 55px -8px rgba(0,0,0,0.5);
+  -moz-box-shadow:     0px 0px 55px -8px rgba(0,0,0,0.5);
+  box-shadow:          0px 0px 55px -8px rgba(0,0,0,0.5);
   transition: opacity 200ms ease-out 50ms;
   .nav-container {
+    display: none;
     position: absolute;
     top: 0;
     right: 0;
@@ -47,6 +51,10 @@
     .caret {
       border-top: 	5px solid @green-light;
     }
+    .nav__link__wrapper {
+      left: inherit;
+      right: -5px;
+    }
   }
   .nav__link:hover {
     color: @purple-dark;
@@ -67,12 +75,14 @@
     position: absolute;
     left: -10px;
     width: 200px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
     background-color: #fff;
   }
   .nav__link__target {
     display: block;
     width: 100%;
-    padding: 0.25em 0.25em 0.25em 1em;
+    padding: 0.35em 0.35em 0.35em 1em;
     .raleway-bold;
     text-align: left;
     background-color: #fff;
@@ -88,6 +98,9 @@
   .home__top-style{
     .navigation {
       background: transparent;
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
       .nav__logo {
         height: 71px;
         width: 129px;
@@ -106,10 +119,6 @@
         color: @green-light;
         .caret {
           border-top: 	5px solid @green-light;
-        }
-        .nav__link__wrapper {
-          left: inherit;
-          right: -5px;
         }
       }
       .nav__link.action:hover {
@@ -136,10 +145,107 @@
 }
 
 
+@media all and (min-width: 768px) {
+  .navigation {
+    .nav-container {
+      display: block;
+    }
+  }
+}
+
 @media all and (min-width: 768px) and (max-width: 960px) {
   .navigation {
     .nav__link {
       margin: 30px 10px 0;
     }
+  }
+}
+
+
+
+
+// -------------- Slide out Menu for Mobile  ----------------
+.menu {
+	position: fixed;
+  width: auto;
+	background-color: #222222;
+	z-index: 101;
+	height: 100%;
+	right: 0;
+	top: 0; // 45px;  // Change back to 0 when notice has been removed
+	-webkit-transition: width 350ms ease-out 50ms;
+	transition: width 350ms ease-out 50ms;
+	// overflow: auto;
+  .right-0 {
+  	right: 0;
+  }
+  .right-240 {
+  	right: 240px;
+  }
+  .width-240 {
+  	width: 240px;
+  	overflow: auto; // placed here to get IE to play nice when menu is closed
+  }
+  .menu-box {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    min-height: 700px;
+    width: 100%;
+  }
+  .menu-list li {
+    position: relative;
+    margin: 0 0 0 2em;
+    border: solid 1px #575757;
+    border-style: none none solid none;
+  }
+  .menu-link {
+    display: block;
+    padding: 1.5em 0;
+    color: white;
+    font-size: 12px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.0625em;
+  }
+  .menu-link:hover {
+    color: #8c8c8c;
+  }
+  .menu-list .fake-link {
+    font-family: montserratLight, Verdana, Geneva, sans-serif;
+    cursor: default;
+  }
+  .menu-link.caret:after {
+    content: "";
+    position: absolute;
+    left: 95px;
+    top: 25px;
+    border-top: 	5px solid @accent;
+    border-left: 	4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  .menu__dropdown__wrapper {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background-color: @white;
+    z-index: 1;
+  }
+  .menu__dropdown__link {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    padding: 0.25em;
+    background-color: @lt-grey;
+    color: @text-med;
+  }
+  .menu__dropdown__link:hover {
+    background-color: @med-grey;
+    color: @black;
+  }
+  .menu__dropdown__link.current {
+    background-color: @lighter-grey;
+    color: @accent;
   }
 }

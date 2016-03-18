@@ -1,5 +1,11 @@
-<nav class="navigation">
+<nav id="navigation" class="navigation">
   <a class="nav__logo" href="../index.php"></a>
+
+  <div id="burger">
+
+    <div class="nav-mobile"><div id="nav-toggle"><span></span></div></div>
+  </div>
+
   <div class="nav-container">
 
     <div id="nav__about" class="nav__link">
@@ -40,13 +46,13 @@
     <div id="nav__involved" class="nav__link action">
 			Get Involved <div class="caret"></div>
 			<div class="nav__link__wrapper" id="nav__involved__wrapper">
-				<a href='/involved/whereisilite.php' class="nav__link__target">Where is Team 1885</a>
-				<a href='/involved/volunteereventportal.php' class="nav__link__target">Volunteer Portal</a>
-				<a href='/involved/studenteventportal.php' class="nav__link__target">Student Event Portal</a>
-				<a href='/involved/becomeasponsor.php' class="nav__link__target">Become a Sponsor</a>
-				<a href='/involved/becomeamember.php' class="nav__link__target">Become a Member</a>
-				<a href='/involved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
-				<a href='/involved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
+				<a href='/getinvolved/whereisilite.php' class="nav__link__target">Where is Team 1885</a>
+				<a href='/getinvolved/volunteereventportal.php' class="nav__link__target">Volunteer Portal</a>
+				<a href='/getinvolved/studenteventportal.php' class="nav__link__target">Student Event Portal</a>
+				<a href='/getinvolved/becomeasponsor.php' class="nav__link__target">Become a Sponsor</a>
+				<a href='/getinvolved/becomeamember.php' class="nav__link__target">Become a Member</a>
+				<a href='/getinvolved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
+				<a href='/getinvolved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
 			</div>
 		</div>
 

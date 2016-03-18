@@ -22445,7 +22445,7 @@ span {
   letter-spacing: 0.0625em;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
-  color: #242424;
+  color: #3f3f3f;
 }
 .home__wrap .home__section-sub-header {
   margin-top: 25px;
@@ -22604,9 +22604,13 @@ span {
   background: #fff;
   box-shadow: none;
   opacity: 1;
+  -webkit-box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
   transition: opacity 200ms ease-out 50ms;
 }
 .navigation .nav-container {
+  display: none;
   position: absolute;
   top: 0;
   right: 0;
@@ -22631,7 +22635,7 @@ span {
   font-weight: 600;
   font-size: 13px;
   letter-spacing: 0.0625em;
-  color: #4a4a4a;
+  color: #636363;
   cursor: pointer;
 }
 .navigation .nav__link.no-caret {
@@ -22643,6 +22647,10 @@ span {
 .navigation .nav__link.action .caret {
   border-top: 5px solid #43eb85;
 }
+.navigation .nav__link.action .nav__link__wrapper {
+  left: inherit;
+  right: -5px;
+}
 .navigation .nav__link:hover {
   color: #6737c8;
 }
@@ -22653,7 +22661,7 @@ span {
   position: absolute;
   right: 3px;
   top: 9px;
-  border-top: 5px solid #4a4a4a;
+  border-top: 5px solid #636363;
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
 }
@@ -22662,12 +22670,14 @@ span {
   position: absolute;
   left: -10px;
   width: 200px;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
   background-color: #fff;
 }
 .navigation .nav__link__target {
   display: block;
   width: 100%;
-  padding: 0.25em 0.25em 0.25em 1em;
+  padding: 0.35em 0.35em 0.35em 1em;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   text-align: left;
@@ -22679,6 +22689,9 @@ span {
 }
 .home .home__top-style .navigation {
   background: transparent;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
 }
 .home .home__top-style .navigation .nav__logo {
   height: 71px;
@@ -22700,10 +22713,6 @@ span {
 .home .home__top-style .navigation .nav__link.action .caret {
   border-top: 5px solid #43eb85;
 }
-.home .home__top-style .navigation .nav__link.action .nav__link__wrapper {
-  left: inherit;
-  right: -5px;
-}
 .home .home__top-style .navigation .nav__link.action:hover {
   color: #3dc67a;
 }
@@ -22717,10 +22726,98 @@ span {
   opacity: 0;
   pointer-events: none;
 }
+@media all and (min-width: 768px) {
+  .navigation .nav-container {
+    display: block;
+  }
+}
 @media all and (min-width: 768px) and (max-width: 960px) {
   .navigation .nav__link {
     margin: 30px 10px 0;
   }
+}
+.menu {
+  position: fixed;
+  width: auto;
+  background-color: #222222;
+  z-index: 101;
+  height: 100%;
+  right: 0;
+  top: 0;
+  -webkit-transition: width 350ms ease-out 50ms;
+  transition: width 350ms ease-out 50ms;
+}
+.menu .right-0 {
+  right: 0;
+}
+.menu .right-240 {
+  right: 240px;
+}
+.menu .width-240 {
+  width: 240px;
+  overflow: auto;
+}
+.menu .menu-box {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  min-height: 700px;
+  width: 100%;
+}
+.menu .menu-list li {
+  position: relative;
+  margin: 0 0 0 2em;
+  border: solid 1px #575757;
+  border-style: none none solid none;
+}
+.menu .menu-link {
+  display: block;
+  padding: 1.5em 0;
+  color: white;
+  font-size: 12px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.0625em;
+}
+.menu .menu-link:hover {
+  color: #8c8c8c;
+}
+.menu .menu-list .fake-link {
+  font-family: montserratLight, Verdana, Geneva, sans-serif;
+  cursor: default;
+}
+.menu .menu-link.caret:after {
+  content: "";
+  position: absolute;
+  left: 95px;
+  top: 25px;
+  border-top: 5px solid #3dbfef;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+}
+.menu .menu__dropdown__wrapper {
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  background-color: #ffffff;
+  z-index: 1;
+}
+.menu .menu__dropdown__link {
+  display: block;
+  width: 100%;
+  font-size: 16px;
+  padding: 0.25em;
+  background-color: #e7e7e7;
+  color: #636363;
+}
+.menu .menu__dropdown__link:hover {
+  background-color: #d2d2d2;
+  color: #1d2530;
+}
+.menu .menu__dropdown__link.current {
+  background-color: #f0f0f0;
+  color: #3dbfef;
 }
 .sponsorbig,
 .sponsormed,
