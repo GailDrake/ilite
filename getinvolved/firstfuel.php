@@ -80,7 +80,7 @@ It's simple: each student needs to bring in at least 1 meal per season, and in r
 
 <h1>Take a look at what we're cooking up:</h1>
 
-<img src="../images/food1.jpg" class="array" />  <img src="../images/food2.jpg" class="array" />  <img src="../images/food3.jpg" class="array" />
+<img src="../images/fuel1.jpg" class="array" />  <img src="../images/fuel2.jpg" class="array" />  <img src="../images/fuel3.jpg" class="array" />
 <br><hr />
 
 <h1>Provide fuel for our team!</h1>
