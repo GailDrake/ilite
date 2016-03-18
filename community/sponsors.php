@@ -75,7 +75,7 @@
 	</div>
 
 	<div class="sponsor__text">
-		<span>NetApp provides software systems and services to manage and store data.</span>
+		<span> Leading organizations worldwide count on NetApp for software, systems and services to manage and store their data. Customers value our teamwork, expertise and passion for helping them succeed now and into the future.</span>
 	</div>
 
 </div>
@@ -182,7 +182,7 @@
 
 	<div class="sponsor__text">
 		<span>
-			Bell Pump &amp; Well in Fairfax Station, Virginia, proudly offers water treatment services to communities throughout Northern Virginia.
+		Bell Pump & Well, Inc is a local, 50 + year family owned & operated business specializing in  well water systems; including water pump & pressure tank replacement, whole house water filtration, inspections for real estate transactions and offer a full spectrum of water testing options. Bell Pump & Well proudly serves customers in Fairfax, Fauquier, Loudoun & Prince William Counties.
 		</span>
 	</div>
 </div>
