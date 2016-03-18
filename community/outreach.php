@@ -38,27 +38,31 @@
 
   	<?php include "../includes/header.php" ?>
 
-<div class="head-image inner-page">
+		<div class="head-image inner-page" style="background-image: url(  )">
 
-					<div class="head-image-inner">
+			<div class="head-image-inner">
 
-						<div class="head-image-content clear">
+				<div class="head-image-content clear">
 
-							<div class="home-image-wrap clear">
-								<div class="home-image-inner-content">
+					<div class="home-image-wrap clear">
+						<div class="home-image-inner-content">
 
-									<div class="headline-title">
-										<h1>Outreach</h1>
-									</div>
-
-								</div>
+							<div class="headline-title">
+								<h1>Outreach</h1>
 							</div>
 
-						</div>
+							<div class="head-image__subheader">ILITE leads several programs to help spread the power of problem solving with science and technology to all ages throughout the community.</div>
 
+						</div>
 					</div>
 
 				</div>
+
+			</div>
+
+		</div>
+
+
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">
@@ -66,7 +70,7 @@
     <li><a href="#">Community</a></li>
     <li class="last"><a href="#">Outreach</a></li>
   </ul>
-  </div>
+</div>
 <div class="contentcontent">
 
 		<div class="outreach__image" style="background-image: url( ../images/site-img1.jpg );"></div>

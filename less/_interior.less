@@ -1,0 +1,57 @@
+
+// Header
+.head-image.inner-page {
+  margin-top: 80px;
+  padding: 135px 0 120px;
+  background: white;
+  overflow: hidden;
+  .bg-image( cover ); // mixin with variable from _variables.less
+  .home-image-inner-content {
+    padding: 0 5%;
+  }
+  .head-image-content {
+    .home-image-wrap {
+      padding: 0;
+    }
+  }
+  .headline-title h1 {
+    font-size: 30px;
+    .raleway-bold;
+    color: @text-dark;
+    text-align: center;
+    text-shadow: none;
+    letter-spacing: 0.0625em;
+  }
+  .head-image__subheader {
+    font-size: 18px;
+    max-width: 700px;
+    margin: 40px auto 0;
+    line-height: 200%;
+    .raleway-bold;
+    text-align: center;
+    color: @text-light;
+    text-shadow: none;
+  }
+}
+// image with header image
+.head-image.has-image {
+  .headline-title h1 {
+    color: #fff;
+  }
+  .head-image__subheader {
+    color: #fff;
+  }
+}
+
+
+// Breadcrumbs aren't really useful for one level navigation. I'm hiding them
+//   via CSS so that we can use them later if our organization gets more complex
+#breadnav {
+  display: none;
+}
+
+
+// Body style
+.containernew {
+  background-color: @off-white;
+}

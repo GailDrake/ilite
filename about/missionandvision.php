@@ -38,27 +38,30 @@
 
 	<?php include "../includes/header.php" ?>
 
-<div class="head-image inner-page">
+	<div class="head-image inner-page has-image" style="background-image: url( /images/headers/mission-header.jpg )">
 
-					<div class="head-image-inner">
+		<div class="head-image-inner">
 
-						<div class="head-image-content clear">
+			<div class="head-image-content clear">
 
-							<div class="home-image-wrap clear">
-								<div class="home-image-inner-content">
+				<div class="home-image-wrap clear">
+					<div class="home-image-inner-content">
 
-									<div class="headline-title">
-										<h1>Mission and Vision</h1>
-									</div>
-
-								</div>
-							</div>
-
+						<div class="headline-title">
+							<h1>Mission &amp; Vision</h1>
 						</div>
 
-					</div>
+						<div class="head-image__subheader"></div>
 
+					</div>
 				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">

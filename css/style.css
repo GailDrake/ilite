@@ -22599,11 +22599,10 @@ span {
   margin: 0;
   padding: 0;
   border: none;
-  background: #fff;
+  background: #f7f7f7;
   opacity: 1;
-  -webkit-box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 55px -8px rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid #eeeeee;
+  box-shadow: none;
   -webkit-transition: opacity 200ms ease-out 50ms, left 350ms ease-out 50ms, right 350ms ease-out 50ms;
   transition: opacity 200ms ease-out 50ms, left 350ms ease-out 50ms, right 350ms ease-out 50ms;
 }
@@ -22640,10 +22639,10 @@ span {
   padding-right: 0;
 }
 .navigation .nav__link.action {
-  color: #43eb85;
+  color: #3dc67a;
 }
 .navigation .nav__link.action .caret {
-  border-top: 5px solid #43eb85;
+  border-top: 5px solid #3dc67a;
 }
 .navigation .nav__link.action .nav__link__wrapper {
   left: inherit;
@@ -22654,6 +22653,12 @@ span {
 }
 .navigation .nav__link:hover .caret {
   border-top: 5px solid #6737c8;
+}
+.navigation .nav__link.action:hover {
+  color: #35b46e;
+}
+.navigation .nav__link.action:hover .caret {
+  border-top: 5px solid #35b46e;
 }
 .navigation .caret {
   position: absolute;
@@ -22698,6 +22703,7 @@ span {
 }
 .home .home__top-style .navigation {
   background: transparent;
+  border: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -22925,6 +22931,53 @@ span {
     width: 100%;
     min-height: auto;
   }
+}
+.head-image.inner-page {
+  margin-top: 80px;
+  padding: 135px 0 120px;
+  background: white;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+.head-image.inner-page .home-image-inner-content {
+  padding: 0 5%;
+}
+.head-image.inner-page .head-image-content .home-image-wrap {
+  padding: 0;
+}
+.head-image.inner-page .headline-title h1 {
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #242424;
+  text-align: center;
+  text-shadow: none;
+  letter-spacing: 0.0625em;
+}
+.head-image.inner-page .head-image__subheader {
+  font-size: 18px;
+  max-width: 700px;
+  margin: 40px auto 0;
+  line-height: 200%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #959595;
+  text-shadow: none;
+}
+.head-image.has-image .headline-title h1 {
+  color: #fff;
+}
+.head-image.has-image .head-image__subheader {
+  color: #fff;
+}
+#breadnav {
+  display: none;
+}
+.containernew {
+  background-color: #f7f7f7;
 }
 .footer {
   padding: 30px 5%;
