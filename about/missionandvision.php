@@ -38,7 +38,7 @@
 
 	<?php include "../includes/header.php" ?>
 
-	<div class="head-image inner-page has-image" style="background-image: url( /images/headers/mission-header.jpg )">
+	<div class="head-image inner-page" style="background-image: url( /images/headers/mission-header.jpg )">
 
 		<div class="head-image-inner">
 

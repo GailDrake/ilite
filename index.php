@@ -191,11 +191,11 @@
 				</a>
 
 				<a href="http://battlefieldhs.schools.pwcs.edu/" class="home__sponsors__logo-link" target="_blank">
-					<div style="background-image: url( images/sponsors/4.png )" class="home__sponsors__logo"></div>
+					<div style="background-image: url( images/sponsors/4.jpg )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.datasynctech.com/" class="home__sponsors__logo-link" target="_blank">
-					<div style="background-image: url( images/sponsors/5.png )" class="home__sponsors__logo"></div>
+				<a href="http://www.usstem.org/" class="home__sponsors__logo-link" target="_blank">
+					<div style="background-image: url( images/sponsors/17.png )" class="home__sponsors__logo"></div>
 				</a>
 
 				<a href="https://www.macedontechnologies.com/" class="home__sponsors__logo-link" target="_blank">
@@ -238,8 +238,8 @@
 					<div style="background-image: url( images/sponsors/16.png )" class="home__sponsors__logo"></div>
 				</a>
 
-				<a href="http://www.usstem.org/" class="home__sponsors__logo-link" target="_blank">
-					<div style="background-image: url( images/sponsors/17.png )" class="home__sponsors__logo"></div>
+				<a href="http://www.datasynctech.com/" class="home__sponsors__logo-link" target="_blank">
+					<div style="background-image: url( images/sponsors/5.png )" class="home__sponsors__logo"></div>
 				</a>
 
 				<a href="https://www.geico.com/" class="home__sponsors__logo-link" target="_blank">

@@ -5,6 +5,7 @@
   padding: 135px 0 120px;
   background: white;
   overflow: hidden;
+  background-image: url( /images/headers/generic-header.jpg );
   .bg-image( cover ); // mixin with variable from _variables.less
   .home-image-inner-content {
     padding: 0 5%;
@@ -17,7 +18,7 @@
   .headline-title h1 {
     font-size: 30px;
     .raleway-bold;
-    color: @text-dark;
+    color: #fff;
     text-align: center;
     text-shadow: none;
     letter-spacing: 0.0625em;
@@ -28,18 +29,10 @@
     margin: 40px auto 0;
     line-height: 200%;
     .raleway-bold;
+    font-weight: 400;
     text-align: center;
-    color: @text-light;
+    color: #fff;
     text-shadow: none;
-  }
-}
-// image with header image
-.head-image.has-image {
-  .headline-title h1 {
-    color: #fff;
-  }
-  .head-image__subheader {
-    color: #fff;
   }
 }
 

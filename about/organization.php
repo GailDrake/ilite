@@ -39,7 +39,7 @@
   <?php include "../includes/header.php" ?>
 
 
-<div class="head-image inner-page" style="background-image: url(  )">
+<div class="head-image inner-page">
 
 					<div class="head-image-inner">
 
