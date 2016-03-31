@@ -1,0 +1,312 @@
+
+
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 70px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: @off-white;
+  opacity: 1;
+  border-bottom: 1px solid @lt-grey-light;
+  box-shadow: none;
+  -webkit-transition: opacity 200ms ease-out 50ms, left 350ms ease-out 50ms, right 350ms ease-out 50ms;
+	transition:         opacity 200ms ease-out 50ms, left 350ms ease-out 50ms, right 350ms ease-out 50ms;
+  .nav-container {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+  }
+  .nav__logo {
+    display: block;
+    position: absolute;
+    height: 76px;
+    width: 133px;
+    top: 5px;
+    left: 30px;
+    background-image: url( "../images/ilite-logo.png" );
+    background-repeat: no-repeat;
+  }
+  .nav__link {
+    display: inline-block;
+    position: relative;
+    margin: 25px 15px 0;
+    padding-right: 15px;
+    .raleway-bold;
+    font-size: 13px;
+    letter-spacing: 0.0625em;
+    color: @text-med;
+    cursor: pointer;
+  }
+  .nav__link.no-caret {
+    padding-right: 0;
+  }
+  .nav__link.action {
+    color: @green-dark;
+    .caret {
+      border-top: 	5px solid @green-dark;
+    }
+    .nav__link__wrapper {
+      left: inherit;
+      right: -5px;
+    }
+  }
+  .nav__link:hover {
+    color: @purple-dark;
+    .caret {
+      border-top: 	5px solid @purple-dark;
+    }
+  }
+  .nav__link.action:hover {
+    color: darken( @green-dark, 5% );
+    .caret {
+      border-top: 	5px solid darken( @green-dark, 5% );
+    }
+  }
+  .caret {
+    position: absolute;
+    right: 3px;
+    top: 9px;
+    border-top: 	5px solid @text-med;
+    border-left: 	4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  .nav__link__wrapper {
+    display: none;
+    position: absolute;
+    left: -10px;
+    width: 200px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    background-color: #fff;
+  }
+  .nav__link__target {
+    display: block;
+    width: 100%;
+    padding: 0.35em 0.35em 0.35em 1em;
+    .raleway-bold;
+    text-align: left;
+    background-color: #fff;
+    color: @text-light;
+  }
+  .nav__link__target:hover {
+    color: @purple-dark;
+  }
+
+  // Hamburger
+  .nav-mobile {
+    display: block;
+  }
+  #nav-toggle span,
+  #nav-toggle span:before,
+  #nav-toggle span:after {
+    background: @text-dark;
+  }
+  #nav-toggle.active span {
+    background: transparent;
+  }
+}
+
+// Home page is a bit different (only at the top)
+.home {
+  .home__top-style{
+    .navigation {
+      background: transparent;
+      border: none;
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      .nav__logo {
+        height: 71px;
+        width: 129px;
+        background-image: url( "../images/ilite-logo__white.png" );
+      }
+      .nav__link {
+        color: #fff;
+      }
+      .nav__link:hover {
+        color: @text-light;
+        .caret {
+          border-top: 	5px solid @text-light;
+        }
+      }
+      .nav__link.action {
+        color: @green-light;
+        .caret {
+          border-top: 	5px solid @green-light;
+        }
+      }
+      .nav__link.action:hover {
+        color: @green-dark;
+        .caret {
+          border-top: 	5px solid @green-dark;
+        }
+      }
+      .caret {
+        border-top: 	5px solid #fff;
+      }
+      // Hamburger
+      #nav-toggle span,
+      #nav-toggle span:before,
+      #nav-toggle span:after {
+        background: #fff;
+      }
+      #nav-toggle.active span {
+        background: transparent;
+      }
+    }
+  }
+}
+
+// Hide when scrolling over top div
+.home {
+  .fade-nav {
+    .navigation {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+}
+
+
+@media all and (min-width: 768px) {
+  .navigation {
+    // height: 80px;
+    .nav-container {
+      display: block;
+    }
+    .nav-mobile {
+      display: none;
+    }
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 960px) {
+  .navigation {
+    .nav__link {
+      margin: 25px 10px 0;
+    }
+  }
+}
+
+
+
+
+// -------------- Slide out Menu for Mobile  ----------------
+.right-0 {
+  right: 0;
+}
+.right-240 {
+  right: 240px;
+}
+.right-left-240 {
+  right: 240px;
+  left: -240px;
+}
+.width-240 {
+  width: 240px!important;
+  overflow: auto; // placed here to get IE to play nice when menu is closed
+}
+#wrap {
+  position: absolute;
+  -webkit-transition: right 350ms ease-out 50ms, left 350ms ease-out 50ms;
+  transition:         right 350ms ease-out 50ms, left 350ms ease-out 50ms;
+  overflow: hidden;
+}
+// #navigation
+// #side-menu
+
+.menu {
+	position: fixed;
+  width: 0;
+	background-color: #222222;
+	z-index: 101;
+	height: 100%;
+	right: 0;
+	top: 0; // 45px;  // Change back to 0 when notice has been removed
+	-webkit-transition: width 350ms ease-out 50ms, right 350ms ease-out 50ms;
+	transition:         width 350ms ease-out 50ms, right 350ms ease-out 50ms;
+  overflow: hidden;
+  .nav-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 20px;
+    text-align: left;
+  }
+  .nav__logo {
+    display: block;
+    position: absolute;
+    height: 76px;
+    width: 133px;
+    top: 5px;
+    left: 30px;
+    background-image: url( "../images/ilite-logo.png" );
+    background-repeat: no-repeat;
+  }
+  .nav__link {
+    display: block;
+    position: relative;
+    margin: 30px 15px 0;
+    padding-right: 15px;
+    .raleway-bold;
+    font-size: 13px;
+    letter-spacing: 0.0625em;
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav__link.no-caret {
+    padding-right: 0;
+  }
+  .nav__link.action {
+    color: @green-light;
+    .caret {
+      border-top: 	5px solid @green-light;
+    }
+    .nav__link__wrapper {
+      left: inherit;
+      right: -5px;
+    }
+  }
+  .nav__link:hover {
+    color: @lt-grey;
+    .caret {
+      border-top: 	5px solid @lt-grey;
+    }
+  }
+  .caret {
+    position: absolute;
+    right: 3px;
+    top: 9px;
+    border-top: 	5px solid #fff;
+    border-left: 	4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  .nav__link__wrapper {
+    display: none;
+    position: absolute;
+    left: -10px;
+    width: 200px;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    background-color: #fff;
+    z-index: 1;
+  }
+  .nav__link__target {
+    display: block;
+    width: 100%;
+    padding: 0.35em 0.35em 0.35em 1em;
+    .raleway-bold;
+    text-align: left;
+    background-color: #fff;
+    color: @text-med;
+  }
+  .nav__link__target:hover {
+    color: @lt-grey;
+  }
+}

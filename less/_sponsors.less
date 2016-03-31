@@ -1,0 +1,59 @@
+
+// Problem: Sponsors layout is inconsistent
+// Solution: Left align all logos & prevent stretching. Text should be vertically
+// centered in the space to the right. Had to add wrapper elements to center content.
+.sponsorbig,
+.sponsormed,
+.sponsorsmall {
+  clear: both;
+  height: auto;
+  min-height: 200px;
+  overflow: hidden;
+  .sponsor__image{
+    display: flex;
+    float: left;
+    width: 200px;
+    height: 200px;
+    img {
+      margin: auto;
+      height: auto;
+      width: 100%;
+    }
+  }
+  .sponsor__image.tall-logo-shim {
+    width: 150px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  .sponsor__text {
+    display: flex;
+    float: left;
+    min-height: 200px;
+    width: ~"calc( 100% - 200px)"; // syntax is to prevent LESS error
+    span {
+      display: inline-block;
+      margin: auto 0 auto 20px;
+    }
+  }
+}
+.sponsors__hr {
+  clear: both;
+}
+
+
+@media all and (max-width: 767px) {
+  .sponsorbig,
+  .sponsormed,
+  .sponsorsmall {
+    .sponsor__image{
+      display: flex;
+      margin: 0 auto;
+      float: none;
+    }
+    .sponsor__text {
+      float: none;
+      width: 100%;
+      min-height: auto;
+    }
+  }
+}

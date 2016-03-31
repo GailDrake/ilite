@@ -1,0 +1,56 @@
+// Problem: Have more content driven imagery.
+// Solution: Change the background image
+
+.home__banner {
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  background-image: url( "../images/home/home-hero-sm.jpg" );
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  .home__banner__text-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  h1, h2, h3 {
+    text-align: center;
+    color: #fff;
+    padding: 0 5%;
+  }
+  h1 {
+    .raleway-bold; // this is a mixin from _variables.less
+    font-size: 50px;
+    line-height: 120%;
+    letter-spacing: 0.0625em;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-size: 25px;
+    .raleway-regular;
+  }
+  h3 {
+    font-size: 18px;
+    .raleway-bold;
+    line-height: 200%;
+  }
+  .home__banner__button {
+    .button( @green-light ); // mixin from _variables.less
+    margin-top: 35px;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .home__banner {
+    padding-top: 250px;
+    padding-bottom: 200px;
+    background-image: url( "../images/home/home-hero-med.jpg" );
+  }
+}
+
+@media all and (min-width: 1200px) {
+  .home__banner {
+    background-image: url( "../images/home/home-hero-lg.jpg" );
+  }
+}
