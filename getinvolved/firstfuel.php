@@ -51,7 +51,7 @@
 										<h1>FIRST Fuel</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE relies on members and their parents for food at weekday and weekend meetings. All members must contribute to FIRST Fuel. </div>
 
 								</div>
 							</div>

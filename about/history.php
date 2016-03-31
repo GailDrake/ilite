@@ -52,7 +52,7 @@
 										<h1>Team History</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE has a long 11 year history that has spanned countless achievements.</div>
 
 								</div>
 							</div>

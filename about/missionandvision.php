@@ -51,7 +51,7 @@
 							<h1>Mission &amp; Vision</h1>
 						</div>
 
-						<div class="head-image__subheader"></div>
+						<div class="head-image__subheader">Learn what ILITE is about!</div>
 
 					</div>
 				</div>

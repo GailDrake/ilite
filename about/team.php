@@ -51,7 +51,7 @@
 										<h1>Members</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE has a team organization with an emphasis on student leadership and mentorship.</div>
 
 								</div>
 							</div>

@@ -52,7 +52,7 @@
 										<h1>Become a sponsor</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE values sponsors for providing immeasurable resources to our team. Become a sponsor as a commitment to the engineers and problem solvers of tomorrow!</div>
 
 								</div>
 							</div>

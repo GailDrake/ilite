@@ -51,7 +51,7 @@
 										<h1>Student Event Portal </h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE maintains internal events such as off-season challenges, FIRST workshops, and more.</div>
 
 								</div>
 							</div>

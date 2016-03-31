@@ -52,7 +52,7 @@
 										<h1>Contact Us</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE values being a community institution with a community presence, feel free to contact us!</div>
 
 								</div>
 							</div>

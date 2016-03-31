@@ -51,7 +51,7 @@
 										<h1>HayMaker Stem Expo</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE created and hosted the inaugural Haymarket STEM Expo in the Winter of 2015 and has continued to maintain its annual status since.</div>
 
 								</div>
 							</div>

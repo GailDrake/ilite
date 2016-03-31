@@ -52,7 +52,7 @@
 										<h1>What is FIRST?</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">FIRST, <i>F</i>or the <i>I</i>nspiration and <i>R</i>ecognition of <i>S</i>cience and <i>T</i>echnology, was founded in 1992 by Dean Kamen and has expanded to three distinct subprograms.</div>
 
 								</div>
 							</div>
