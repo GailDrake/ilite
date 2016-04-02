@@ -72,10 +72,373 @@
 <div class="contentcontent">
 
 <p> At ILITE Robotics, we have promising videographers who take lots of film of our team’s activities. They capture our effervescent and interesting teammates working, learning, and even playing.  Videos of us can be viewed below.</p>
-<a href="https://www.youtube.com/watch?v=Ibox9D4nyxM">2012 fall video blog link</a>
-<p>Interested in what happens in ILITE Robotics? We asked our students about what they do, experience and learn in the team. They also tell us about how ILITE can  help them in their future.</p>
-<a href="https://www.youtube.com/watch?v=YXGm9MaFMQ4">World championship match video link</a>
-<p> Team 1885’s first match at the 2011 FRC World Championships</p>
+
+<div class="imageGrid">
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Portsmouth FRC District 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="https://www.dropbox.com/sh/nan3z5cw8w6jy2d/AACAj4koZIgp4ZPRkMMuOutta?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Bethesda FRC District 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Northern VA FRC District 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="https://www.dropbox.com/sh/eiyrij42zkwfgbg/AABoaTOrG5zPs23rbvw1lRhNa?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Holiday Party 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>IROC 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="https://www.dropbox.com/sh/rad7iytt71r2d6j/AACArDXkXrF5Pho-4wrUqSFBa?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Battle of Baltimore 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="https://www.dropbox.com/sh/rrslobv7qt7v819/AABq_zFgvb_QP7PRxK3ME1Qxa?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Haymarket Day 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Tropical Smoothie Cafe 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>SKY Robotics 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Greater DC FRC Regional 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Pennsylvania FRC Regional 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>First Annual STEM Expo 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>DC United 2015</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Holiday Party 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Haymarket FLL Regional 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>IROC 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Air and Scare 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Haymarket Day 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Naval IT Day 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Helicopter Day 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Be-a-Pilot Day 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Chesapeake FRC Regional 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Washington DC FRC Regional 2014</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Haymarket Day 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>IROC 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+  <a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>DC United 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Capitol Visit 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Washington DC FRC Regional 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Chesapeake FRC Regional 2013</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Holiday Party 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Haymarket FLL Regional 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>IROC 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Air and Scare 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>VCU FRC Regional 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Pumpkin Pandemonium 2012</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Holiday Party 2011</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Air and Scare 2011</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2011</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>DC FRC Regional 2011</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>IROC 2010</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+<a href="">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Battle O’ Baltimore 2009</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+
+</div>
+
+
 </div>
 </div><!-- end section -->
 <?php include "../includes/footer.php" ?>
