@@ -52,7 +52,7 @@
 										<h1>Scholarships</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">FIRST offers numerous scholarships in a variety of contexts for members of FIRST teams.</div>
 
 								</div>
 							</div>

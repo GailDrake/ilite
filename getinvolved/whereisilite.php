@@ -52,7 +52,7 @@
 										<h1>Where is ILITE?</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE, FRC Team 1885, remains committed to our vision wherever we may be. Follow our travels to keep up or even join us!</div>
 
 								</div>
 							</div>

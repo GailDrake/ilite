@@ -52,7 +52,7 @@
 										<h1>2016 Season</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE has worked hard to build a quality robot and team image for the 2016 FRC Challenge, FIRST Stronghold<sub>TM</sub></div>
 
 								</div>
 							</div>

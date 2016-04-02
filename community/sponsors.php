@@ -51,7 +51,7 @@
 										<h1>Sponsors</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE appreciates its sponsors very much, for without them we could do very little.</div>
 
 								</div>
 							</div>

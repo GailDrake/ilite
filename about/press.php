@@ -51,7 +51,7 @@
 										<h1>Press</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE values maintaining a strong media and press presence.</div>
 
 								</div>
 							</div>

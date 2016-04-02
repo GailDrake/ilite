@@ -51,7 +51,7 @@
 										<h1>Photos and Videos</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE firmly believes in investing in media forms that allow us to share our collective experience as a team.</div>
 
 								</div>
 							</div>

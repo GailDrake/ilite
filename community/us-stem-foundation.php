@@ -52,7 +52,7 @@
 										<h1>US STEM Foundation</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">The US STEM Foundation was founded by ILITE Alumni to enable others to spread and receive both the message of FIRST and interests in STEM.</div>
 
 								</div>
 							</div>

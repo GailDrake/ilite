@@ -51,7 +51,7 @@
 										<h1>Summer Camps 2016</h1>
 									</div>
 
-									<div class="head-image__subheader"></div>
+									<div class="head-image__subheader">ILITE hosts several academic camps during the summer for a variety of age groups and interests that puts emphasis on igniting interest in STEM.</div>
 
 								</div>
 							</div>
