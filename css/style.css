@@ -23078,8 +23078,8 @@ span {
   line-height: 0;
 }
 .imageGrid .tile {
-  width:24.6%;
-  min-height:20em;
+  width:14em;
+  min-height:14em;
   line-height: 1.2;
   display:inline-block;
   background-size: cover;
