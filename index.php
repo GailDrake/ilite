@@ -11,7 +11,7 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
     
-	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="shortcut icon" href="images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -74,15 +74,18 @@
 			<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
 
 				<div class="home__img-holder">
-					<div class="home__img first"></div>
+<div class="home__img summer-camp"></div>
+				
 				</div>
-
-		    <div class="addes">
-		      <em><a href="#"><i class="fa fa-map-marker"></i> Google Map</a></em>
-		      <strong>FRC Districts, ILITE Hosted</strong>
-					<strong>March 5th - March 6th</strong>
+ <div class="addes">
+		      <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
+		      <strong><a href="community/summer-camps.php">2016 Summer Camps</a></strong>
+					<strong>June 21st-24th, June 27th-30th</strong>
 					15000 Graduation Dr, Haymarket, VA 20169
 				</div>
+
+
+		  
 
 			</div><!-- end section -->
 
@@ -92,8 +95,9 @@
 					<div class="home__img first-stronghold"></div>
 				</div>
 
-		  	<div class="addes">
-					<strong>RoboProm, ILITE Hosted</strong>
+		  <div class="addes">
+		      <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
+		      <strong>RoboProm, ILITE Hosted</strong>
 					<strong>March 5th @ 9:00 pm - 10:00 pm</strong>
 					15000 Graduation Dr, Haymarket, VA 20169
 				</div>
@@ -103,13 +107,13 @@
 		  <div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
 
 				<div class="home__img-holder">
-					<div class="home__img summer-camp"></div>
+					<div class="home__img first"></div>
 				</div>
 
 		    <div class="addes">
-		      <em><a href="#"><i class="fa fa-map-marker"></i> Google Map</a></em>
-		      <strong>2016 Summer Camps</strong>
-					<strong>TBD</strong>
+		      <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
+		      <strong>FRC Districts, ILITE Hosted</strong>
+					<strong>March 5th - March 6th</strong>
 					15000 Graduation Dr, Haymarket, VA 20169
 				</div>
 
@@ -131,34 +135,37 @@
 			<div class="flexbox-columns">
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
-					<a class="home__img-holder" href="http://www.northernvatimes.com/gainesville/article/battlefield-hosts-stem-expo-jan.-23">
-						<div class="home__img haymaker"></div>
+					<a class="home__img-holder" href="#">
+						<div class="home__img champs-2015"></div> 
 					</a>
 					<div class="addes">
-						<strong>ILITE Hosts HayMaker STEM Expo</strong>
-						In the midst of build season, ILITE hosted a STEM Expo where the team exhibited many different fun, educational activities.
+						<strong>ILITE @ World Championships 2016</strong>
+						ILITE does it again! FRC Team 1885, ILITE qualified for the World Championships, a <i>12 year streak</i>, after winning it at the district and regional levels. ILITE has also won the Entrepreneurship and the Industrial Design regional Awards.
 					</div>
+					
+				
 				</div><!-- end section -->
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="250">
-					<a class="home__img-holder" href="http://patch.com/virginia/manassas/frc-robotics-teams-compete-ilite-robotics-season-challenge-iroc-battlefield-high-school-haymarket-va">
-						<div class="home__img hosts-iroc"></div>
+					<a class="home__img-holder" href="http://www.northernvatimes.com/gainesville/article/battlefield-hosts-stem-expo-jan.-23">
+						<div class="home__img haymaker"></div>
 					</a>
-					<div class="addes">
-						<strong>ILITE Hosts &amp; Shines at IROC</strong>
-						IROC is a FIRST robotics off season hosted annually by Battlefield High School FRC Team 1885, ILITE Robotics in Haymarket
+						<div class="addes">
+						<strong>ILITE Hosts HayMaker STEM Expo:</strong>
+						In the midst of build season, ILITE hosted its 2nd annual STEM Expo. The event boasted 50+ experiments, exhibits, and family-friendly activities as well as over 2000 attendees exhibits and the county's largest college fair.
 					</div>
+					
+					
 				</div><!-- end section -->
 
 				<div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
 
-					<a class="home__img-holder" href="http://www.connectionnewspapers.com/news/2014/apr/03/area-robotics-teams-compete-patriot-center/">
-						<div class="home__img champs-2015"></div>
+					<a class="home__img-holder" href="http://patch.com/virginia/manassas/frc-robotics-teams-compete-ilite-robotics-season-challenge-iroc-battlefield-high-school-haymarket-va">
+						<div class="home__img hosts-iroc"></div> 
 					</a>
-
-					<div class="addes">
-						<strong>ILITE @ World Championships 2015</strong>
-						ILITE does it again! FRC Team 1885, ILITE qualified by winning the DC Regional Chairman’s Award, thus earning a spot in the World Championship.
+<div class="addes">
+						<strong>ILITE Hosts &amp; Shines at IROC:</strong>
+						IROC, ILITE Robotics Offseason Challenge, is a FIRST robotics off season hosted annually by Battlefield High School FRC Team 1885, ILITE Robotics in Haymarket. This year's game was the 2015 FRC Challenge, Recycle Rush.
 					</div>
 				</div><!-- end section -->
 			</div>
@@ -174,7 +181,7 @@
 		<div class="home__sponsors__container">
 
 			<p class="home__section-header">our sponsors</p>
-			<p class="home__section-sub-header">We thank our sponsors for thier continued support.</p>
+			<p class="home__section-sub-header">We thank our sponsors for their continued support.</p>
 
 			<div class="home__sponsors__logo-wrap">
 

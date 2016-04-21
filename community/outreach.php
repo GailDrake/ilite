@@ -51,7 +51,7 @@
 								<h1>Outreach</h1>
 							</div>
 
-							<div class="head-image__subheader">ILITE spreads interest, recognition, and appreciation for STEM to various age groups, organizations, and individual members in our community.</div>
+							<div class="head-image__subheader">ILITE leads several programs to help spread the power of problem solving with science and technology to all ages throughout the community.</div>
 
 						</div>
 					</div>

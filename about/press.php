@@ -11,7 +11,7 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
     
-	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="shortcut icon" href="../images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -51,7 +51,8 @@
 										<h1>Press</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE values maintaining a strong media and press presence.</div>
+									<div class="head-image__subheader"> ILITE values maintaining a strong media and press presence.
+</div>
 
 								</div>
 							</div>
@@ -70,12 +71,78 @@
   </ul>
   </div>
 <div class="contentcontent">
-<h1>The Haymarket Lifestyle 2015</h1>
-<p> After ILITE celebrates its 10+ years history, The Haymarket Lifestyle reinterviewed the team. We were <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">featured</a> as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. <a href="https://flipflashpages.uniflip.com/3/25656/363834/pub/html5.html#page/1">READ MORE.....</a></p>
-<h1>The Haymarket Lifestyle 2012</h1>
-<p> After winning the FTC World Competition, ILITE Robotics, The Haymarket Lifestyle selected students for interviews. We were <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">featured</a> as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. <a href="http://www.haymarketlifestyle.com/uniflip/november/index.html">READ MORE.....</a></p>
-<h1>2012 FIRST Championship Celebrates Science, Technology and Robots</h1>
-<p> After winning as world champions, ILITE Robotics was featured in the official press release of FIRST. We won many awards and  became division winners. <a href="http://www.firstinspires.org/aboutus/2012-first-championship-celebrates-science-technology-and-robots">READ MORE.....</a></p>
+<div class="presscontainer">
+  <div class='grid'>
+  <div class="block">
+	<h3>Haymarket Lifestyle 2015</h3>
+	<h3><img src='../images/press/hl.png'/></h3>
+	<p>
+	After ILITE celebrates its 10+ years history, The Haymarket Lifestyle reinterviewed the team. We were featured as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. 
+	</p>
+	<button><a href="https://flipflashpages.uniflip.com/3/25656/363834/pub/html5.html#page/1">read more</a></button>
+	</div>
+	<div class="block"><h3>when an unknown printer</h3>
+	<p>Took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+	</p><br/>
+	<h3><img src='http://placehold.it/350x350'/></h3>
+	<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages
+	</p>
+	<button>read more</button>
+	</div>
+	<div class="block">
+	<h3>And more recently</h3>
+	<br />
+	<h3><img src='http://placehold.it/350x350'/></h3>
+	<p>software like Aldus PageMaker including versions of Lorem Ipsum.
+	</p><br />
+	<button>read more</button>
+	<br></div>
+	<div class="block">
+	<h3>Contrary to popular belief</h3>
+	<p>Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+	</p><br/>
+	<button>read more</button>
+	<br /></div>
+	<div class="block"><h3>English.</h3>
+	<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p></div>
+	<div class="block"><h3>The standard chunk</h3>
+	<ul>
+	<li>Of Lorem Ipsum used since the 1500s is reproduced below for those interested.</li>
+	<li>Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero</li>
+	<li>Also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham</li>
+	<br></div>
+	<div class="block">
+	<h3>Us "Bonorum et Malorum" </h3>
+	<p>(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+	<br></div>
+	<div class="block"><h3>Desktop publishing</h3>
+	<p>packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+	<br></div>
+	<div class="block"><h3>All the Lorem Ipsum</h3> 
+	<p>Generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+	<br></div>
+	<div class="block">
+	<h3>There are many</h3> 
+	<p>Variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+	</div>
+	<div class="block"><h3><img src='http://placehold.it/350x350'/></h3><br></div>
+	<div class="block"><h3><img src='http://placehold.it/350x350'/></h3><br></div>
+	<div class="block"><h3>when an unknown printer</h3>
+	<p>Took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+	</p><br/>
+	<h3><img src='http://placehold.it/350x350'/></h3>
+	<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages<br></div>
+	<div class="block">
+	<h3>Haymarket Lifestyle 2012</h3>
+	<h3><img src='../images/press/hl.png'/></h3>
+	<p>
+	During the 2012 offseason, The Haymarket Lifestyle reinterviewed the team. We were featured as FRC and FTC Team ILITE from Haymarket, Virginia. Quotes were pulled from our mentors and our students, and photos taken by our students were used. 
+	</p>
+	<a href="https://interactivepdf.uniflip.com/2/25656/286273/pub/" class="buttonpress">read more</a>
+	</div>
+	</div>
+</div>
+
 </div>
 </div><!-- end section -->
 

@@ -52,7 +52,7 @@
 										<h1>Become a mentor</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE relies on mentors to provide crucial input. Become a mentor to spread your knowledge to the engineers and problem solvers of tomorrow!</div>
+									<div class="head-image__subheader"></div>
 
 								</div>
 							</div>

@@ -11,7 +11,7 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 
-	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="shortcut icon" href="..//images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -71,9 +71,11 @@
   </ul>
   </div>
 <div class="contentcontent">
-
-
-
+		<div class="third__image" style="background-image: url('../images/stills/pitspeaking.jpg');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/kid.jpeg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/history.jpeg');"></div>  
+		
+<br>
 <p> FIRST Team 1885, “ILITE Robotics”, is a FIRST Robotics Team based in Haymarket, Virginia. It consists of students from high schools across Prince William County, Virginia. ILITE stands for Inspiring Leaders in Technology and Engineering. </p>
 
 <p>In the fall of 2004, Battlefield High School officially opened as the ninth high school in Prince William County. The doors opened to clean classrooms, brand new books, and a newly established Information Technology specialty program, in which students could pursue college level credits in web development, graphic design, and computer science. </p>
