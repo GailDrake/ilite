@@ -11,7 +11,7 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 
-	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="shortcut icon" href="../images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -52,7 +52,8 @@
 										<h1>Contact Us</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE values being a community institution with a community presence, feel free to contact us!</div>
+									<div class="head-image__subheader"> ILITE values being a community institution with a community presence.
+</div>
 
 								</div>
 							</div>
@@ -66,7 +67,7 @@
 <div id="breadnav">
   <ul class="crumbs">
     <li><a href="../index.php">Home</a></li>
-    <li><a href="#">Media</a></li>
+    <li><a href="#">About</a></li>
     <li class="last"><a href="#">Contact Us</a></li>
   </ul>
   </div>
@@ -76,7 +77,8 @@
 .</iframe>
  </div>
 <br>
-<b>Coach Gail Drake:</b> (571) 261-4726
+<b>Coach Gail Drake:</b> (703) 743-3565<br>
+<b>Team Email:</b> team1885@gmail.com
 </div>
 </div>
 

@@ -11,7 +11,7 @@
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
     
-	<link rel="shortcut icon" href="/images/favicon.ico">
+	<link rel="shortcut icon" href="..//images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
@@ -80,20 +80,28 @@
 		<p>Whether it be through our summer camps that teach hundreds of students about STEM, or our annually-hosted FIRST competitions, ILITE continuously inspires those around them. We strive to embody the FIRST mission of "More than Robots" in all we do."</p>
 
 		<h1>Our Mission:</h1>
-		<div class="greybox">
+			<div class="third__image" style="background-image: url('../images/stills/teddy.JPG');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/haymarketday.jpg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/stemexpo1.JPG');"></div> 
+		<div class="greybox photobot">
 			<i class="fa fa-quote-left"></i> To inspire young people to become leaders in science, technology, engineering, and mathematics by providing them with hands-on engineering challenges with the mentorship of industry professionals, to build a foundation of both technical and social skills and values, to create leaders in technology and engineering. <i class="fa fa-quote-right"></i>
 	 	</div>
 
 		<h1>Our Vision:</h1>
-		<div class="greybox">
+				<div class="third__image" style="background-image: url('../images/stills/books.jpeg');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/usstemfoundation.jpg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/stemexpo2.JPG');"></div> 
+		<div class="greybox photobot">
 			<i class="fa fa-quote-left"></i> A community of learning where persons, young and old, share a common goal of problem solving through science, technology, engineering, and mathematics to improve the world in which we live for all persons. <i class="fa fa-quote-right"></i>
 		</div>
 
 	 <h1>ILITE-ism:</h1>
-
-	 <div class="greybox">
+		<div class="third__image" style="background-image: url('../images/stills/stemexpo4.JPG');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/experiment.jpeg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/gather.jpeg');"></div> 
+	 <p>
 		 Outreach is an effort which requires an adverse plan of attack to reach the greatest number of persons, all of whom come from different backgrounds. ILITE holds a core value it calls “ILITE-ism” which is the belief that everyone, regardless of background or profession can be an advocate for technology and engineering.
-	 </div>
+	 </p>
 
 
 	</div>
@@ -110,7 +118,6 @@
 
 <!-- ######### JS FILES ######### -->
 <?php include "../includes/javascript.php" ?>
-
 <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
 <script src="../js/onepage3/bootstrap.min.js"></script>
 <script src="../js/onepage3/jPinning.js"></script>

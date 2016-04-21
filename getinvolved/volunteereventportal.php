@@ -52,7 +52,7 @@
 										<h1>Volunteer Portal</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE maintains a constant network of volunteers for community STEM or FIRST events and publishes community events to widen exposure.</div>
+									<div class="head-image__subheader"></div>
 
 								</div>
 							</div>

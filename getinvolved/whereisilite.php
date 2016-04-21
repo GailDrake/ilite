@@ -52,7 +52,7 @@
 										<h1>Where is ILITE?</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE, FRC Team 1885, remains committed to our vision wherever we may be. Follow our travels to keep up or even join us!</div>
+									<div class="head-image__subheader"></div>
 
 								</div>
 							</div>
@@ -72,12 +72,12 @@
   </div>
 <div class="contentcontent">
  <div class="contentr">
-<div style="width: 100%"><iframe width="100%" height="300" src="http://www.maps.ie/create-google-map/map.php?width=100%&amp;height=300&amp;hl=en&amp;q=7100%20Whittier%20Blvd%2C%20Bethesda%2C%20MD%2020817+(Walt%20Whitman%20High%20School)&amp;ie=UTF8&amp;t=&amp;z=7&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="http://www.mapsdirections.info/crear-un-mapa-de-google/">crear un mapa en google maps</a> by <a href="http://www.maps.ie/">Maps.ie</a></iframe></div><br />
-</iframe>
- </div>
-
-<p>ILITE will be hosting the <a href="http://www.firstchesapeake.org/events/district-events/greater-dc">FIRST Chesapeake District Greater DC Event</a> the weekend of March 5th.</p>
-<p>ILITE will be competing at the <a href="http://www.firstchesapeake.org/events/district-events/hampton-roads">FIRST Chesapeake District Hampton Roads Event</a> the weekend of March 18th.</p>
+<iframe src="https://maps.google.com/maps?q=ilite+robotics&amp;hl=en&amp;ll=39.415026,-77.30802&amp;spn=3.428857,4.779053&amp;sll=37.0625,-95.677068&amp;sspn=55.543096,76.464844&amp;t=v&amp;hq=ilite+robotics&amp;z=8&amp;iwloc=A&amp;vector=1&output=embed" width="100%" height="300" frameborder="0" marginheight="0" marginwidth="0" target="_blank">
+ </iframe></div>
+<br>
+<p>ILITE hosted the <a href="http://www.firstchesapeake.org/events/district-events/greater-dc">FIRST Chesapeake District Greater DC Event</a> the weekend of March 5th.</p>
+<p>ILITE competed at the <a href="http://www.firstchesapeake.org/events/district-events/hampton-roads">FIRST Chesapeake District Hampton Roads Event</a> the weekend of March 18th.</p>
+<p>ILITE will be competing at the <a href="http://www.firstchesapeake.org/events/district-championship">FIRST Chesapeake District Championship Event Event</a> the weekend of April 8th.</p>
 
 </div>
 </div><!-- end section -->

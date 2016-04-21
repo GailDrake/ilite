@@ -52,7 +52,7 @@
 										<h1>FIRST Campaign</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE has introduced a simple support campaign called FIRST Campaign.</div>
+									<div class="head-image__subheader"></div>
 
 								</div>
 							</div>

@@ -30,7 +30,7 @@
 				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
 				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
 				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Fountdation</a>
-				<a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a>
+				<!-- <a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a> -->
 			</div>
 		</div>
 

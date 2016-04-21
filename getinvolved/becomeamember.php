@@ -52,7 +52,7 @@
 										<h1>Become a member</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE members uphold a unique brand of personal responsibility, leadership and outreach. ILITE hosts annual application cycles. We would love to have you! </div>
+									<div class="head-image__subheader"></div>
 
 								</div>
 							</div>

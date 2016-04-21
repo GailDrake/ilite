@@ -52,7 +52,7 @@
 										<h1>2016 Season</h1>
 									</div>
 
-									<div class="head-image__subheader">ILITE has worked hard to build a quality robot and team image for the 2016 FRC Challenge, FIRST Stronghold<sub>TM</sub></div>
+									<div class="head-image__subheader"></div>
 
 								</div>
 							</div>
@@ -78,7 +78,14 @@
 <p>FIRST STRONGHOLD <sup>SM</sup> is played by two alliances of three teams each. Alliances compete against each other
 to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by
 crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and
-surrounding and scaling their opponents’ tower itself.</p>
+surrounding and scaling their opponents’ tower itself.</p><br>
+
+			<div class="third__image" style="background-image: url('../images/stills/trophy.jpeg');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/chairmanchurch.jpeg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/standard.JPG');"></div> 
+		<br><br> 
+<p><br>ILITE has been hard at work to make another season successful. Already ILITE has won the Chairmans Award at the 2016 Greater DC Regional and been a finalist in the Hampton Roads Event. Additionally, ILITE won the Entrepreneurship and Excellence in Industrial Control Awards at the Hampton Roads Event as well. ILITE won the Chairmans award at the District Championships, qualifying for the 2016 Worlds Championship. This is the 12th year the team has qualified!</p>
+
 </div>
 </div><!-- end section -->
 <?php include "../includes/footer.php" ?>
