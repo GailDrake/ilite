@@ -15,4 +15,4 @@ Add `style="background-image: url( YOUR FILE PATH HERE )"` to `<div class="head-
 
 
 ### Javascript style guide
-[Airbnb JavaScript Style Guile] (https://github.com/airbnb/javascript) - Great general guidelines, and the style guide I've been seeing many companies use lately.
+[Airbnb JavaScript Style Guide] (https://github.com/airbnb/javascript) - Great general guidelines, and the style guide I've been seeing many companies use lately.
