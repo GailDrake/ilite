@@ -10,7 +10,8 @@ Add `style="background-image: url( YOUR FILE PATH HERE )"` to `<div class="head-
 
 ### LESS style guide
 [ilite style guide] (https://github.com/GailDrake/ilite/wiki/Less-Style-guide) - A short, but authoritative style guide. Memorize it. Follow it. Teach it to your friends.
-[Airbnb CSS Style Guide] (https://github.com/airbnb/css) - A very well written and comprehensive guide to CSS and Sass. We're using Less, but they're basically the same. For any conflicts with the ilite style guide, this loses. 
+
+[Airbnb CSS Style Guide] (https://github.com/airbnb/css) - A very well written and comprehensive guide to CSS and Sass. We're using Less, but they're basically the same. For any conflicts with the ilite style guide, this loses.
 
 
 ### Javascript style guide
