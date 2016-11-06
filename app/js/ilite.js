@@ -55,5 +55,4 @@ $( document ).ready(function() {
   // Copyright year - footer
   var currentYear = new Date().getFullYear();
   $( '#copyright-year' ).html( currentYear );
-
 });
