@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=function(a){var e=window.pageYOffset;e>10&&a>e&&$("#wrap").addClass("fade-nav"),(10>e||e>a)&&$("#wrap").removeClass("fade-nav"),e>a&&$("#wrap").removeClass("home__top-style"),a>=e&&$("#wrap").addClass("home__top-style")},e=$("#home__banner").outerHeight();$(window).on("scroll",function(){a(e)})});
