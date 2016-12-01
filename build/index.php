@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -75,7 +75,7 @@
 
 				<div class="home__img-holder">
 <div class="home__img summer-camp"></div>
-				
+
 				</div>
  <div class="addes">
 		      <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
@@ -85,7 +85,7 @@
 				</div>
 
 
-		  
+
 
 			</div><!-- end section -->
 
@@ -136,14 +136,14 @@
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
 					<a class="home__img-holder" href="#">
-						<div class="home__img champs-2015"></div> 
+						<div class="home__img champs-2015"></div>
 					</a>
 					<div class="addes">
 						<strong>ILITE @ World Championships 2016</strong>
 						ILITE does it again! FRC Team 1885, ILITE qualified for the World Championships, a <i>12 year streak</i>, after winning it at the district and regional levels. ILITE has also won the Entrepreneurship and the Industrial Design regional Awards.
 					</div>
-					
-				
+
+
 				</div><!-- end section -->
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="250">
@@ -154,14 +154,14 @@
 						<strong>ILITE Hosts HayMaker STEM Expo:</strong>
 						In the midst of build season, ILITE hosted its 2nd annual STEM Expo. The event boasted 50+ experiments, exhibits, and family-friendly activities as well as over 2000 attendees exhibits and the county's largest college fair.
 					</div>
-					
-					
+
+
 				</div><!-- end section -->
 
 				<div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
 
 					<a class="home__img-holder" href="http://patch.com/virginia/manassas/frc-robotics-teams-compete-ilite-robotics-season-challenge-iroc-battlefield-high-school-haymarket-va">
-						<div class="home__img hosts-iroc"></div> 
+						<div class="home__img hosts-iroc"></div>
 					</a>
 <div class="addes">
 						<strong>ILITE Hosts &amp; Shines at IROC:</strong>
