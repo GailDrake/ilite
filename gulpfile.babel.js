@@ -16,33 +16,33 @@ var reload = browserSync.reload;
 
 // -----  Set up for Linux & Mac  --------
 // if you use this, comment out the Windows set up
-// import php from 'gulp-connect-php';
-//
-// gulp.task('php', function() {
-//   php.server({ base: 'build', port: 8010, keepalive: true});
-// });
-//
-// gulp.task('browser-sync',['php'], function() {
-//   browserSync({
-//     proxy: '127.0.0.1:8010',
-//     port: 8080,
-//     open: true,
-//     notify: false
-//   });
-// });
+import php from 'gulp-connect-php';
+
+gulp.task('php', function() {
+  php.server({ base: 'build', port: 8010, keepalive: true});
+});
+
+gulp.task('browser-sync',['php'], function() {
+  browserSync({
+    proxy: '127.0.0.1:8010',
+    port: 8080,
+    open: true,
+    notify: false
+  });
+});
 // ------- /end Linux & Mac setup --------
 
 
 
 // -----  Set up for Windows  --------
 // if you use this, comment out the Linux & Mac set up
-gulp.task( 'browser-sync', function() {
-  browserSync.init( {
-    server: {
-      baseDir: 'build'
-    }
-  });
-});
+// gulp.task( 'browser-sync', function() {
+//   browserSync.init( {
+//     server: {
+//       baseDir: 'build'
+//     }
+//   });
+// });
 // ------- /end Windows setup --------
 
 
