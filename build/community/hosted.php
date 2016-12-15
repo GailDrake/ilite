@@ -89,10 +89,18 @@ IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FR
 This year's competition will be held on <b>October TBDth, 2016</b> at Battlefield High School and will include numerous new additions including a (human) talent show that will play between matches, two new types of matches (Mentor/Coach and New Driver), and new Mentor and Coach Awards.
 
 <div class="center-button">
- <a href="http://irocoffseason.org/" class="button thhthree">IROC SITE</a> <a href="http://irocoffseason.org/images/floorplan.png" class="button thhthree">FLOOR PLAN</a> <a href="http://irocoffseason.org/images/traffic.png" class="button thhthree">MAP</a> <a href="http://irocoffseason.org/iroc_schedule.pdf" class="button thhthree">SCHEDULE</a>
-
-
+	<a href="http://irocoffseason.org/" class="button thhthree">IROC SITE</a> 
+	<a href="http://irocoffseason.org/images/floorplan.png" class="button thhthree">FLOOR PLAN</a> 
+	<a href="http://irocoffseason.org/images/traffic.png" class="button thhthree">MAP</a> 
+	<a href="http://irocoffseason.org/iroc_schedule.pdf" class="button thhthree">SCHEDULE</a>
 </div>
+
+<!--<div class="center-button">
+	<a href="http://irocoffseason.org/" class="button thhthree">IROC SITE</a> 
+	<a href="http://irocoffseason.org/images/floorplan.png" class="button thhthree">FLOOR PLAN</a> 
+	<a href="http://irocoffseason.org/images/traffic.png" class="button thhthree">MAP</a> 
+	<a href="http://irocoffseason.org/iroc_schedule.pdf" class="button thhthree">SCHEDULE</a>
+</div>-->
 
 </div>
 </div><!-- end section -->
