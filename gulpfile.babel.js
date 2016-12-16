@@ -1,7 +1,6 @@
 /* jshint esversion:6 */
 
 import gulp from 'gulp';
-import browserSync from 'browser-sync';
 
 import less from 'gulp-less';
 import autoprefixer from 'gulp-autoprefixer';
@@ -12,47 +11,9 @@ import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
 import gulpIf from 'gulp-if';
 
-var reload = browserSync.reload;
-
-// On windows, gulp will just be a JS and LESS compiler. 
-
-
-
-// -----  Set up for Linux & Mac  --------
-// // if you use this, comment out the Windows set up
-// import php from 'gulp-connect-php';
-//
-// gulp.task('php', function() {
-//   php.server({ base: 'build', port: 8010, keepalive: true});
-// });
-//
-// gulp.task('browser-sync',['php'], function() {
-//   browserSync({
-//     proxy: '127.0.0.1:8010',
-//     port: 8080,
-//     open: true,
-//     notify: false
-//   });
-// });
-// ------- /end Linux & Mac setup --------
-
-
-
-// -----  Set up for Windows  --------
-// if you use this, comment out the Linux & Mac set up
-// gulp.task( 'browser-sync', function() {
-//   browserSync.init( {
-//     server: {
-//       baseDir: 'build'
-//     }
-//   });
-// });
-// ------- /end Windows setup --------
-
 
 // Watcher task
 gulp.task('default', [
-    // 'browser-sync',  // Comment this out for Windows install
     'less',
     'scripts'
   ], function () {
