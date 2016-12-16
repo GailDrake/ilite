@@ -14,22 +14,26 @@ import gulpIf from 'gulp-if';
 
 var reload = browserSync.reload;
 
+// On windows, gulp will just be a JS and LESS compiler. 
+
+
+
 // -----  Set up for Linux & Mac  --------
-// if you use this, comment out the Windows set up
-import php from 'gulp-connect-php';
-
-gulp.task('php', function() {
-  php.server({ base: 'build', port: 8010, keepalive: true});
-});
-
-gulp.task('browser-sync',['php'], function() {
-  browserSync({
-    proxy: '127.0.0.1:8010',
-    port: 8080,
-    open: true,
-    notify: false
-  });
-});
+// // if you use this, comment out the Windows set up
+// import php from 'gulp-connect-php';
+//
+// gulp.task('php', function() {
+//   php.server({ base: 'build', port: 8010, keepalive: true});
+// });
+//
+// gulp.task('browser-sync',['php'], function() {
+//   browserSync({
+//     proxy: '127.0.0.1:8010',
+//     port: 8080,
+//     open: true,
+//     notify: false
+//   });
+// });
 // ------- /end Linux & Mac setup --------
 
 
@@ -48,7 +52,7 @@ gulp.task('browser-sync',['php'], function() {
 
 // Watcher task
 gulp.task('default', [
-    'browser-sync',
+    // 'browser-sync',  // Comment this out for Windows install
     'less',
     'scripts'
   ], function () {
@@ -94,25 +98,3 @@ gulp.task( 'scripts', function() {
       stream: true
     }));
 });
-
-// // Hot reload
-// gulp.task( 'browserSync', function() {
-//   browserSync.init( {
-//     server: {
-//       baseDir: 'build'
-//     }
-//   });
-// });
-//
-// gulp.task('php', function() {
-//   php.server({}, function (){
-//     browserSync({
-//       proxy: '127.0.0.1:8000'
-//     });
-//   });
-//
-//   gulp.watch('**/*.php').on('change', function () {
-//     browserSync.reload();
-//   });
-// });
-//
