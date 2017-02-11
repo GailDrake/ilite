@@ -28,6 +28,8 @@
     <link href="../js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link rel="stylesheet" media="screen" href="../responsive-layouts.css" type="text/css" />
 	 <script src="../js/map.js" async defer></script>
+     <script src = "../angular.min.js"></script>
+     <script src = "../js/team/team-iterator.js"></script>
 	 </head>
 
 
