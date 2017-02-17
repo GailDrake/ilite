@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -76,7 +76,7 @@
 								<a href='/community/surveys.php' class="nav__link__target">Summer Camp Surveys</a>
 				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
 				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Foundation</a>
-				<a href='/community/hosted.php' class="nav__link__target">Hosted Events</a> 
+				<a href='/community/hosted.php' class="nav__link__target">Hosted Events</a>
 			</div>
 		</div>
 
@@ -143,12 +143,12 @@
 				</div>
 
 			</div><!-- end section -->
-			
+
 			<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
 
 				<div class="home__img-holder">
 <div class="home__img e2"></div>
-				
+
 				</div>
  <div class="addes">
 		      <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
@@ -158,7 +158,7 @@
 				</div>
 
 
-		  
+
 
 			</div><!-- end section -->
 
@@ -195,37 +195,37 @@
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
 					<a class="home__img-holder" href="#">
-						<div class="home__img n3"></div> 
+						<div class="home__img n3"></div>
 					</a>
 					<div class="addes">
 						<strong>Updated STEM Expo and FIRST Fuel Sign-Ups</strong>
 						Team-members and parents should be aware of updated <a href="http://www7.mysignup.com/cgi-bin/view.cgi?datafile=fuel2017">FIRST Fuel</a> (see also the <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>) and <a href="http://www.signupgenius.com/go/30e084faea929a0fc1-haymaker2">STEM Expo Sign-Up</a> forms. We thank you for your continued support of ILITE!</div>
-					
-				
+
+
 				</div><!-- end section -->
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="250">
 					<a class="home__img-holder" href="#">
-						<div class="home__img n1"></div> 
+						<div class="home__img n1"></div>
 					</a>
 						<div class="addes">
 						<strong>2016 IROC Competition is Largest Ever Held</strong>
 						With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics, 5338, RoboLoCos, and 2363, Triple Helix. Congratulations teams!</div>
-					
-				
+
+
 				</div><!-- end section -->
 
 				<div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
 
 					<a class="home__img-holder" href="#">
-						<div class="home__img n2"></div> 
+						<div class="home__img n2"></div>
 					</a>
 <div class="addes">
 						<strong>ILITE Chosen To Be Kindness Ambassadors</strong>
 						ILITE has been chosen to be kindness ambassadors for our school and community. Recent developments include enacting kindness rules at our high school, starting a kindness week at out school, and spreading kindess at the PWCS Walk for Autism.</div>
-					
-					
-					
+
+
+
 				</div><!-- end section -->
 			</div>
 
@@ -443,11 +443,7 @@
 </nav>
 
 <!-- ######### JS FILES ######### -->
-<!-- get jQuery -->
-<script type="text/javascript" src="/js/universal/jquery.js"></script>
-
-<!-- Whole site JS -->
-<script src="/js/ilite/min/ilite.min.js" type="text/javascript"></script>
+<?php include "includes/javascript.php" ?>
 
 <!-- Home page only JS -->
 <script src="js/home/min/home.min.js" type="text/javascript"></script>
