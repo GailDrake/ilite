@@ -1,6 +1,7 @@
 /* jshint esversion:6 */
 
 import gulp from 'gulp';
+import browserSync from 'browser-sync';
 
 import less from 'gulp-less';
 import autoprefixer from 'gulp-autoprefixer';
@@ -11,6 +12,7 @@ import concat from 'gulp-concat';
 import uglify from 'gulp-uglify';
 import gulpIf from 'gulp-if';
 
+var reload = browserSync.reload;
 
 // Watcher task
 gulp.task('default', [
