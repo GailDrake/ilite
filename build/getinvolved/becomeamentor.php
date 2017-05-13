@@ -1,3 +1,4 @@
+
 <!doctype html>
 <!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
@@ -36,7 +37,66 @@
 
 <div id="wrap" class="right-0">
 
-	<?php include "../includes/header.php" ?>
+	<nav id="navigation" class="navigation">
+  <a class="nav__logo" href="../index.php"></a>
+
+  <div id="burger">
+
+    <div class="nav-mobile"><div id="nav-toggle"><span></span></div></div>
+  </div>
+
+  <div class="nav-container">
+
+    <div id="nav__about" class="nav__link">
+			About <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__about__wrapper">
+				<a href='/about/missionandvision.php' class="nav__link__target">Mission &amp; Vision</a>
+        <a href='/about/team.php' class="nav__link__target">Team</a>
+				<a href='/about/history.php' class="nav__link__target">History</a>
+				<a href='/about/press.php' class="nav__link__target">Press</a>
+				<a href='/about/contactus.php' class="nav__link__target">Contact Us</a>
+			</div>
+		</div>
+
+    <div id="nav__first" class="nav__link">
+			FIRST Robotics <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__first__wrapper">
+				<a href='/first/whatisfirst.php' class="nav__link__target">About FIRST</a>
+				<a href='http://www.firstinspires.org/scholarships' class="nav__link__target">Scholarships</a>
+				<a href='/first/firstcampaign.php' class="nav__link__target">FIRST Outreach</a>
+        <a href='/first/season.php' class="nav__link__target">FIRST 2017 Season</a>
+			</div>
+		</div>
+
+    <div id="nav__community" class="nav__link">
+			Community <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__community__wrapper">
+				<a href='/community/sponsors.php' class="nav__link__target">Sponsors</a>
+				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
+								<a href='/community/surveys.php' class="nav__link__target">Summer Camp Surveys</a>
+				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
+				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Foundation</a>
+				<a href='/community/hosted.php' class="nav__link__target">Hosted Events</a> 
+			</div>
+		</div>
+
+    <a href='/media/media.php' class="nav__link no-caret">Media</a>
+
+    <div id="nav__involved" class="nav__link action">
+			Get Involved <div class="caret"></div>
+			<div class="nav__link__wrapper" id="nav__involved__wrapper">
+				<a href='/getinvolved/whereisilite.php' class="nav__link__target">Where is Team 1885</a>
+				<a href='/getinvolved/volunteereventportal.php' class="nav__link__target">Volunteer Portal</a>
+				<a href='/getinvolved/studenteventportal.php' class="nav__link__target">Student Event Portal</a>
+				<a href='/getinvolved/becomeasponsor.php' class="nav__link__target">Become a Sponsor</a>
+				<a href='/getinvolved/becomeamember.php' class="nav__link__target">Become a Member</a>
+				<a href='/getinvolved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
+				<a href='/getinvolved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
+			</div>
+		</div>
+
+  </div>
+</nav>
 
 
 <div class="head-image inner-page">
@@ -89,16 +149,121 @@ To join our family, please <a href="../media/contactus.php">contact us.</a></p>
 </div>
 </div><!-- end section -->
 
-<?php include "../includes/footer.php" ?>
+<div class="footer">
+  <div class="footerInfo">
+
+    <div class="col" >
+      <h5 class="footer__header">CONTACT US</h5>
+      <a class="footer__link" href="mailto:gddrake@gmail.com" >drakegd@pwcs.edu</a>
+      <p class="footer__text">Coach Gail Drake</p>
+      <p class="footer__text">(571)261-4726</p>
+    </div>
+
+    <div class="col" >
+      <h5 class="footer__header">LOCATION</h5>
+      <a class="footer__link" href="/about/contactus.php" >
+        <i class="fa fa-map-marker"></i>
+        Map &amp; Directions
+      </a>
+      <p class="footer__text">ILITE Robotics</p>
+      <p class="footer__text">15000 Graduation Drive</p>
+      <p class="footer__text">Haymarket, VA 20169</p>
+    </div>
+
+    <div class="col" >
+      <h5 class="footer__header">CALENDAR</h5>
+      <a class="footer__link" href="/getinvolved/whereisilite.php">
+        <i class="fa fa-calendar-o"></i>
+        Team Events &amp; Schedule
+      </a>
+    </div>
+
+    <div class="col" >
+      <h5 class="footer__header">GET CONNECTED</h5>
+      <a href="https://www.facebook.com/iliterobotics/" target="_blank" class="footer__social">
+        <i class="fa fa-facebook"></i>
+      </a>
+      <a href="https://www.twitter.com/team1885" target="_blank" class="footer__social">
+        <i class="fa fa-twitter"></i>
+      </a>
+      <a href="https://www.youtube.com/channel/UCCWs22DHGwRloB613zOJ9UA" target="_blank" class="footer__social">
+        <i class="fa fa-youtube"></i>
+      </a>
+      <a href="https://www.instagram.com/team1885" target="_blank" class="footer__social">
+        <i class="fa fa-instagram"></i>
+      </a>
+    </div>
+  </div>
+
+
+</div>
+
+<div class="footer__copyright">
+  <p>&copy; <span id="copyright-year"></span> ILITE Robotics. All rights reserved.</p>
+</div>
 
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
 </div>
 
-<?php include "../includes/side-menu.php" ?>
+<nav id='side-menu' class='menu width-0'>
+	<div class="nav-container">
+
+    <div id="side-menu__about" class="nav__link">
+			About <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__about__wrapper">
+				<a href='/about/missionandvision.php' class="nav__link__target">Mission &amp; Vision</a>
+        <a href='/about/team.php' class="nav__link__target">Team</a>
+				<a href='/about/history.php' class="nav__link__target">History</a>
+				<a href='/about/press.php' class="nav__link__target">Press</a>
+				<a href='/about/contactus.php' class="nav__link__target">Contact Us</a>
+			</div>
+		</div>
+
+    <div id="side-menu__first" class="nav__link">
+			FIRST Robotics <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__first__wrapper">
+				<a href='/first/whatisfirst.php' class="nav__link__target">About FIRST</a>
+				<a href='/first/scholarships.php' class="nav__link__target">Scholarships</a>
+				<a href='/first/firstcampaign.php' class="nav__link__target">FIRST Outreach</a>
+        <a href='/first/season.php' class="nav__link__target">FIRST 2017 Season</a>
+			</div>
+		</div>
+
+    <div id="side-menu__community" class="nav__link">
+			Community <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__community__wrapper">
+				<a href='/community/sponsors.php' class="nav__link__target">Sponsors</a>
+				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
+								<a href='/community/surveys.php' class="nav__link__target">Summer Camps Surveys</a>
+				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
+				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Foundation</a>
+				<!-- <a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a> -->
+			</div>
+		</div>
+
+    <a href='/media/media.php' class="nav__link no-caret">Media</a>
+
+    <div id="side-menu__involved" class="nav__link action">
+			Get Involved <div class="caret"></div>
+			<div class="nav__link__wrapper" id="side-menu__involved__wrapper">
+				<a href='/getinvolved/whereisilite.php' class="nav__link__target">Where is Team 1885</a>
+				<a href='/getinvolved/volunteereventportal.php' class="nav__link__target">Volunteer Portal</a>
+				<a href='/getinvolved/studenteventportal.php' class="nav__link__target">Student Event Portal</a>
+				<a href='/getinvolved/becomeasponsor.php' class="nav__link__target">Become a Sponsor</a>
+				<a href='/getinvolved/becomeamember.php' class="nav__link__target">Become a Member</a>
+				<a href='/getinvolved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
+				<a href='/getinvolved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
+			</div>
+		</div>
+</nav>
 
 <!-- ######### JS FILES ######### -->
-<?php include "../includes/javascript.php" ?>
+<!-- get jQuery -->
+<script type="text/javascript" src="/js/universal/jquery.js"></script>
+
+<!-- Whole site JS -->
+<script src="/js/ilite/min/ilite.min.js" type="text/javascript"></script>
 
 <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
 <script src="../js/onepage3/bootstrap.min.js"></script>
