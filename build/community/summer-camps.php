@@ -23,7 +23,12 @@
 	<![endif]-->
 
 	<link rel="stylesheet" href="../css/style.css" type="text/css" />
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Latest compiled and minified CSS & JS -->
+    <link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="//code.jquery.com/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    
 	<link rel="stylesheet" type="text/css" href="../css/simpleline-icons/simple-line-icons.css" media="screen" />
     <link href="../js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link rel="stylesheet" media="screen" href="../responsive-layouts.css" type="text/css" />
@@ -191,6 +196,29 @@
     </table> 
    <span class="red">*The Cyber Defense Camp will span 5 days, June 27th to July 1st.</span><br>
     
+
+   <!--Begin Summer Camp Descriptions-->
+   
+   <div role="tabpanel">
+       <!-- Nav tabs -->
+       <ul class="nav nav-tabs" role="tablist">
+           <li role="presentation" class="active">
+               <a href="#home" aria-controls="home" role="tab" data-toggle="tab">home</a>
+           </li>
+           <li role="presentation">
+               <a href="#tab" aria-controls="tab" role="tab" data-toggle="tab">tab</a>
+           </li>
+       </ul>
+   
+       <!-- Tab panes -->
+       <div class="tab-content">
+           <div role="tabpanel" class="tab-pane active" id="home">...</div>
+           <div role="tabpanel" class="tab-pane" id="tab">...</div>
+       </div>
+   </div>
+   
+   <!--End Summer Camp Descriptions-->
+
 	<div class="campbox"><p><img src="../images/camps/lego.jpg"><h1>LEGO EV3 ROBOTICS</h1>
 Students who attend ILITE’s LEGO EV3 Summer Camp design,
 build, and program awesome robots using state-of-the-art LEGO
