@@ -325,21 +325,21 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
                 <div role="tabpanel" class="tab-pane active" id="home">
                     <div class = "row">
                         <div class="col-md-3 col-lg-3">
-                            
+                            <img src = "../images/sc2017/dayone/sc1.JPG" />
                         </div>
                         <div class="col-md-3 col-lg-3">
-                            
+                            <img src = "../" />
                         </div>
                         <div class="col-md-3 col-lg-3">
-                            
+                            <img src = "" />
                         </div>
                         <div class="col-md-3 col-lg-3">
-                            
+                            <img src = "" />
                         </div>
                     </div>
                 </div>
                 <div role="tabpanel" class="tab-pane" id="tab">
-                    Insert Day Two Pictures Here
+                    
                 </div>
             </div>
         </div>
