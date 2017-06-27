@@ -304,48 +304,6 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
     </table> 
       
  <!--  <span class="red">*The Cyber Defense Camp will span 5 days, June 27th to June 30th.</span>--><br>
-
-
-    <!--Begin Summer Camp Pictures-->
-    
-    <div class="container">
-        <div role="tabpanel">
-            <!-- Nav tabs -->
-            <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation" class="active">
-                    <a href="#home" aria-controls="home" role="tab" data-toggle="tab">Day One</a>
-                </li>
-                <li role="presentation">
-                    <a href="#tab" aria-controls="tab" role="tab" data-toggle="tab">Day Two</a>
-                </li>
-            </ul>
-        
-            <!-- Tab panes -->
-            <div class="tab-content">
-                <div role="tabpanel" class="tab-pane active" id="home">
-                    <div class = "row">
-                        <div class="col-md-3 col-lg-3">
-                            <img src = "../images/sc2017/dayone/sc1.JPG" />
-                        </div>
-                        <div class="col-md-3 col-lg-3">
-                            <img src = "../" />
-                        </div>
-                        <div class="col-md-3 col-lg-3">
-                            <img src = "" />
-                        </div>
-                        <div class="col-md-3 col-lg-3">
-                            <img src = "" />
-                        </div>
-                    </div>
-                </div>
-                <div role="tabpanel" class="tab-pane" id="tab">
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <!--End Summer Camp Pictures-->
  
     
 	<div class="campbox"><p><img src="../images/camps/lego.jpg"><h1>LEGO EV3 ROBOTICS</h1>
