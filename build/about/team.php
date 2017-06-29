@@ -25,6 +25,7 @@
 
 	<link rel="stylesheet" href="../css/style.css" type="text/css" />
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    
 	<link rel="stylesheet" type="text/css" href="../css/simpleline-icons/simple-line-icons.css" media="screen" />
     <link href="../js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link rel="stylesheet" media="screen" href="../responsive-layouts.css" type="text/css" />

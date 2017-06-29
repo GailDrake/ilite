@@ -470,6 +470,5 @@
 <script defer src="js/flexslider/jquery.flexslider.js"></script>
 <script defer src="js/flexslider/custom.js"></script>
 
-
 </body>
 </html>
