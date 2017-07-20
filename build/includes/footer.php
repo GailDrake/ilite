@@ -3,7 +3,7 @@
 
     <div class="col" >
       <h5 class="footer__header">CONTACT US</h5>
-      <a class="footer__link" href="mailto:team1885@gmail.com" >team1885@gmail.com</a>
+      <a class="footer__link" href="mailto:gddrake@gmail.com" >drakegd@pwcs.edu</a>
       <p class="footer__text">Coach Gail Drake</p>
       <p class="footer__text">(571)261-4726</p>
     </div>

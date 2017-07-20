@@ -71,9 +71,11 @@
   </ul>
   </div>
 <div class="contentcontent">
-<p>Welcome to ILITE Robotics! ILITE Robotics encompasses FLL Robotics Support and Education, FTC Robotics and FRC Team 1885! We are excited to have you as part of our family. ILITE is a community partnership between Battlefield High School, Prince William County Schools, several local colleges and numerous industry sponsors based throughout the DC Metropolitan area. This handbook contains key policies, goals, and expectations for ILITE Robotics and its members along with all other information you will need to become a successful contributor to our program.</p>
-
-
+<div class="third__imagep" style="background-image: url('../images/stills/teddy.JPG');"></div> 
+	<div class="third__imagep" style="background-image: url('../images/stills/haymarketday.jpg');"></div> 
+		<div class="third__imagep" style="background-image: url('../images/stills/stemexpo1.JPG');"></div>
+	<h1>Welcome to ILITE Robotics!</h1>
+<p>ILITE Robotics encompasses FLL Robotics Support and Education, FTC Robotics and FRC Team 1885! We are excited to have you as part of our family. ILITE is a community partnership between Battlefield High School, Prince William County Schools, several local colleges and numerous industry sponsors based throughout the DC Metropolitan area. This handbook contains key policies, goals, and expectations for ILITE Robotics and its members along with all other information you will need to become a successful contributor to our program.</p>
 
 <p>ILITE is a multifaceted program which includes activities in a wide variety of business, technology and engineering challenges. The success of the program is due to the creativity and productivity of our members, both student and adults alike. Your participation is essential to fulfilling our program’s goals. We cannot stress enough the importance of each member’s commitment and responsibility in keeping our team running smoothly. We hope that as a member of ILITE, you will acquire and continue to use such life skills through college and your future career, and continue to give to others in the world.</p>
 
@@ -83,7 +85,7 @@
 
 
 
-<p>There are some students that are members of the ILITE Robotics team that are not enrolled in our courses. In many cases, these students have already completed the courses. One additional opportunity available is open positions on the team. Our team has ‘positions’, much like a sports team (like quarterback). Each year, seniors that are existing members apply for positions first, and those are appointment in the first two weeks of school year. Next, underclass persons that are existing team members apply for positions; these are assigned in the second half of September. We then post the open positions for the team, and accept applications. Please look for this posting toward the end of September. We will post this information in as many locations as allowed by the school in an effort to communicate with the entire student body. Our <a href="https://docs.google.com/document/d/1JVm6HnmeETBWPRL-rKS1J-TgKo8rsOJkTjq_XC65VOQ/edit">member handbook covers open roles and team rules and expectations.</a> </p>
+<p>There are some students that are members of the ILITE Robotics team that are not enrolled in our courses. In many cases, these students have already completed the courses. One additional opportunity available is open positions on the team. Our team has ‘positions’, much like a sports team (like quarterback). Each year, seniors that are existing members apply for positions first, and those are appointment in the first two weeks of school year. Next, underclass persons that are existing team members apply for positions; these are assigned in the second half of September. We then post the open positions for the team, and accept applications. Please look for this posting toward the end of September. We will post this information in as many locations as allowed by the school in an effort to communicate with the entire student body. Our <a href="https://docs.google.com/document/d/1ElAiufYy49WOX8wY5Z5nODxnJxB0iWm23-Pf2WvJIok/edit#bookmark=id.gjdgxs">member handbook covers open roles and team rules and expectations.</a> </p>
 
 
 
@@ -91,16 +93,24 @@
 
 
 
-Respectfully,<br>
-Professor Drake
-</div>
-</div><!-- end section -->
 
+<i>Respectfully,<br>
+Professor Drake</i>
+<div class="center-button">
+<a href="https://docs.google.com/document/d/1ElAiufYy49WOX8wY5Z5nODxnJxB0iWm23-Pf2WvJIok/edit#bookmark=id.gjdgxs" class="button thhthree">CONTINUE TO STUDENT HANDBOOK</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfon-yjYkxPnEfffBKT88eV2etCrcYsjJJUrz2wPdhhVtASlA/viewform" class="button thhthree">CONTINUE TO APPLICATION FORM (OR COMPLETE BELOW)
+</a><br><br><br>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfon-yjYkxPnEfffBKT88eV2etCrcYsjJJUrz2wPdhhVtASlA/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" target="_blank">
+			ILITE Applications
+			</iframe> </div>
+</div>
 <?php include "../includes/footer.php" ?>
 
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
 </div>
+
 
 <?php include "../includes/side-menu.php" ?>
 

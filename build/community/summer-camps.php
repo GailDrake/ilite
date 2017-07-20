@@ -48,7 +48,7 @@
 								<div class="home-image-inner-content">
 
 									<div class="headline-title">
-										<h1>ILITE 2016 Summer Camps</h1>
+										<h1>ILITE 2017 Summer Camps</h1>
 									</div>
 
 									<div class="head-image__subheader">Back by popular demand are both old and inaugural camps.</div>
@@ -66,14 +66,22 @@
   <ul class="crumbs">
     <li><a href="../index.php">Home</a></li>
     <li><a href="#">Community</a></li>
-    <li class="last"><a href="#">Summer Camps 2016</a></li>
+    <li class="last"><a href="#">Summer Camps 2017</a></li>
   </ul>
   </div>
 <div class="contentcontent">
-<div class="campbox-pdf"><a href="../documents/campflyer.pdf" class="pdflink"><i class="fa fa-file-text"></i> 2016 ILITE Robotics Camp Flyer</a></div>
-<div class="campbox-pdf"><a href="#lego" class="pdflink"><i class="fa fa-info-circle"></i> Camp Descriptions</a></div>
-    <table class="summercamptable">
-        <caption>Week of: June 21st - June 24th</caption>
+<!--
+<div class="campbox-pdf"><a href="../documents/campflyer.pdf" class="pdflink"><i class="fa fa-file-text"></i> 2016 Camp Flyer</a></div>
+<div class="campbox-pdf"><a href="#lego" class="pdflink"><i class="fa fa-info-circle"></i>ILITE Camps</a></div>
+<div class="campbox-pdf"><a href="#battlefield" class="pdflink"> <i class="fa fa-list"></i>Battlefield HS Camps</a></div> -->
+ 
+   <h1> ILITE Robotics Camps</h1>
+
+The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu<br><br><br>
+
+
+<table class="summercamptable" style="margin-top:-30px;">
+        <caption>Week of: June 20st - June 23rd</caption>
         <thead>
             <tr>
                 <th>Times</th>
@@ -81,68 +89,129 @@
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
                 <th>Sign Up</th>
-                <th>Accepted Students (Payment Received)</th>
+                <th>Accepted Students (Payment Received in Green)</th>
+              <th>Photos/Videos</th> 
             </tr>
         </thead>
         <tbody>
           <tr>
            <td>9AM-Noon</td>
             <td><a href="#lego">Lego EV3 Robotics</a></td>
-            <td>Gr K-4</td>
+            <td>Gr 1-8</td>
                <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-          </tr>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+               <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20AM/EV3">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20AM/EV3">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20AM/EV3">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20AM/EV3">Day 4</a>
+               </td> 
+           </tr>
              
           <tr>
           <td>9AM-Noon</td>
             <td><a href="#boe">Boe-Bot Camp</a></td>
             <td>Gr 6-12</td>
                <td>$160</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-          </tr>
+                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>x
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+            <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20AM/Boe-Bots">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20AM/Boe-Bots">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20AM/Boe-Bots">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20AM/Boe-Bots">Day 4</a>
+               </td>  </tr>
           
-             <tr>
-                 <td>1PM-4PM</td>         
-            <td><a href="#lego">Lego EV3 Robotics</a></td>
-             <td>Gr 4+</td>
-              <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-             </tr>
              
               <tr>
               <td>1PM-4PM</td>
-            <td><a href="#mh">Matter Hackers</a></td>
+            <td><a href="#mh">STEM 1: Matter Hackers</a></td>
              <td>Gr 1-4</td>
  <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-             </tr>
-             
-              <tr>
-              <td>1PM-4PM</td>
-            <td><a href="#girls">Girls in STEM</a></td>
-				 <td>Gr 6-8</td>
- <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-             </tr>
-             
+                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   
+<td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20PM/STEM%20I">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/STEM%20I">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/STEM%20I">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/STEM%20I">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td>              
+         
+              
               <tr>
               <td>1PM-4PM</td>
             <td><a href="#basics">Basics of Programming</a></td>
  				 <td>Gr 3+</td>
  <td>$160</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-              </tr>
+              <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+          <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20PM/Intro%20to%20Programming">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td>   </tr>
         </tbody>
     </table> 
     <br>
     
    <table class="summercamptable">
+        <caption>Week of: June 26th - June 29th</caption>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Camp Name</th>
+                <th>Grade Levels/Experience Level</th>
+                <th>Price</th>
+                <th>Sign Up</th>
+              <th>Accepted Students (Payment Received in Green)</th>
+               <!-- <th>Photos/Videos</th>--> 
+            </tr>
+        </thead>
+        <tbody>
+          <tr>
+           <td>9AM-Noon</td>
+            <td><a href="#lego">FLL Lego EV3 Robotics</a></td>
+            <td>Gr K-6</td>
+               <td>$180</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   
+          <!--  <td><a href="">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td>  --> </tr>
+            <tr>
+           <td>9AM-Noon</td>
+            <td><a href="#girls">Girls in STEM</a></td>
+            <td>Gr 6-8</td>
+               <td>$180</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+       <!--  <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Day%201%20AM/Girls%20in%20STEM">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td> --> </tr>
+              <tr>
+           <td>1PM-4PM</td>
+            <td><a href="#ii">STEM 2: Imagination Infusion</a></td>
+            <td>Gr 4-6</td>
+               <td>$180</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+           <!--   <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20PM/Intro%20to%20Programming">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td> -->  </tr>
+             </tbody>
+    </table> 
+            <br>
+    
+            <table class="summercamptable">
         <caption>Week of: June 27th - June 30th</caption>
         <thead>
             <tr>
@@ -151,45 +220,49 @@
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
                 <th>Sign Up</th>
-                <th>Accepted Students (Payment Received)</th>
+               <th>Accepted Students (Payment Received in Green)</th>
+             <!-- <th>Photos/Videos</th>-->
             </tr>
         </thead>
         <tbody>
-          <tr>
-           <td>9AM-Noon</td>
-            <td><a href="#lego">Lego EV3 Robotics</a></td>
-            <td>Gr K-6</td>
-               <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-          </tr>
-            <tr>
-           <td>9AM-Noon</td>
-            <td><a href="#java">Intro to Java</a></td>
-            <td>Programming Experience</td>
-               <td>$160</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-          </tr>
-              <tr>
-           <td>1PM-4PM</td>
-            <td><a href="#ii">Imagination Infusion</a></td>
-            <td>Gr 4-6</td>
-               <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-          </tr>
               <tr>
            <td>1PM-5PM<a name="lego"></a></td>
             <td><a href="#cyber">Cyber Defense</a><span class="red">*</span></td>
             <td>Gr 6-12</td>
                <td>$160</td>
-               <td><a href="https://docs.google.com/forms/d/1yGcX3Yma-dB4ig8MZFlQtBloxLoKpsX9pE3xn5sEszs/viewform">Sign Up Link</a></td>
-               <td><a href="https://docs.google.com/spreadsheets/d/1w60aks_3sRf5u1QuD0qb_AYwZ2xlE3-DKxayKjbxjeI/pubhtml?gid=79096083&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>
-          </tr>  
-        </tbody>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+                     <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   <!--<td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
+           </tr>  
+             </tbody>
     </table> 
-   <span class="red">*The Cyber Defense Camp will span 5 days, June 27th to July 1st.</span><br>
+     <br>
+    
+     <table class="summercamptable">
+        <caption>Week of: July 17th - July 21st</caption>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Camp Name</th>
+                <th>Grade Levels/Experience Level</th>
+                <th>Price</th>
+                <th>Sign Up</th>
+              <th>Accepted Students (Payment Received in Green)</th>
+              <!--    <th>Photos/Videos</th>-->
+            </tr>
+        </thead>
+        <tbody>
+             <tr>
+           <td>1PM-5PM<a name="lego"></a></td>
+            <td><a href="#cyber">Advanced Cyber Defense</a><span class="red">*</span></td>
+            <td>Gr 6-12</td>
+               <td>$160</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
+                      <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   <!-- <td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td>-->
+           </tr>  
+             </tbody>
+    </table> 
+      
+   <span class="red">*The Cyber Defense Camp will span 5 days, June 27th to June 30th.</span><br>
     
 	<div class="campbox"><p><img src="../images/camps/lego.jpg"><h1>LEGO EV3 ROBOTICS</h1>
 Students who attend ILITE’s LEGO EV3 Summer Camp design,
@@ -242,26 +315,187 @@ range finders, tactile whisker sensors, servo motors and LEDs. This
 class is perfect for EV3 pros that want a challenge or learners that
 want to explore how programming and electronics interact in the real world. <a name="basics"></a> </p></div>
 
-	<div class="campbox"><p><img src="../images/camps/basics.png"><h1>BASICS OF PROGRAMMING</h1>
+	<div class="campbox"><p><img src="../images/camps/basics.jpg"><h1>BASICS OF PROGRAMMING</h1>
 This camp is for beginner programmers or anyone who
 wishes to learn how programming works. This would involve
 graphical drag-and-drop programming to develop basic
 programming knowledge and logic and build a link between the
 writing of text-based programs. <a name="java"></a> </p></div>
 
-	<div class="campbox"><p><img src="../images/camps/java.png"><h1>INTRO TO JAVA</h1>
+	<!--<div class="campbox"><p><img src="../images/camps/java.png"><h1>INTRO TO JAVA</h1>
 	This camp serves as a follow up to the Basics of Programming
 camp and is for those who already understand basic programming
 and/or have a little experience with Java programming.
-This would involve coding in a text-based language such as Java.</p></div>
+This would involve coding in a text-based language such as Java.</p></div> -->
 
 	<div class="campbox"><p><h1>SIGN-UP AND PAYMENT PROCESSES</h1>
 	PWCS Policy is as follows. Please register for camps using the links in the above table. Payments will be processed through mailed checks. Checks should be made out to <b>Battlefield High School</b> with the <b>student name and camp in the memo line</b>. Please mail your check to
-to Professor Drake at <b>15000 Graduation Drive || Haymarket VA 20169</b>. Per PWCS policy, there are NO refunds. 
+to Professor Drake at <b>15000 Graduation Drive || Haymarket VA 20169</b>. Per PWCS policy, there are NO refunds.  <a name="battlefield"></a> 
 	</p></div>
 
-	</div>
-</div><!-- end section -->
+<h1>Battlefield High School Affiliated Camps</h1>
+
+The camps below are affiliated with Battlefield High School. Questions or concerns about these camps should be directed to Mr. Joseph Huddle at huddlejc@pwcs.edu or by phone at 703.743.3702. <br> 
+<br>
+<table class="summercamptable">
+        <caption>Week of: June 21st - June 24th</caption>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Camp Name</th>
+                <th>Grade Levels/Experience Level</th>
+                <th>Price</th>
+                <th>Sign Up</th>
+           
+  
+            </tr>
+        </thead>
+        <tbody>
+          
+             <tr>
+                 <td>8:30AM-12:30PM</td>         
+            <td><a href="#art">Advanced Art Academy</a></td>
+             <td>Gr 11-12</td>
+              <td>$120</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScwmgERUIS3Rr4V3bASMzus5lxQvztuKao94mgwEAZ_di69NA/viewform">Sign Up Link</a></td>
+           
+              </tr>
+             
+    </table> 
+   <br>
+   <table class="summercamptable">
+        <caption>Week of: June 26th- June 30th</caption>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Camp Name</th>
+                <th>Grade Levels/Experience Level</th>
+                <th>Price</th>
+                <th>Sign Up</th>
+           
+  
+            </tr>
+        </thead>
+        <tbody>
+          
+             <tr>
+                 <td>8:30AM-11:30AM</td>         
+            <td><a href="">Stop-Motion Animation</a></td>
+             <td>Gr 7-8</td>
+              <td>$135</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSebu2miIlJo2om6NFZ3Q9nccnloAQjdCatIme6Y3YsWP7nwkg/viewform">Sign Up Link</a></td>
+           
+              </tr>
+             
+      <tr>
+                 <td>8:30AM-11:30AM</td>         
+            <td><a href="">Beginner Ceramics</a></td>
+             <td>Gr 4-5</td>
+              <td>$130</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScaoetllgHfKSLVuAmupsD6zHDPWhkJPZc_t6pn24DmCQhm9A/viewform">Sign Up Link</a></td>
+              </tr>
+             
+              <tr>
+                 <td>8:30AM-11:30AM</td>         
+            <td><a href="">Drawing and Painting</a></td>
+             <td>Gr 6-8</td>
+              <td>$130</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfdPXy6_9LRd-hjLztAS6meGi9XSoF5uP9RF2OuBHgYGVMUYg/viewform">Sign Up Link</a></td>
+           
+              </tr>
+              <tr>
+              <td>12:30PM-3:30PM</td>
+            <td><a href="">Digital Art with Photoshop</a></td>
+				 <td>Gr 7-8</td>
+ <td>$180</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdMP_reu4ubszMjUJZBgTj0Y0HwmJdFBr8xfSaa7y0zqprQMQ/viewform">Sign Up Link</a></td>
+             
+              </tr>
+              <tr>
+              <td>12:30PM-3:30PM</td>
+            <td><a href="">An Artist A Day Camp</a></td>
+				 <td>Gr 4-5</td>
+ <td>$130</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSewRQoZkgqkhRYpsabBsD8ZH1Tx-X7GXZLj8ozBbChx2t8tzw/viewform">Sign Up Link</a></td>
+             
+              </tr>
+              
+               <tr>
+              <td>12:30PM-3:30PM</td>
+            <td><a href="">Intermediate Ceramics</a></td>
+				 <td>Gr 6-7</td>
+ <td>$130</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1uyjz9ZCJeLyg8la7lO-BYgWkO8OteS-rrfpSrwtNqH3eMg/viewform">Sign Up Link</a></td>
+             
+              </tr>
+          
+         
+        </tbody>
+    </table> 
+       <br>
+    <table class="summercamptable">
+        <caption>Week of: July 24th - June 28th</caption>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Camp Name</th>
+                <th>Grade Levels/Experience Level</th>
+                <th>Price</th>
+                <th>Sign Up</th>
+           
+  
+            </tr>
+        </thead>
+        <tbody>
+          
+             <tr>
+                 <td>Noon-3PM</td>         
+            <td><a href="#lego">Programming with Scratch</a></td>
+             <td>Gr 7-8</td>
+              <td>$125</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfvMa0pylDhjLw4qT_dZatpyf4t_Whu_r3sw2-da-YZn75QYw/viewform">Sign Up Link</td>
+           
+              </tr>
+  
+        </tbody>
+    </table> 
+       <br>
+    
+      <table class="summercamptable">
+        <caption>Week of: July 31st - August 4th</caption>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Camp Name</th>
+                <th>Grade Levels/Experience Level</th>
+                <th>Price</th>
+                <th>Sign Up</th>
+           
+  
+            </tr>
+        </thead>
+        <tbody>
+          
+             <tr>
+                 <td>8:30AM-11:30AM</td>         
+            <td><a href="">Digital Photography</a></td>
+             <td>Gr 7-9</td>
+              <td>$150</td>
+                 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScPTWeOiAtMcYsjXkrvqfLcpvzlkpHG8gcjV0RFh831FOZuFA/viewform">Sign Up Link</td>
+           
+              </tr>
+                <tr>
+                 <td>12:30AM-3:30PM</td>         
+            <td><a href="">Photography: Film and Darkroom</a></td>
+             <td>Gr 7-9</td>
+              <td>$150</td>
+               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScFHXvVv80iGbpYJUpoUGTgcEYM9i_jLcLpuQ-XYIMMkpqoKQ/viewform">Sign Up Link</td>
+           
+              </tr>
+  
+        </tbody>
+    </table> 
+</div> <!-- end section -->
 <?php include "../includes/footer.php" ?>
 
 <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
