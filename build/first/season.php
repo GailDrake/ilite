@@ -49,7 +49,7 @@
 								<div class="home-image-inner-content">
 
 									<div class="headline-title">
-										<h1>2016 Season</h1>
+										<h1>2017 Season</h1>
 									</div>
 
 									<div class="head-image__subheader"></div>
@@ -67,24 +67,20 @@
   <ul class="crumbs">
     <li><a href="../index.php">Home</a></li>
     <li><a href="#">FIRST</a></li>
-    <li class="last"><a href="#">2016 Season</a></li>
+    <li class="last"><a href="#">2017 Season</a></li>
   </ul>
   </div>
 <div class="contentcontent">
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/FVLdJdoKK2E" frameborder="0" allowfullscreen></iframe>
-
-<br><br>
-<p>FIRST STRONGHOLD <sup>SM</sup> is played by two alliances of three teams each. Alliances compete against each other
-to breach their opponents’ defenses, known as outer works, and capture their tower. They score points by
-crossing elements of their opponents’ outer works, scoring boulders in their opponents’ tower goals, and
-surrounding and scaling their opponents’ tower itself.</p><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EMiNmJW7enI" frameborder="0" allowfullscreen></iframe>
+<br>
+<p>FIRST STEAMWORKS <sup>SM</sup> is played by two alliances of three teams each. Alliances compete against each other
+to toss balls in boilers, place gears to rotate rotors, and autonomously score.</p>
 
 			<div class="third__image" style="background-image: url('../images/stills/trophy.jpeg');"></div> 
 	<div class="third__image" style="background-image: url('../images/stills/chairmanchurch.jpeg');"></div> 
 		<div class="third__image" style="background-image: url('../images/stills/standard.JPG');"></div> 
-		<br><br> 
-<p><br>ILITE has been hard at work to make another season successful. Already ILITE has won the Chairmans Award at the 2016 Greater DC Regional and been a finalist in the Hampton Roads Event. Additionally, ILITE won the Entrepreneurship and Excellence in Industrial Control Awards at the Hampton Roads Event as well. ILITE won the Chairmans award at the District Championships, qualifying for the 2016 Worlds Championship. This is the 12th year the team has qualified!</p>
+		<br><br><br>
+<p><br>ILITE has been hard at work to make another season successful. Already ILITE has won the Chairmans Award and was on the winning alliance at the 2017 Greater DC Regional . Additionally, ILITE won the 2017 Central Virginia District. The season culminating in ILITE wnning the Chairmans award at the District Championships as well as becoming an alliance finalist, qualifying for the 2017 Worlds Championship. This is the 13th year the team has qualified!</p>
 
 </div>
 </div><!-- end section -->

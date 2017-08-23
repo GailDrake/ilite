@@ -211,7 +211,7 @@
 	</div>
 	<div class="sponsor__text">
 		<span>
-			Incadence
+			InCadence Strategic Solutions is a Woman-Owned Small Business (WOSB) specialized in providing cutting edge technical solutions, deep functional and domain subject matter expertise, operational intelligence and high-end engineering services. Notable technologies include android development, Government cloud computing, Ares mobile biometrics, and training services. Founded in 2009, InCadence has been providing strong, sound technical solutions, fresh ideas, exceptional personnel and experienced program management since day one with the highest levels of integrity, ingenuity and commitment to ensure mission success. 
 		</span>
 	</div>
 </div>

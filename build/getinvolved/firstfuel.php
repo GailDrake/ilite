@@ -70,24 +70,15 @@
   </ul>
   </div>
 <div class="contentcontent">
+<div style="float: left; padding-right: 30px;">
+<img src="../images/fuel1.jpg" />  <img src="../images/fuel2.jpg" /> </div>
 <h1>Food is Important.</h1>
 That's why we promote (and provide) healthy meals as part of our long hours working together as a team.
-<br><br>
-<blockquote>Parents, in return for your contribution to team fuel, your student will be fed at robotics meetings. Supplying the team with proper fuel is an important group effort, as no student should work as hard as they do an an empty stomach. We aim to provide healthy foods (no sodas) to ensure that students are properly nourished during the season, so please keep the term "brain food" in mind. For our hosted competitions (IROC, FLL, and FTC), we are asking for a parent "grill master" that can work the grill for setup volunteers the Friday before the competition. Please note it is a REQUIREMENT for all team members to supply ONE Meal during the season. However, if you wish to contribute to more meals, it would be greatly appreciated. You are expected to provide food for the whole team, current consisting of 71 students and 15 adults.</blockquote>
-It's simple: each student needs to bring in at least 1 meal per season, and in return they will be fed for the entire season!
-<strong>Remember: Food is the official fuel of ILITE Robotics. Nothing else.</strong>
-
-<hr />
 <br>
-
-<h1>Take a look at what we're cooking up:</h1>
-
-<img src="../images/fuel1.jpg" class="array" />  <img src="../images/fuel2.jpg" class="array" />  <img src="../images/fuel3.jpg" class="array" />
-<br><hr />
-
-<h1>Provide fuel for our team!</h1>
-<p>Members can  sign-up <b><a href="http://www2.mysignup.com/cgi-bin/view.cgi?datafile=fuel2015">here</a></b>
-
+<blockquote><b>Parents,</b> in return for your contribution to team fuel, your student will be fed at robotics meetings. Supplying the team with proper fuel is an important group effort, as no student should work as hard as they do an an empty stomach. We aim to provide healthy foods (no sodas) to ensure that students are properly nourished during the season, so please keep the term "brain food" in mind. For our hosted competitions (IROC, FLL, and FTC), we are asking for a parent "grill master" that can work the grill for setup volunteers the Friday before the competition. <b>Please note it is a REQUIREMENT for all team members to supply ONE Meal during the season.</b> However, if you wish to contribute to more meals, it would be greatly appreciated. You are expected to provide food for the whole team, current consisting of 71 students and 15 adults.</blockquote>
+</blockquote>
+<strong>For the 2017 season, we are asking that student eat breakfast at home every day and that meals brought in by families be lunch, not breakfast as it has been in the past.</strong>
+<h1 class="h1link"><a href="/var/www/html/ilite">Feed our team!</a></h1>
 </div>
 </div><!-- end section -->
 

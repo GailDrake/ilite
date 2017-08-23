@@ -77,7 +77,8 @@
 <br>
 <p>ILITE hosted the <a href="http://www.firstchesapeake.org/events/district-events/greater-dc">FIRST Chesapeake District Greater DC Event</a> the weekend of March 5th.</p>
 <p>ILITE competed at the <a href="http://www.firstchesapeake.org/events/district-events/hampton-roads">FIRST Chesapeake District Hampton Roads Event</a> the weekend of March 18th.</p>
-<p>ILITE will be competing at the <a href="http://www.firstchesapeake.org/events/district-championship">FIRST Chesapeake District Championship Event Event</a> the weekend of April 8th.</p>
+<p>ILITE will be competing at the <a href="http://www.firstchesapeake.org/events/district-championship">FIRST Chesapeake District Championship Event</a> the weekend of April 8th.</p>
+<p>ILITE will be competing at the <a href="http://www.firstchampionship.org/">FIRST World Championship Event</a> starting on the April 27th and throughout the weekend.</p>
 
 </div>
 </div><!-- end section -->

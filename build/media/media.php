@@ -71,7 +71,7 @@
   </div>
 <div class="contentcontent">
 
-<p> At ILITE Robotics, we have promising videographers who take lots of film of our team’s activities. They capture our effervescent and interesting teammates working, learning, and even playing.  Videos of us can be viewed below.</p>
+<p> At ILITE Robotics, we have promising videographers who take lots of film of our team’s activities. They capture our effervescent and interesting teammates working, learning, and even playing. ILITE media can be viewed below.</p>
 
 <div class="imageGrid">
 
@@ -163,8 +163,8 @@
     </div>
   </a>
   
-  <!--
-  <a href="">
+  
+  <a href="https://www.dropbox.com/sh/4in5ajkxk3u8zy7/AAARn9r7BsVriq3Hg5rg2EQJa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>World Championship 2015</h2>
             <div class="content"></div>
@@ -172,15 +172,17 @@
     </div>
   </a>
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/gq6jkcrbvvfhzi9/AAAKGEncJCXvJcllfk0l7E7Ma?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Greater DC FRC Regional 2015</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
+  
 
-  <a href="">
+
+  <a href="https://www.dropbox.com/sh/hnawubxlr9nkvt1/AAAt2H6lY0_uOPfCFPQcO1Jpa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Pennsylvania FRC Regional 2015</h2>
             <div class="content"></div>
@@ -188,7 +190,8 @@
     </div>
   </a>
 
-  <a href="">
+  
+  <a href="https://www.dropbox.com/sh/02qzoz3f5ezowyq/AABhjepRgm47CCE7ZA_znL8ta?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>First Annual STEM Expo 2015</h2>
             <div class="content"></div>
@@ -196,7 +199,6 @@
     </div>
   </a>
 
--->
 
  <a href="https://www.dropbox.com/sh/uf9ghiqscxy0ghg/AADg9hycEve7X6NiO7fb9IbXa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
@@ -206,11 +208,9 @@
     </div>
   </a>
   
-  
+ 
 
-<!--
-
-  <a href="">
+  <a href="https://www.dropbox.com/sh/yz3vj51a6y9rcep/AAARomlxwK06Npf9tvSaLGvTa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Holiday Party 2014</h2>
             <div class="content"></div>
@@ -219,14 +219,14 @@
   </a>
 
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/u8quhmcjhi2706l/AAALHtRetrKviEZenhkcwlTJa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Haymarket FLL Regional 2014</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
-  -->
+ 
 
   <a href="https://www.dropbox.com/sh/94lslb7vj4mw73w/AACZd9eTJUFS7w3yZzeSFKt4a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
@@ -235,8 +235,7 @@
         </div>
     </div>
   </a>
-<!--
-  <a href="">
+  <a href="https://www.dropbox.com/sh/k0wkkj2276k5729/AAD4bPPYabaDhL5hUX5lupQca?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Air and Scare 2014</h2>
             <div class="content"></div>
@@ -244,7 +243,6 @@
     </div>
   </a>
 
--->
   <a href="https://www.dropbox.com/sh/ab117xfmrvvtsxo/AADcSsMzAKI-8jb_3dxlczIea?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Haymarket Day 2014</h2>
@@ -253,16 +251,17 @@
     </div>
   </a>
 
-<!-- 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/pyartoatkpfdb9b/AAADlDSU7ibIFyQmM2I-EuUea?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Naval IT Day 2014</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
+  
+  
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/pqyxlw3753jdisi/AADnYKSAJ7Y12F5lnWWBrgEfa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Helicopter Day 2014</h2>
             <div class="content"></div>
@@ -270,7 +269,7 @@
     </div>
   </a>
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/vfc745doxuf8er9/AAD53lEetwCsST-WcV-qFysUa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Be-a-Pilot Day 2014</h2>
             <div class="content"></div>
@@ -278,7 +277,7 @@
     </div>
   </a>
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/dbnajmfbhybr37m/AAC837RiqmKBffmsygt6qjaYa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>World Championship 2014</h2>
             <div class="content"></div>
@@ -286,7 +285,7 @@
     </div>
   </a>
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/kye8ibytw9vtb8t/AABxwdF1v_-Xxqog-QFGXvEHa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Chesapeake FRC Regional 2014</h2>
             <div class="content"></div>
@@ -294,14 +293,14 @@
     </div>
   </a>
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/insoxna8ha4tw1y/AAB74o_EQ6Tqe2r9L-UI9W_ra?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Washington DC FRC Regional 2014</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
--->
+
   <a href="https://www.dropbox.com/sh/v8p96bwrthnnvma/AADF3TMZfXwvYiGJUFzwa8OAa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Haymarket Day 2013</h2>
@@ -311,8 +310,7 @@
   </a>
 
 
-<!--
-  <a href="">
+  <a href="https://www.dropbox.com/sh/kg8768pdzqdnuw1/AAAb5Mm2QkU7gRZOXpz615R4a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>IROC 2013</h2>
             <div class="content"></div>
@@ -320,16 +318,15 @@
     </div>
   </a>
 
-  <a href="">
+  <a href="https://www.dropbox.com/sh/oygy5j0tx14ekke/AACkHEn7_2b03gYo-wXElePva?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>World Championship 2013</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
--->
-
- <a href="  https://www.dropbox.com/sh/14pxrs7mky1swe3/AAB2SztBjuQe1vk_OFyZvMZba?dl=0 ">
+  
+ <a href="https://www.dropbox.com/sh/14pxrs7mky1swe3/AAB2SztBjuQe1vk_OFyZvMZba?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>DC United 2013</h2>
             <div class="content"></div>
@@ -343,8 +340,8 @@
         </div>
     </div>
   </a>
-<!--
-<a href="">
+
+<a href="https://www.dropbox.com/sh/1ms5cwgjqvt296d/AADGNqW3uabzRnA8hgT54EO4a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Washington DC FRC Regional 2013</h2>
             <div class="content"></div>
@@ -352,7 +349,7 @@
     </div>
   </a>
 
-<a href="">
+<a href="https://www.dropbox.com/sh/b6so8hcthvfw3te/AACqWjH6d0jkKnUngBRm3LRPa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Chesapeake FRC Regional 2013</h2>
             <div class="content"></div>
@@ -360,7 +357,7 @@
     </div>
   </a>
 
-<a href="">
+<a href="https://www.dropbox.com/sh/z699uo0l49ap1ox/AAD9sYLQDONCwkcMLb7OynG4a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Holiday Party 2012</h2>
             <div class="content"></div>
@@ -368,6 +365,7 @@
     </div>
   </a>
 
+<!--
 <a href="">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Haymarket FLL Regional 2012</h2>
@@ -376,6 +374,8 @@
     </div>
   </a>
 
+  -->
+  <!--
 <a href="">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>IROC 2012</h2>
@@ -383,8 +383,9 @@
         </div>
     </div>
   </a>
+  -->
 
-<a href="">
+<a href="https://www.dropbox.com/sh/h8iivttsb8ilalo/AADzZnWsL1A5UNE0Hytuh2Baa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Air and Scare 2012</h2>
             <div class="content"></div>
@@ -392,14 +393,14 @@
     </div>
   </a>
 
-<a href="">
+<a href="https://www.dropbox.com/sh/bxccyte4hczravp/AAA9b26bYQ2DLwJKt1m6DAY6a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>World Championship 2012</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
-
+<!--
 <a href="">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>VCU FRC Regional 2012</h2>
@@ -408,14 +409,15 @@
     </div>
   </a>
 
-<a href="">
+-->
+<a href="https://www.dropbox.com/sh/qfk7esyerjkw4zh/AAAk7_Rr2Fn7THv8YDNjRz1Na?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
-        <div class="textWrapper"><h2>Pumpkin Pandemonium 2012</h2>
+        <div class="textWrapper"><h2>Pumpkin Pandemonium 2011</h2>
             <div class="content"></div>
         </div>
     </div>
   </a>
-
+<!--
 <a href="">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Holiday Party 2011</h2>
@@ -424,6 +426,7 @@
     </div>
   </a>
 
+
 <a href="">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Air and Scare 2011</h2>
@@ -431,8 +434,8 @@
         </div>
     </div>
   </a>
-
-<a href="">
+-->
+<a href="https://www.dropbox.com/sh/8x0yycr2p4ex3fr/AAAOVQQIkLrYUFB5XstPypf0a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>World Championship 2011</h2>
             <div class="content"></div>
@@ -440,7 +443,7 @@
     </div>
   </a>
 
-<a href="">
+<a href="https://www.dropbox.com/sh/8gh2adcsv6d990s/AABbJ_TqPuGNhuCQVRjeIjJoa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>DC FRC Regional 2011</h2>
             <div class="content"></div>
@@ -448,6 +451,7 @@
     </div>
   </a>
 
+<!--
 <a href="">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>IROC 2010</h2>
@@ -455,17 +459,7 @@
         </div>
     </div>
   </a>
-  
-  <a href="">
-    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
-        <div class="textWrapper"><h2>IROC 2010</h2>
-            <div class="content"></div>
-        </div>
-    </div>
-  </a>
-
-
--->
+  -->
 
 <a href="https://www.dropbox.com/sh/zahsf4bblid3573/AABLRB-i4EKTRtnlqDriV8I3a?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
