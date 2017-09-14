@@ -24,14 +24,7 @@
 	<![endif]-->
 
 	<link rel="stylesheet" href="../css/style.css" type="text/css" />
-    
-    
-    <!-- Latest compiled and minified CSS & JS -->
-    <link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <script src="//code.jquery.com/jquery.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    
-    
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="../css/simpleline-icons/simple-line-icons.css" media="screen" />
     <link href="../js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
 	<link rel="stylesheet" media="screen" href="../responsive-layouts.css" type="text/css" />
@@ -144,9 +137,10 @@
  
    <h1> ILITE Robotics Camps</h1>
 
-The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu. <br> 
-<br>
- <table class="summercamptable">
+The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu<br><br><br>
+
+
+<table class="summercamptable" style="margin-top:-30px;">
         <caption>Week of: June 20st - June 23rd</caption>
         <thead>
             <tr>
@@ -155,8 +149,7 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
                 <th>Sign Up</th>
-                <th>Accepted Students (Payment Received in Green)</th>
-              <!--<th>Photos/Videos</th> -->
+                <th>Accepted Students (Payment Received in Green)</th> 
             </tr>
         </thead>
         <tbody>
@@ -166,8 +159,7 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
             <td>Gr 1-8</td>
                <td>$180</td>
                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> -->
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
            </tr>
              
           <tr>
@@ -175,9 +167,9 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
             <td><a href="#boe">Boe-Bot Camp</a></td>
             <td>Gr 6-12</td>
                <td>$160</td>
-                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> --> </tr>
+                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>x
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+            </tr>
           
              
               <tr>
@@ -186,26 +178,18 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
              <td>Gr 1-4</td>
  <td>$180</td>
                 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> --> </tr>
-             
-              <tr>
-              <td>1PM-4PM</td>
-            <td><a href="#lego">FLL Lego EV3 Robotics</a></td>
-				 <td>Gr 4+</td>
- <td>$180</td>
-               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> --></tr>
-             
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   
+          
+         
+              
               <tr>
               <td>1PM-4PM</td>
             <td><a href="#basics">Basics of Programming</a></td>
  				 <td>Gr 3+</td>
  <td>$160</td>
               <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> --> </tr>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+         </tr>
         </tbody>
     </table> 
     <br>
@@ -220,7 +204,7 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
                 <th>Price</th>
                 <th>Sign Up</th>
               <th>Accepted Students (Payment Received in Green)</th>
-               <!--   <th>Photos/Videos</th>-->
+               <!-- <th>Photos/Videos</th>--> 
             </tr>
         </thead>
         <tbody>
@@ -230,30 +214,45 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
             <td>Gr K-6</td>
                <td>$180</td>
                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> -->  </tr>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   
+          <!--  <td><a href="">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td>  --> </tr>
             <tr>
            <td>9AM-Noon</td>
             <td><a href="#girls">Girls in STEM</a></td>
             <td>Gr 6-8</td>
                <td>$180</td>
                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> --> </tr>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+       <!--  <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Day%201%20AM/Girls%20in%20STEM">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td> --> </tr>
               <tr>
            <td>1PM-4PM</td>
             <td><a href="#ii">STEM 2: Imagination Infusion</a></td>
             <td>Gr 4-6</td>
                <td>$180</td>
                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!-- 
-           <td><a href="https://www.dropbox.com/sh/5d4nw3zf231vgxv/AABx58A2_geZleVU6FQu1sELa?dl=0">Dropbox</a></td> --> </tr>
+             <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  
+           <!--   <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20PM/Intro%20to%20Programming">Day 1</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
+               <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Outdoor%20Fun">Outdoor Fun</a>
+               </td> -->  </tr>
              </tbody>
     </table> 
             <br>
     
             <table class="summercamptable">
-        <caption>Week of: June 26th - June 30th</caption>
+        <caption>Week of: June 27th - June 30th</caption>
         <thead>
             <tr>
                 <th>Times</th>
@@ -262,17 +261,17 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
                 <th>Price</th>
                 <th>Sign Up</th>
                <th>Accepted Students (Payment Received in Green)</th>
-              <!--   <th>Photos/Videos</th>-->
+             <!-- <th>Photos/Videos</th>-->
             </tr>
         </thead>
         <tbody>
               <tr>
            <td>1PM-5PM<a name="lego"></a></td>
-            <td><a href="#cyber">Cyber Defense</a><!--<span class="red">*</span>--></td>
+            <td><a href="#cyber">Cyber Defense</a><span class="red">*</span></td>
             <td>Gr 6-12</td>
                <td>$160</td>
                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-                     <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!--  <td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
+                     <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   <!--<td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
            </tr>  
              </tbody>
     </table> 
@@ -294,17 +293,31 @@ The camps below are hosted by ILITE Robotics. Questions or concerns about these 
         <tbody>
              <tr>
            <td>1PM-5PM<a name="lego"></a></td>
-            <td><a href="#cyber">Advanced Cyber Defense</a><!--<span class="red">*</span>--></td>
+            <td><a href="#cyber">Advanced Cyber Defense</a><span class="red">*</span></td>
             <td>Gr 6-12</td>
                <td>$160</td>
                <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a></td>
-                      <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>  <!--  <td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
+                      <td><a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a></td>   <!-- <td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td>-->
            </tr>  
              </tbody>
     </table> 
+
+    <br>
+    <br>
+
+    <table class = "summercamptable">
+      <caption>Summer Camp Photos - Week One and Two</caption>
+      <tr><td><a href="https://www.dropbox.com/sh/358cdre055m3zcs/AAA3fJVILrYwsctqViGB2iW3a?dl=0">EV3</a></td></tr>
+      <tr><td><a href="https://www.dropbox.com/sh/0tgsbt5os0tb5q8/AAAK3UI-izf3FB17ToHAkFLza?dl=0">Cyber Defense</a></td></tr>
+      <tr><td><a href="https://www.dropbox.com/sh/kqkdtsjijc98xre/AADnKzHnqMqN4RC2faqRRIF3a?dl=0">Girls In Stem</a></td></tr>
+      <tr><td><a href="https://www.dropbox.com/sh/6k6f8sfrasljbwz/AADGj5woysWlce7J0adDF2LPa?dl=0">Imagination Infusion</a></td></tr>
+      <tr><td><a href="https://www.dropbox.com/sh/3ana4dukpft7sni/AACrQZ072Cz8fbwP1pce6VPNa?dl=0">Outdoor Fun (AM)</a></td></tr>
+      <tr><td><a href="https://www.dropbox.com/sh/vl7jk2nr0khew56/AACx3Jyob9-B1Kg2S9dx4CfFa?dl=0">Outdoor Fun (PM)</a></td></tr>
+    </table>
       
- <!--  <span class="red">*The Cyber Defense Camp will span 5 days, June 27th to June 30th.</span>--><br>
- 
+   <span class="red">*The Cyber Defense Camp will span 5 days, June 27th to June 30th.</span><br>
+
+
     
 	<div class="campbox"><p><img src="../images/camps/lego.jpg"><h1>LEGO EV3 ROBOTICS</h1>
 Students who attend ILITE’s LEGO EV3 Summer Camp design,
