@@ -119,7 +119,7 @@
 <td>Payton's Walk</td>
 <td><span style="font-weight: 400;">Join our walk in support of the Payton Project,and freeze bullying. Run or walk while enjoying live music, facepainting, refreshments, and much more!</span></td>
 <td><a href="http://paytonsproject.org/"target="_blank">Marris Pavillion </a><br></br><a href= "https://www.google.com/maps/place/Morris+Pavillion/@36.7777774,-103.9680488,4z/data=!4m8!1m2!2m1!1sMarris+Pavilion!3m4!1s0x8859f6dd77fba7b5:0x3923579b7f3f1955!8m2!3d35.6119634!4d-82.4401103"target="_blank">East Ln<br> Swannanoa, NC 28778</a></td>
-<td><strong>Coming up soon</strong></td>
+<td><strong>Coming soon</strong></td>
 </tr>
 <tr>
 <td>October 21, 2017</td>
@@ -133,14 +133,14 @@
 <td>Air and Scare</td>
 <td>Explore the spooky side of air and space at Air and Scare, our annual Halloween event at the Steven F. Udvar-Hazy Center in Chantilly, Va. Participate in creepy crafts, spooky science experiments, and other Halloween-themed activities. Arrive in costume to get into the Halloween spirit and enjoy safe indoor trick-or-treating.</td>
 <td><a href= "https://airandspace.si.edu/udvar-hazy-center"target="_blank">Udvar-Hazy Center</a><br></br><a href="https://www.google.com/maps/place/Steven+F.+Udvar-Hazy+Center/@38.9109231,-77.4463962,17z/data=!3m1!4b1!4m5!3m4!1s0x89b646eb32642073:0xb15e71e7680ccaa8!8m2!3d38.9109189!4d-77.4442075"target="_blank">14390 Air and Space Museum Pkwy<br> Chantilly, VA 20151</a></td>
-<td><strong>Coming up soon</strong></td>
+<td><strong>Coming soon</strong></td>
 </tr>
 <tr>
 <td>January 27, 2018</td>
 <td>HayMaker STEAM Expo</td>
 <td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
 <td><a href="https://battlefieldhs.pwcs.edu/"target="_blank">Battlefield Highschool</a><br></br><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068"target="_blank">15000 Graduation Dr<br> Haymarket, VA 20169</a></td>
-<td><strong>Coming up soon</strong></td>
+<td><strong>Coming soon</strong></td>
 </tr>
 </thead>
 </table>
