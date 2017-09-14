@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -74,7 +74,7 @@
 <br>
 <div style="margin-top: 15px;"></div>
 <div style="margin-top: -35px;"></div>
-<strong>Upcoming Events: February, 2015</strong>
+<strong>Upcoming Events: October, 2017</strong>
 <table class="table table-bordered">
 <thead>
 <tr>
@@ -87,19 +87,19 @@
 </thead>
 <thead>
 <tr>
-<td>February 6th, 2016</td>
-<td>STEM Expo</td>
-<td> ILITE Robotics will host its 2nd annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
+<td>October 21, 2017</td>
+<td>IROC Competition</td>
+<td>ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
 <td>Battlefield High School</td>
-<td><a href="http://www.signupgenius.com/go/30e084faea929a0fc1-haymaker" target="_blank">Volunteer Sign Up</a>
-<a href="http://www7.mysignup.com/cgi-bin/view.cgi?datafile=stem_expo" target="_blank&quot;">Business/University Maker Fare Sign Up</a></td>
+<td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
 </table>
+
 
 &nbsp;
 
-<strong>Month of: November, 2015</strong>
+<strong>Month of: October, 2017</strong>
 <table class="table table-bordered">
 <thead>
 <tr>
@@ -112,16 +112,16 @@
 </thead>
 <thead>
 <tr>
-<td>November 14th-15th, 2015</td>
-<td>Fairfax/GMU FLL Tournament</td>
-<td><span style="font-weight: 400;">This FIRST<sup>®</sup> LEGO League Tournament</span> will be hosted by George Mason University.The 2015 FIRST<sup>®</sup> LEGO League TRASH TREK<sup>SM</sup> Challenge will be participated by children ages 9 to 16.</td>
-<td><a href="https://www.google.com/maps/place/The+Hub/@38.83066,-77.3069401,17z/data=!3m1!4b1!4m2!3m1!1s0x89b64e617436b10b:0xa9da81ccd4db7abf">George Mason University, Fairfax Campus</a></td>
-<td><a href="https://docs.google.com/forms/d/1ViWtoXDAWi3z35sU6rr03n35JBQcAHCCHoPsOW8qNLU/viewform?c=0&amp;w=1" target="_blank">Volunteer Sign Up</a></td>
+<td>October 21, 2017</td>
+<td>IROC Competition</td>
+<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
+<td>Battlefield High School</td>
+<td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
 </table>
 
-<strong>Month of: December, 2015</strong>
+<strong>Month of: January, 2018</strong>
 <table class="table table-bordered">
 <thead>
 <tr>
@@ -134,61 +134,15 @@
 </thead>
 <thead>
 <tr>
-<td>December 12th, 2015</td>
-<td>FTC Competition</td>
-<td><span style="font-weight: 400;">This regional FIRST Tech Challenge qualifier will be hosted at Battlefield High School.</span></td>
+<td>January 27, 2018</td>
+<td>HayMaker STEAM Expo</td>
+<td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
 <td>Battlefield High School</td>
-<td><a href="https://my.usfirst.org/FIRSTPortal/Login/VIMS_Login.aspx" target="_blank&quot;">Volunteer Sign Up</a>
-<a title="Volunteer for US FIRST" href="http://iliterobotics.org/wp-content/uploads/2015/09/Volunteer-for-US-FIRST.pptx" rel="attachment">Volunteer Instructions (.PPTX)</a></td>
+<td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
 </table>
-<strong>Month of: February, 2016</strong>
-<table class="table table-bordered">
-<thead>
-<tr>
-<th>Date</th>
-<th>Event Name</th>
-<th style="width: 400px;">Description</th>
-<th>Location</th>
-<th>
-<p style="text-align: left;">Sign Up</p>
-</th>
-</tr>
-</thead>
-<thead>
-<tr>
-<td>February 6th, 2016</td>
-<td>HayMaker STEM Expo</td>
-<td> ILITE Robotics will host its 2nd annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
-<td>Battlefield High School</td>
-<td><a href="http://www.signupgenius.com/go/30e084faea929a0fc1-haymaker" target="_blank">Volunteer Sign Up</a>
-<a href="http://www7.mysignup.com/cgi-bin/view.cgi?datafile=stem_expo" target="_blank&quot;">Business/University Maker Fare Sign Up</a></td>
-</tr>
-</thead>
-</table>
-<strong>Month of: March, 2016</strong>
-<table class="table table-bordered">
-<thead>
-<tr>
-<th>Date</th>
-<th>Event Name</th>
-<th style="width: 400px;">Description</th>
-<th>Location</th>
-<th>Sign Up</th>
-</tr>
-</thead>
-<thead>
-<tr>
-<td>March 5th/6th, 2016</td>
-<td>FRC Competition</td>
-<td> This regional FIRST Robotics Competition District Qualifier will be hosted at Battlefield High School.</td>
-<td>Battlefield High School</td>
-<td><a href="https://my.usfirst.org/FIRSTPortal/Login/VIMS_Login.aspx" target="_blank&quot;">Volunteer Sign Up</a>
-<a title="Volunteer for US FIRST" href="http://iliterobotics.org/wp-content/uploads/2015/09/Volunteer-for-US-FIRST.pptx" rel="attachment">Volunteer Instructions (.PPTX)</a></td>
-</tr>
-</thead>
-</table>
+
 </div>
 </div><!-- end section -->
 
