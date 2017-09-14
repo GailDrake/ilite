@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -74,12 +74,6 @@
  <div class="contentr">
 <iframe src="https://maps.google.com/maps?q=ilite+robotics&amp;hl=en&amp;ll=39.415026,-77.30802&amp;spn=3.428857,4.779053&amp;sll=37.0625,-95.677068&amp;sspn=55.543096,76.464844&amp;t=v&amp;hq=ilite+robotics&amp;z=8&amp;iwloc=A&amp;vector=1&output=embed" width="100%" height="300" frameborder="0" marginheight="0" marginwidth="0" target="_blank">
  </iframe></div>
-<br>
-<p>ILITE hosted the <a href="http://www.firstchesapeake.org/events/district-events/greater-dc">FIRST Chesapeake District Greater DC Event</a> the weekend of March 5th.</p>
-<p>ILITE competed at the <a href="http://www.firstchesapeake.org/events/district-events/hampton-roads">FIRST Chesapeake District Hampton Roads Event</a> the weekend of March 18th.</p>
-<p>ILITE will be competing at the <a href="http://www.firstchesapeake.org/events/district-championship">FIRST Chesapeake District Championship Event</a> the weekend of April 8th.</p>
-<p>ILITE will be competing at the <a href="http://www.firstchampionship.org/">FIRST World Championship Event</a> starting on the April 27th and throughout the weekend.</p>
-
 </div>
 </div><!-- end section -->
 
