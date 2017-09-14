@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -70,7 +70,7 @@
   </ul>
   </div>
 <div class="contentcontent">
-<strong>Upcoming Events: December, 2015</strong>
+<strong>Upcoming Events: September, 2017</strong>
 <table class="table table-bordered">
 <thead>
 <tr>
@@ -83,11 +83,11 @@
 </thead>
 <thead>
 <tr>
-<td>December 12th, 2015</td>
-<td>FRC Training Workshop</td>
-<td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions as well as  hands-on demonstrations covering nearly every aspect of participating in and maintaining a FIRST FRC team.</span></td>
-<td>George Mason High School</td>
-<td><a href="https://docs.google.com/forms/d/19T4HxsU-GWdrIq4jYgPaGOSFYssdnhxVaztZc3uR5OU/viewform?c=0&w=1" target="_blank">Student Sign Up</a></td>
+<td>September 23, 2017</td>
+<td>Girls In Aviation</td>
+<td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions on the basic programming language "basic", and learn the basics of robotics. </span></td>
+<td><a href= "https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191">Manassas Regional Airport</a></td>
+<td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
 </table>
@@ -95,7 +95,7 @@
 
 
 <div style="margin-top: 10.5px;"></div>
-<strong>Month of: December, 2015</strong>
+<strong>Upcoming Events: 2017-2018</strong>
 <table class="table table-bordered">
 <thead>
 <tr>
@@ -107,12 +107,40 @@
 </tr>
 </thead>
 <thead>
+	<tr>
+	<td>September 23, 2017</td>
+	<td>Girls In Aviation</td>
+	<td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions on the basic programming language "basic", and learn the basics of robotics. </span></td>
+	<td><a href= "https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191">Manassas Regional Airport</a></td>
+	<td><strong>No sign up sheet yet</strong></td>
+	</tr>
 <tr>
-<td>December 12th, 2015</td>
-<td>FRC Training Workshop</td>
-<td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions as well as  hands-on demonstrations covering nearly every aspect of participating in and maintaining a FIRST FRC team.</span></td>
-<td>George Mason High School</td>
-<td><a href="https://docs.google.com/forms/d/19T4HxsU-GWdrIq4jYgPaGOSFYssdnhxVaztZc3uR5OU/viewform?c=0&w=1" target="_blank">Student Sign Up</a></td>
+<td>October 15, 2017</td>
+<td>Payton's Walk</td>
+<td><span style="font-weight: 400;">Join our walk in support of the Payton Project,and freeze bullying. Run or walk while enjoying live music, facepainting, refreshments, and much more!</span></td>
+<td><a href= "https://www.google.com/maps/place/Morris+Pavillion/@36.7777774,-103.9680488,4z/data=!4m8!1m2!2m1!1sMarris+Pavilion!3m4!1s0x8859f6dd77fba7b5:0x3923579b7f3f1955!8m2!3d35.6119634!4d-82.4401103">Marris Pavilion</a></td>
+<td><strong>No sign up sheet yet</strong></td>
+</tr>
+<tr>
+<td>October 21, 2017</td>
+<td>IROC Competition</td>
+<td>ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
+<td><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068">Battlefield High School</a></td>
+<td><strong>No sign up sheet yet</strong></td>
+</tr>
+<tr>
+<td>October 28, 2017</td>
+<td>Air and Scare</td>
+<td>Explore the spooky side of air and space at Air and Scare, our annual Halloween event at the Steven F. Udvar-Hazy Center in Chantilly, Va. Participate in creepy crafts, spooky science experiments, and other Halloween-themed activities. Arrive in costume to get into the Halloween spirit and enjoy safe indoor trick-or-treating.</td>
+<td><a href="https://www.google.com/maps/place/Steven+F.+Udvar-Hazy+Center/@38.9109231,-77.4463962,17z/data=!3m1!4b1!4m5!3m4!1s0x89b646eb32642073:0xb15e71e7680ccaa8!8m2!3d38.9109189!4d-77.4442075">Udvar-Hazy Center</a></td>
+<td><strong>No sign up sheet yet</strong></td>
+</tr>
+<tr>
+<td>January 27, 2018</td>
+<td>HayMaker STEAM Expo</td>
+<td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
+<td><a herf="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068">Battlefield High School</a></td>
+<td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
 </table>
