@@ -89,8 +89,8 @@
 <tr>
 <td>October 21, 2017</td>
 <td>IROC Competition</td>
-<td>ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
-<td>Battlefield High School</td>
+<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
+<td><a href="https://battlefieldhs.pwcs.edu/">Battlefield High School</a></td>
 <td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
@@ -115,7 +115,7 @@
 <td>October 21, 2017</td>
 <td>IROC Competition</td>
 <td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
-<td>Battlefield High School</td>
+<td><a href="https://battlefieldhs.pwcs.edu/">Battlefield High School</a></td>
 <td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
@@ -137,7 +137,7 @@
 <td>January 27, 2018</td>
 <td>HayMaker STEAM Expo</td>
 <td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
-<td>Battlefield High School</td>
+<td><a href="https://battlefieldhs.pwcs.edu/">Battlefield High School</a></td>
 <td><strong>No sign up sheet yet</strong></td>
 </tr>
 </thead>
