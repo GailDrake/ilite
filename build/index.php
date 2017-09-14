@@ -127,21 +127,21 @@
               <div class="clearfix margin_top3"></div>
               <div class="flexbox-columns">
                 <div class="one_third animate" data-anim-delay="200" data-anim-type="fadeInUp">
-                  <a class="home__img-holder" href="#">
+                  <a class="home__img-holder" href="/getinvolved/firstfuel.php">
                   <div class="home__img n3"></div></a>
                   <div class="addes">
                     <strong>FIRST Fuel Sign-Ups</strong> Team-members and parents should be aware of the <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>. We thank you for your continued support of ILITE!
                   </div>
                 </div><!-- end section -->
                 <div class="one_third animate" data-anim-delay="250" data-anim-type="fadeInUp">
-                  <a class="home__img-holder" href="#">
+                  <a class="home__img-holder">
                   <div class="home__img n1"></div></a>
                   <div class="addes">
                     <strong>2016 IROC Competition is Largest Ever Held</strong> With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics, 5338, RoboLoCos, and 2363, Triple Helix. Congratulations teams!
                   </div>
                 </div><!-- end section -->
                 <div class="one_third last animate" data-anim-delay="300" data-anim-type="fadeInUp">
-                  <a class="home__img-holder" href="#">
+                  <a class="home__img-holder">
                   <div class="home__img n2"></div></a>
                   <div class="addes">
                     <strong>ILITE Chosen To Be Kindness Ambassadors</strong> ILITE has been chosen to be kindness ambassadors for our school and community. Recent developments include enacting kindness rules at our high school, starting a kindness week at out school, and spreading kindess at the PWCS Walk for Autism.
