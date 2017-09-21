@@ -63,7 +63,15 @@
 				</div>
 				<div class="contentcontent">
 					<div class="presscontainer">
-						<div class='grid'>							
+						<div class='grid'>
+							<div class="block">
+								<h3>Haymarket Lifestyle 2015</h3>
+								<h3><img src='../images/press/dominion.jpg'></h3>
+								<p> ILITE Summer Camps were a huge success this year, with great attendance in all camps such as the Boe-Bot camp, STEM 1, Basics of Programming, Girls in STEM, Cyber Defense, LEGO EV3 Robotics, and an Advanced Cyber Camp.</p><a href="https://docs.google.com/document/d/1ozpyHAybN-4xBaObmyjzDwamx598ooiDZyFZRYrE9hU/edit?usp=sharing">
+								<div class="buttonpress">
+									read more
+								</div></a>
+							</div>
 							<div class="block">
 								<h3>Haymarket Lifestyle 2015</h3>
 								<h3><img src='../images/press/hl.png'></h3>
