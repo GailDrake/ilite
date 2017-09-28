@@ -78,7 +78,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/usstem.png"></div>
             <div class="sponsor__text">
               <!--US STEM-->
-              <span>Add US STEM description here</span>
+              <span>Add US STEM description </span>
             </div>
             </div>
 
@@ -186,7 +186,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/battlefieldhighschool.jpg"></div>
             <div class="sponsor__text">
               <!--Battlefield High School-->
-              <span>Add Battlefield Description here</span>
+              <span>Battlefield High School is our host school.</span>
             </div>
           </div>
 
@@ -195,7 +195,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/haymarket.jpg"></div>
             <div class="sponsor__text">
               <!--Town of Haymarket-->
-              <span>Add Town Haymarket Description here</span>
+              <span>The Town of Haymarket is the town that our school resides in.</span>
             </div>
           </div>
 

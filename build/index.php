@@ -156,30 +156,72 @@
               <p class="home__section-header">our sponsors</p>
               <p class="home__section-sub-header">We thank our sponsors for their continued support.</p>
               <div class="home__sponsors__logo-wrap">
-                <a class="home__sponsors__logo-link" href="http://www.netapp.com/us/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/1.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.a1floodtech.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/2.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.lockheedmartin.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/3.png )"></div></a> <a class="home__sponsors__logo-link" href="http://battlefieldhs.schools.pwcs.edu/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/4.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://www.usstem.org/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/17.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.macedontechnologies.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/6.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.frdallc.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/7.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.bellpumpandwell.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/8.jpg )"></div></a> <a class="home__sponsors__logo-link" href="https://www.incadencecorp.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/9.png )"></div></a> <a class="home__sponsors__logo-link" href="#" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/11.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.novec.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/12.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://www.afcea.org/site/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/13.gif )"></div></a> <a class="home__sponsors__logo-link" href="http://ascoweb.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/14.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.pwcs.edu/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/15.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://wanderstockphoto.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/16.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.army.mil/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/6.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://www.datasynctech.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/5.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.geico.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/18.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.azosai.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/19.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://khouriortho.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/20.jpg )"></div></a> <a class="home__sponsors__logo-link" href="www.townofhaymarket.org/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/21.jpg )"></div></a> <a class="home__sponsors__logo-link" href="https://www.tropicalsmoothiecafe.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/22.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.cathyshometeam.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/23.png )"></div></a>
+                <a class="home__sponsors__logo-link" href="http://www.a1floodtech.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/floodtech.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.lockheedmartin.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/lockheedmartin.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.battlefieldhs.pwcs.edu/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/battlefieldhighschool.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.usstem.org/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/usstem.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.macedontechnologies.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/macedontechnologies.png )"></div>
+                </a>
+                <!-- <a class="home__sponsors__logo-link" href="https://www.frdallc.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/frda.png )"></div>
+								</a> -->
+								<a class="home__sponsors__logo-link" href="http://www.bellpumpandwell.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/bellpumpandwell.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.incadencecorp.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/incadence.png )"></div>
+                </a>
+                <!-- <a class="home__sponsors__logo-link" href="https://www..com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/evolutionenvirogroup.png )"></div>
+                </a> -->
+                <a class="home__sponsors__logo-link" href="https://www.novec.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/novec.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.afcea.org/site/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/afcea.gif )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://ascoweb.com" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/asco.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.pwcs.edu/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/pwc.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://wanderstockphoto.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/wanderstock.png )"></div>
+                </a>
+                <!-- <a class="home__sponsors__logo-link" href="http://www.army.mil/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/usarmy.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.datasynctech.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/datasync.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.geico.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/geico2.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.azosai.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/azosai.jpg )"></div>
+                </a> -->
+                <a class="home__sponsors__logo-link" href="http://khouriortho.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/khouriortho.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.townofhaymarket.org/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/haymarket.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.tropicalsmoothiecafe.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/tropicalsmoothie.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.cathyshometeam.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/cathyshometeam.png )"></div>
+                </a>
               </div>
             </div>
           </div>
