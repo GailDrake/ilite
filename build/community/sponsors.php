@@ -78,7 +78,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/usstem.png"></div>
             <div class="sponsor__text">
               <!--US STEM-->
-              <span>Add US STEM description </span>
+              <span>Founded in 2011, The US STEM Foundation strives to provide students with hands-on STEM activities and experiences. The programs they set up have the power to engage, educate, develop, and create responsible citizens, to a higher extent than what can be achieved in the classroom.</span>
             </div>
             </div>
 
@@ -186,7 +186,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/battlefieldhighschool.jpg"></div>
             <div class="sponsor__text">
               <!--Battlefield High School-->
-              <span>Battlefield High School is our host school.</span>
+              <span>Founded in 2004, Battlefield high school, in Haymarket, Virginia, has been the home of ILITE Robotics since 2005. Battlefield, a Prince William county school, has more IT type classes that any other high school in the nation.</span>
             </div>
           </div>
 
@@ -195,7 +195,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/haymarket.jpg"></div>
             <div class="sponsor__text">
               <!--Town of Haymarket-->
-              <span>The Town of Haymarket is the town that our school resides in.</span>
+              <span>The Town of Haymarket, a part of Prince William County in northern Virginia, is also the town where ILITE Robotics calls home. Since its establishment in 1799, Haymarket has rapidly grown over the past several years, yet continues to offer both the comfort and charm of a small town, as well as the opportunity and experiences of a large community.</span>
             </div>
           </div>
 
@@ -213,7 +213,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/afcea.gif"></div>
             <div class="sponsor__text">
               <!--AFCEA-->
-              <span>Add AFCEA description here</span>
+              <span>AFCEA, The Armed Forces Communications and Electronics Association, is dedicated to connecting people, ideas ,and innovations in order to enhance global security. They achieve this by implementing networking and educational opportunities. They provide a forum to the government, military, and industry communities to increase communications, in order to meet the needs of those who have served the country.</span>
             </div>
             </div>
 
@@ -240,7 +240,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/tropicalsmoothie.png"></div>
             <div class="sponsor__text">
               <!--Tropical Smoothie-->
-              <span>Add Tropical Smoothie description here</span>
+              <span>Tropical Smoothie Cafe is an American restaurant franchise most notable for its signature smoothie drinks. In addition, the full cafe offers healthy food options including its sandwiches, flatbreads, wraps, and bowls. The company believes in providing healthier options made with fresh, natural, and quality ingredients to its local communities.</span>
             </div>
           </div>
 
@@ -294,7 +294,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/khouriortho.jpg"></div>
             <div class="sponsor__text">
               <!--Khouri Orthodontist-->
-              <span>Add Khouri Orthodontist description here</span>
+              <span>Dr. Khouri and his Orthodontics team strives to create a welcoming environment for their patients and provide the highest quality of care. Khouri Orthodontics uses the most advanced orthodontist technologies and personal treatment plans catered to their client’s needs, and prides itself on the incredible personalized care and individual attention dedicated to each patient.</span>
             </div>
           </div>
 
@@ -303,7 +303,7 @@
             <div class="sponsor__image"><img src="../images/sponsors/cathyshometeam.png"></div>
             <div class="sponsor__text">
               <!--Cathy's Home Team-->
-              <span>Add Cathy's Home Team description here</span>
+              <span>Cathy’s Home Team is a Real-Estate Agency dedicated to “serving Northern Virginia one family at a time”. Always putting their clients first, the company’s team of highly-trained professionals promises to keep in constant communications with their customers in order to help them achieve their real estate goals.</span>
             </div>
           </div>
 
