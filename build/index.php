@@ -162,7 +162,7 @@
                 <a class="home__sponsors__logo-link" href="http://www.lockheedmartin.com/" target="_blank">
                 <div class="home__sponsors__logo" style="background-image: url( images/sponsors/lockheedmartin.png )"></div>
                 </a>
-                <a class="home__sponsors__logo-link" href="http://www.battlefieldhs.pwcs.edu/" target="_blank">
+                <a class="home__sponsors__logo-link" href="http://battlefieldhs.pwcs.edu/" target="_blank">
                 <div class="home__sponsors__logo" style="background-image: url( images/sponsors/battlefieldhighschool.jpg )"></div>
                 </a>
                 <a class="home__sponsors__logo-link" href="http://www.usstem.org/" target="_blank">
