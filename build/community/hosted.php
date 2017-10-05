@@ -102,72 +102,77 @@
           <center>
             <h1 class="underline">Upcoming Events:</h1>
           </center>
-          <h1>IROC</h1><img class="leftimg" src="../images/iroc.png">
-          ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics
-          competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s
-          FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which
-          robots are built and programmed by students to score goals on the airship, in addition to scoring balls in
-          12ft towers. Three teams and their robots work together on constantly rotating alliances throughout the
-          competition. Rankings are determined by individual score averages, meaning teams must work together to
-          earn as many points as possible collectively. You don’t want to miss this collaborative competition!
+          <h1>IROC</h1><img class="leftimg" src="../images/iroc.png"> 
+          ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics 
+          competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s 
+          FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which 
+          robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 
+          12ft towers. Three teams and their robots work together on constantly rotating alliances throughout the 
+          competition. Rankings are determined by individual score averages, meaning teams must work together to 
+          earn as many points as possible collectively. You don’t want to miss this collaborative competition! 
           This 2017 competition, the 6th annual event, was held on October 21th, 2017 at Battlefield High School.
 
           <div class="center-button">
             <a class="button thhthree" href="http://irocoffseason.org/">IROC SITE</a> <a class="button thhthree" href="http://irocoffseason.org/images/floorplan.png">FLOOR PLAN</a> <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a> <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
           </div><br>
-
+          
           <h1>2017 FTC Robotics Northern Virginia Regional Qualifier </h1>
-             ILITE (Inspiring Leaders in Technology and Engineering)
-		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
-		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
+             ILITE (Inspiring Leaders in Technology and Engineering) 
+		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams, 
+		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots 
 		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
 		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
           <br>
           <br>
-
-
-
-
+          
           <h1>FLL Workshops</h1>
-            The first workshop will be held on September 21st. Then Programming 1# on September 30th and Programming #2 on December 5th.
+            The first workshop will be held on September 21st. Then Programming 1# on September 30th and Programming #2 on December 5th. 
           	Lastly presentations will be on December 12th
-
-            FIRST® LEGO® League challenges kids to think like scientists and engineers.
-            During the HYDRO DYNAMICSSM season, teams will choose and solve a real-world problem in the Project.
-            They will also build, test, and program an autonomous robot using LEGO® MINDSTORMS® technology to solve a set of missions in the Robot Game.
-            Throughout their experience, teams will operate under the FIRST LEGO League signature set of Core Values, celebrating discovery,
+          
+            FIRST® LEGO® League challenges kids to think like scientists and engineers. 
+            During the HYDRO DYNAMICSSM season, teams will choose and solve a real-world problem in the Project. 
+            They will also build, test, and program an autonomous robot using LEGO® MINDSTORMS® technology to solve a set of missions in the Robot Game. 
+            Throughout their experience, teams will operate under the FIRST LEGO League signature set of Core Values, celebrating discovery, 
             teamwork, and Gracious Professionalism®
-
+          
           <br>
-
+            
           <h1>STEAM Expo</h1>
           The STEAM Expo will be held on January 27th and provides free activities, such as 50 hands on experiments, student project showcases, and STEAM
           presentations to over 2000 attendes of students, teachers, and families. The recent addition of 'A' for Arts
           in STEAM allowed for new activities such as the technology behind music and an interactive instrument petting zoo.
-          There are hands on activities range from friendship bracelets, math puzzles, and chemistry. Local vendors and
-          photo booths are set up for attendees.
-
+          There are hands on activities range from friendship bracelets, math puzzles, and chemistry. Local vendors and 
+          photo booths are set up for attendees. 
+          
           <br>
-
+          
           <h1> 2018 FIRST Chesapeake District Northern Virginia Event</h1>
-          ILITE hosted their first FRC District competition for Week One of the 2017 FIRST Stronghold season. Almost forty FRC
-          teams from the Chesapeake district gather to participate in the first competition of Steamworks. Those in
-          attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the
+          ILITE hosted their first FRC District competition for Week One of the 2017 FIRST Stronghold season. Almost forty FRC 
+          teams from the Chesapeake district gather to participate in the first competition of Steamworks. Those in 
+          attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the 
           two-day event. The competition will take place on March 2th and end on March 4th.
           
+          <h1>2017 FTC Robotics Regional Competition</h1>
+		   ILITE (Inspiring Leaders in Technology and Engineering) 
+		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams, 
+		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots 
+		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
+		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
+            
+
           <center>
             <h1 class="underline">Past Events:</h1>
           </center>
-          <h1>IROC</h1><img class="leftimg" src="../images/iroc.png">
+          <h1>IROC</h1><img class="leftimg" src="../images/iroc.png"> 
           	ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2016 game, FIRST Stronghold<sup>TM</sup>, is a defense-themed game in which robots are built and programmed by students to cross, or "breach", a set of rotating field defences, and score goals in the opposing teams' towers. Three teams and their robots work together on constantly rotating alliances throughout the competition. Rankings are determined by individual score averages, meaning teams must work together to earn as many points as possible collectively. You don’t want to miss this collaborative competition! This 2016 competition, the 6th annual event, was held on <b>October 22th, 2016</b> at Battlefield High School.
           <div class="center-button">
             <a class="button thhthree" href="http://irocoffseason.org/">IROC SITE</a> <a class="button thhthree" href="http://irocoffseason.org/images/floorplan.png">FLOOR PLAN</a> <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a> <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
           </div><br>
           <br>
           <h1>2016 FTC Robotics Regional Competition</h1>
-		   ILITE (Inspiring Leaders in Technology and Engineering)
-		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
-		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
+		   ILITE (Inspiring Leaders in Technology and Engineering) 
+		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams, 
+		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots 
 		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
 		   competition will be held on <b>December 10th, 2016</b> at Battlefield High School.
           <br>
@@ -245,17 +250,17 @@
   <script src="/js/universal/jquery.js" type="text/javascript">
   </script> <!-- Whole site JS -->
   <script src="/js/ilite/min/ilite.min.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="../js/animations/js/animations.min.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="../js/onepage3/bootstrap.min.js">
-  </script>
+  </script> 
   <script src="../js/onepage3/jPinning.js">
-  </script>
+  </script> 
   <script src="../js/scrolltotop/totop.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript">
   </script>
 </body>
