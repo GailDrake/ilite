@@ -22192,9 +22192,7 @@ margin-top: -5px;
   padding: 0 0.25em 0 0.5em;
   color: #999;
 }
-.crumbs li.last:before,
-.crumbs li.last:after {
-  content: '';
+
 }
 .last {
   font-weight: normal;

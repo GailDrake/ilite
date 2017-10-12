@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
@@ -74,8 +74,48 @@
 <p> At ILITE Robotics, we have promising videographers who take lots of film of our team’s activities. They capture our effervescent and interesting teammates working, learning, and even playing. ILITE media can be viewed below.</p>
 
 <div class="imageGrid">
+  
+  <a href="https://www.dropbox.com/sh/bbr2288z656ubhm/AADWSERCz8P0Ki5G4Wg93TOJa/FRC%20Robotics/2017%20World%20Championships?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2017</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+  
+  <a href="https://www.dropbox.com/sh/bbr2288z656ubhm/AAC3coZ6kps9M0sx7SwWxyBZa/FRC%20Robotics/Chesapeake%20District%20Championships?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Chesapeake District Championships 2017</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+  
+  <a href="https://www.dropbox.com/sh/wck7mcgzcbv42qr/AADP_ez0oJeDZSYkUoq5gqSXa?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>IROC 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+  
+  <a href="https://www.dropbox.com/sh/e54shc5s5fnoi48/AACkh9a7XvxGkllzuJn7NTZba?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>DC United 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+  
+  <a href="https://www.dropbox.com/sh/jf3h2t6nborid9s/AADhUeMrDa7RpB0KDkxtJm4Ka?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>World Championship 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
 
-  <a href="https://www.dropbox.com/sh/rad7iytt71r2d6j/AACArDXkXrF5Pho-4wrUqSFBa?dl=0 ">
+  <a href="https://www.dropbox.com/sh/v7vzw69wnsn9sp7/AABcLQ560lXzyZKHNFUQoNoZa?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Portsmouth FRC District 2016</h2>
             <div class="content"></div>
@@ -83,10 +123,17 @@
     </div>
   </a>
 
-
   <a href="https://www.dropbox.com/sh/nan3z5cw8w6jy2d/AACAj4koZIgp4ZPRkMMuOutta?dl=0">
     <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
         <div class="textWrapper"><h2>Bethesda FRC District 2016</h2>
+            <div class="content"></div>
+        </div>
+    </div>
+  </a>
+  
+  <a href="https://www.dropbox.com/sh/pl93yligwwxi79k/AACXnbKK1uly5si-rY4w_BbQa?dl=0">
+    <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+        <div class="textWrapper"><h2>Haymarket Day 2016</h2>
             <div class="content"></div>
         </div>
     </div>
@@ -504,3 +551,4 @@
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
 </body>
 </html>
+
