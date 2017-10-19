@@ -99,7 +99,10 @@
                   <div class="home__img e1"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> <strong><a href="http://www.irocoffseason.org">FTC Robotics NoVA Regional</a></strong> <strong>December 10th, 2016</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007">
+                  <i class="fa fa-map-marker"></i> Google Map</a></em> 
+                  <strong><a href="http://www.irocoffseason.org">FTC Robotics NoVA Regional</a></strong> 
+                  <strong>December 2th, 2017</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
               <div class="one_third animate" data-anim-delay="200" data-anim-type="fadeInUp">
@@ -107,7 +110,9 @@
                   <div class="home__img e2"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> <strong><a href="community/hosted.php#ftc">3rd Annual HayMaker STEM Expo</a></strong> <strong>January 28th, 2017</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> 
+                  <strong><a href="community/hosted.php#ftc">4th Annual HayMaker STEM Expo</a></strong> 
+                  <strong>January 28th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
               <div class="one_third last animate" data-anim-delay="300" data-anim-type="fadeInUp">
@@ -115,7 +120,9 @@
                   <div class="home__img e3"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> <strong><a href="community/hosted.php#frc">FRC District Event</a></strong> <strong>March 4th and 5th, 2017</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
+                  <strong><a href="community/hosted.php#frc">FRC District Event</a></strong> 
+                  <strong>March 2nd, 3rd, and 4th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
             </div>
@@ -130,21 +137,31 @@
                   <a class="home__img-holder" href="/getinvolved/firstfuel.php">
                   <div class="home__img n3"></div></a>
                   <div class="addes">
-                    <strong>FIRST Fuel Sign-Ups</strong> Team-members and parents should be aware of the <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>. We thank you for your continued support of ILITE!
+                    <strong>FIRST Fuel Sign-Ups</strong> 
+                    Team-members and parents should be aware of the 
+                    <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>. 
+                    We thank you for your continued support of ILITE!
                   </div>
                 </div><!-- end section -->
                 <div class="one_third animate" data-anim-delay="250" data-anim-type="fadeInUp">
                   <a class="home__img-holder">
                   <div class="home__img n1"></div></a>
                   <div class="addes">
-                    <strong>2016 IROC Competition is Largest Ever Held</strong> With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics, 5338, RoboLoCos, and 2363, Triple Helix. Congratulations teams!
+                    <strong>2016 IROC Competition is Largest Ever Held</strong> 
+                    With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the 
+                    largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics, 
+                    5338, RoboLoCos, and 2363, Triple Helix. Congratulations teams!
                   </div>
                 </div><!-- end section -->
                 <div class="one_third last animate" data-anim-delay="300" data-anim-type="fadeInUp">
                   <a class="home__img-holder">
                   <div class="home__img n2"></div></a>
                   <div class="addes">
-                    <strong>ILITE Chosen To Be Kindness Ambassadors</strong> ILITE has been chosen to be kindness ambassadors for our school and community. Recent developments include enacting kindness rules at our high school, starting a kindness week at out school, and spreading kindess at the PWCS Walk for Autism.
+                    <strong>ILITE Chosen To Be Kindness Ambassadors</strong> 
+                    ILITE has been chosen to be kindness ambassadors for our school 
+                    and community. Recent developments include enacting kindness rules 
+                    at our high school, starting a kindness week at out school, and 
+                    spreading kindess at the PWCS Walk for Autism.
                   </div>
                 </div><!-- end section -->
               </div>
