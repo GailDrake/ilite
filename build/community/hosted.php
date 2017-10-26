@@ -116,17 +116,18 @@
             <a class="button thhthree" href="http://irocoffseason.org/">IROC SITE</a> <a class="button thhthree" href="http://irocoffseason.org/images/floorplan.png">FLOOR PLAN</a> <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a> <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
           </div><br>
 
-          <h1>2017 FTC Robotics Northern Virginia Regional Qualifier </h1>
+          <h1>2017 FTC Robotics Northern Virginia Regional Qualifier </h1><img class="leftimg" src="../community/images/ftc-relic-recovery.jpg">
              ILITE (Inspiring Leaders in Technology and Engineering)
 		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
 		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
 		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
 		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
-          <br>
-          <br>
 
+       <br><br>
 
-
+       <div class="center-button">
+         <a class="button thhthree" href="http://irocoffseason.org/">FTC SITE</a> <a class="button thhthree" href="http://irocoffseason.org/images/floorplan.png">FLOOR PLAN</a> <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a> <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
+       </div><br><br>
 
           <h1>FLL Workshops</h1>
             The first workshop will be held on September 21st. Then Programming 1# on September 30th and Programming #2 on December 5th.
@@ -154,7 +155,7 @@
           teams from the Chesapeake district gather to participate in the first competition of Steamworks. Those in
           attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the
           two-day event. The competition will take place on March 2th and end on March 4th.
-          
+
           <center>
             <h1 class="underline">Past Events:</h1>
           </center>
