@@ -30,6 +30,12 @@
 	 <script src="../js/map.js" async defer></script>
 </head>
 
+<style>
+	center ul li {
+		font-size: 22px;
+	}
+</style>
+
 <body>
 
 <div class="site_wrapper">
@@ -82,7 +88,20 @@
 
 </div>
 
+	<hr class="sponsors__hr" />
+
+	<div>
+		<center>
+			<h1>special thanks to the following people</h1>
+			<ul>
+				<li>Paul Burgess IV</li>
+				<li>Patrick Boyd</li>
+			</ul>
+		</center>
+  </div>
+
 <hr class="sponsors__hr" />
+
 
 <div class="sponsorbig">
 	<div class="sponsor__image tall-logo-shim">
@@ -144,7 +163,7 @@
 	</div>
 	<div class="sponsor__text">
 		<span>
-			In every industry, expertise in information technology, big data analysis and interpretation is driving innovation and improving business outcomes. For the American intelligence and defense communities, the need for effective partners who can leverage this expertise to support their mission is clear. DataSync Technologies’ goal is to provide award-winning, mission-driven, cost-effective consultants that impart the best possible value to our customer, by enhancing defense and intelligence solutions through best business practices. As a Women-Owned Small Business, we attract and retain consultants with the desire to work in a small business that encourages entrepreneurial spirit. Our staff members have a combination of Government and Commercial consulting experience to bring real-world solutions through a responsive relationship with our customers’ organisational staff to ensure project success. 
+			In every industry, expertise in information technology, big data analysis and interpretation is driving innovation and improving business outcomes. For the American intelligence and defense communities, the need for effective partners who can leverage this expertise to support their mission is clear. DataSync Technologies’ goal is to provide award-winning, mission-driven, cost-effective consultants that impart the best possible value to our customer, by enhancing defense and intelligence solutions through best business practices. As a Women-Owned Small Business, we attract and retain consultants with the desire to work in a small business that encourages entrepreneurial spirit. Our staff members have a combination of Government and Commercial consulting experience to bring real-world solutions through a responsive relationship with our customers’ organisational staff to ensure project success.
 		</span>
 	</div>
 </div>
@@ -175,6 +194,8 @@
 	</div>
 </div>
 
+
+
 <hr class="sponsors__hr" />
 
 <div class="sponsormed">
@@ -183,7 +204,7 @@
 	</div>
 	<div class="sponsor__text">
 		<span>
-			Since its founding in 2002, FRDA has been a provider of choice for select private and U.S. government sponsors seeking creative human-based solutions to challenging mission and technical support issues. FRDA provides clients capable and fully vetted subject matter experts (SME) to address challenging and sensitive requirements. FRDA personnel deliver a broad range of recent and relevant international experience. All FRDA SMEs retain some level of security clearance and constitute a professional cadre with deep expertise in senior government, private sector and/or academic positions. Many of our senior SMEs have held command-level positions in sensitive intelligence organizations or specialized military operations units. ‬ 
+			Since its founding in 2002, FRDA has been a provider of choice for select private and U.S. government sponsors seeking creative human-based solutions to challenging mission and technical support issues. FRDA provides clients capable and fully vetted subject matter experts (SME) to address challenging and sensitive requirements. FRDA personnel deliver a broad range of recent and relevant international experience. All FRDA SMEs retain some level of security clearance and constitute a professional cadre with deep expertise in senior government, private sector and/or academic positions. Many of our senior SMEs have held command-level positions in sensitive intelligence organizations or specialized military operations units. ‬
 		</span>
 	</div>
 </div>
@@ -211,7 +232,7 @@
 	</div>
 	<div class="sponsor__text">
 		<span>
-			InCadence Strategic Solutions is a Woman-Owned Small Business (WOSB) specialized in providing cutting edge technical solutions, deep functional and domain subject matter expertise, operational intelligence and high-end engineering services. Notable technologies include android development, Government cloud computing, Ares mobile biometrics, and training services. Founded in 2009, InCadence has been providing strong, sound technical solutions, fresh ideas, exceptional personnel and experienced program management since day one with the highest levels of integrity, ingenuity and commitment to ensure mission success. 
+			InCadence Strategic Solutions is a Woman-Owned Small Business (WOSB) specialized in providing cutting edge technical solutions, deep functional and domain subject matter expertise, operational intelligence and high-end engineering services. Notable technologies include android development, Government cloud computing, Ares mobile biometrics, and training services. Founded in 2009, InCadence has been providing strong, sound technical solutions, fresh ideas, exceptional personnel and experienced program management since day one with the highest levels of integrity, ingenuity and commitment to ensure mission success.
 		</span>
 	</div>
 </div>
@@ -226,8 +247,8 @@
 	</div>
 	<div class="sponsor__text">
 		<span>
-			
-<i>Meet Dave Stinson, your GEICO Insurance Agent in Haymarket, VA.</i> I am Dave Stinson Sr. In 2003, I opened my first GEICO office near Ft. Belvoir, VA, and in 2013 relocated to Haymarket, VA. My office specializes in helping our Military, Government employees, and Northern Virginia residents, find the right coverage on auto, home, and many other insurance products at the lowest rates. We have Spanish-speaking agents ready to assist you. I'm an active member of the Quantico-Ft. Belvoir Business Alliance, the Manassas Kiwanis, and several local Chambers of Commerce, including Mount Vernon-Lee, Loudoun County, Greater Warrenton, and Prince William. 
+
+<i>Meet Dave Stinson, your GEICO Insurance Agent in Haymarket, VA.</i> I am Dave Stinson Sr. In 2003, I opened my first GEICO office near Ft. Belvoir, VA, and in 2013 relocated to Haymarket, VA. My office specializes in helping our Military, Government employees, and Northern Virginia residents, find the right coverage on auto, home, and many other insurance products at the lowest rates. We have Spanish-speaking agents ready to assist you. I'm an active member of the Quantico-Ft. Belvoir Business Alliance, the Manassas Kiwanis, and several local Chambers of Commerce, including Mount Vernon-Lee, Loudoun County, Greater Warrenton, and Prince William.
 		</span>
 	</div>
 </div>
@@ -255,7 +276,7 @@
 	</div>
 	<div class="sponsor__text">
 		<span>
-			NOVEC is Among the Nation’s Largest Electric Cooperatives Northern Virginia Electric Cooperative, one of the largest electric cooperatives of its kind in the United States, is a customer-owned and locally based distribution system that provides electricity to more than 160,000 residents and businesses throughout Northern Virginia. NOVEC’s service territory encompasses 651 square miles with more than 7,000 miles of electric lines in portions of Clarke, Fairfax, Fauquier, Loudoun, Prince William, and Stafford counties, the City of Manassas Park, and the Town of Clifton. Headquartered in Manassas, NOVEC maintains satellite offices in Gainesville, Leesburg, Woodbridge, and Stafford. 
+			NOVEC is Among the Nation’s Largest Electric Cooperatives Northern Virginia Electric Cooperative, one of the largest electric cooperatives of its kind in the United States, is a customer-owned and locally based distribution system that provides electricity to more than 160,000 residents and businesses throughout Northern Virginia. NOVEC’s service territory encompasses 651 square miles with more than 7,000 miles of electric lines in portions of Clarke, Fairfax, Fauquier, Loudoun, Prince William, and Stafford counties, the City of Manassas Park, and the Town of Clifton. Headquartered in Manassas, NOVEC maintains satellite offices in Gainesville, Leesburg, Woodbridge, and Stafford.
 		</span>
 	</div>
 </div>
@@ -287,6 +308,50 @@
 		</span>
 	</div>
 </div>
+
+  <hr class="sponsors__hr" />
+
+
+<div class="sponsorsmall">
+	<div class="sponsor__image">
+		<img src="../images/sponsors/ABLE.png">
+	</div>
+	<div class="sponsor__text">
+		<span>
+			Able Moving and Storage is a well known, and reliable moving and storage company with over 50 company owned vans and trucks.
+		</span>
+	</div>
+</div>
+
+   <hr class="sponsors__hr" />
+
+
+<div class="sponsorsmall">
+	<div class="sponsor__image">
+		<img src="../images/sponsors/comcast.png">
+	</div>
+	<div class="sponsor__text">
+		<span>
+			Comcast Corporation is a company that works with media and technology to provide high speed internet and phone providers under the XFINITY brand.
+		</span>
+	</div>
+</div>
+
+  <hr class="sponsors__hr" />
+
+
+<div class="sponsorsmall">
+	<div class="sponsor__image">
+		<img src="../images/sponsors/micron.png">
+	</div>
+	<div class="sponsor__text">
+		<span>
+			Micron Technology gives the industry the broadest portfolio, and are the only company to make major memory and storage technologies.
+		</span>
+	</div>
+</div>
+
+
 
 </div>
 </div><!-- end section -->
