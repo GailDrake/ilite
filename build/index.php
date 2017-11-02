@@ -179,7 +179,11 @@
                 <div class="home__sponsors__logo" style="background-image: url( images/sponsors/20.jpg )"></div></a> <a class="home__sponsors__logo-link" href="www.townofhaymarket.org/" target="_blank">
                 <div class="home__sponsors__logo" style="background-image: url( images/sponsors/21.jpg )"></div></a> <a class="home__sponsors__logo-link" href="https://www.tropicalsmoothiecafe.com/" target="_blank">
                 <div class="home__sponsors__logo" style="background-image: url( images/sponsors/22.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.cathyshometeam.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/24.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.micron.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/25.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.xfinity.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/26.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.ablemoving.com/" target="_blank">
                 <div class="home__sponsors__logo" style="background-image: url( images/sponsors/23.png )"></div></a>
+
               </div>
             </div>
           </div>
