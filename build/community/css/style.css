@@ -22307,11 +22307,23 @@ caption {
   border: 1px solid #999;
   padding: 10px;
 }
-.leftimg {
-  width: 35%;
-  height: 100%;
+.leftimg1 {
+  width: 25%;
+  height: 25%;
   float: left;
-  padding-right: 50px;
+  padding-right: 20px;
+}
+.leftimg2 {
+  width: 28%;
+  height: 28%;
+  float: left;
+  padding-right: 20px;
+}
+.leftimg3 {
+  width: 30%;
+  height: 50%;
+  float: left;
+  padding-right: 20px;
 }
 .raleway-bold {
   font-family: 'Raleway', sans-serif;
@@ -22406,7 +22418,7 @@ span {
   background-repeat: no-repeat;
   background-size: cover;
 }
-.third__image { 
+.third__image {
   height: 250px;
   width: 33.33%;
   float: left;
@@ -23215,7 +23227,7 @@ padding-left: 25px;
   background-image: -moz-linear-gradient(top, #fff, #ddd);
   background-image: -ms-linear-gradient(top, #fff, #ddd);
   background-image: -o-linear-gradient(top, #fff, #ddd);
-  background-image: linear-gradient(to bottom, #fff, #ddd);  
+  background-image: linear-gradient(to bottom, #fff, #ddd);
   padding: .2em 1.5em;
   float: left;
   text-decoration: none;
@@ -23245,7 +23257,7 @@ padding-left: 25px;
   position:absolute;
   z-index: 1;
   top: 0;
-  right: -.5em;  
+  right: -.5em;
   bottom: 0;
   width: 1em;
   background: #ddd;
@@ -23254,7 +23266,7 @@ padding-left: 25px;
   background-image: -moz-linear-gradient(top, #fff, #ddd);
   background-image: -ms-linear-gradient(top, #fff, #ddd);
   background-image: -o-linear-gradient(top, #fff, #ddd);
-  background-image: linear-gradient(to bottom, #fff, #ddd);  
+  background-image: linear-gradient(to bottom, #fff, #ddd);
   -moz-box-shadow: 2px 2px 2px rgba(0,0,0,.4);
   -webkit-box-shadow: 2px 2px 2px rgba(0,0,0,.4);
   box-shadow: 2px 2px 2px rgba(0,0,0,.4);
@@ -23265,7 +23277,7 @@ padding-left: 25px;
   transform: skew(10deg);
   -webkit-border-radius: 0 5px 0 0;
   -moz-border-radius: 0 5px 0 0;
-  border-radius: 0 5px 0 0;  
+  border-radius: 0 5px 0 0;
 }
 
 #tabs #current a {
@@ -23285,7 +23297,7 @@ padding-left: 25px;
     padding-top: 1em;
     height: auto;
     position: relative;
-    z-index: 2;	
+    z-index: 2;
     -moz-border-radius: 0 5px 5px 5px;
     -webkit-border-radius: 0 5px 5px 5px;
     border-top: 5px;
@@ -23306,9 +23318,9 @@ padding-left: 25px;
 .title {
 	color: green;
 	}
-	
+
 	/* PRESS */
-	
+
 	/* PRESS */
 .block h3 {
 	text-align: center;
@@ -23337,7 +23349,7 @@ p {
 .buttonpress:hover{
 	background:#D1D1D1;
 	color:#2F9615;
-	
+
 }
 h2:after {
   content: "";
@@ -23368,7 +23380,7 @@ h2:after {
   content: "";
 }
 .block {
-  width: 100%; 
+  width: 100%;
   background:#EDEDED;
   padding: .5em;
   display: inline-block;
@@ -23378,13 +23390,13 @@ h2:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
-	
+
 .grid >.block{
 	transition: all 0.7s ease 0.7s;
-	-moz-transition:all 0.7s ease 0.7s; 
+	-moz-transition:all 0.7s ease 0.7s;
 	 -webkit-transition: all 0.7s ease 0.7s;
 }
-.grid{ 
+.grid{
 	-moz-column-count: 3;
     -webkit-column-count: 3;
     column-count: 3;
@@ -23411,7 +23423,7 @@ h2:after {
 	}
 	.block:after{
 		content:""; /*We're two fat columns wide!*/
-	}	
+	}
 }
 @media (min-width: 61em) {
   .grid {

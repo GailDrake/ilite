@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -76,9 +76,9 @@
 <p>FIRST STEAMWORKS <sup>SM</sup> is played by two alliances of three teams each. Alliances compete against each other
 to toss balls in boilers, place gears to rotate rotors, and autonomously score.</p>
 
-			<div class="third__image" style="background-image: url('../images/stills/trophy.jpeg');"></div> 
-	<div class="third__image" style="background-image: url('../images/stills/chairmanchurch.jpeg');"></div> 
-		<div class="third__image" style="background-image: url('../images/stills/standard.JPG');"></div> 
+			<div class="third__image" style="background-image: url('../images/stills/trophy.jpeg');"></div>
+	<div class="third__image" style="background-image: url('../images/stills/chairmanchurch.jpeg');"></div>
+		<div class="third__image" style="background-image: url('../images/stills/standard.JPG');"></div>
 		<br><br><br>
 <p><br>ILITE has been hard at work to make another season successful. Already ILITE has won the Chairmans Award and was on the winning alliance at the 2017 Greater DC Regional . Additionally, ILITE won the 2017 Central Virginia District. The season culminating in ILITE wnning the Chairmans award at the District Championships as well as becoming an alliance finalist, qualifying for the 2017 Worlds Championship. This is the 13th year the team has qualified!</p>
 
