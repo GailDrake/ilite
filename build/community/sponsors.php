@@ -136,7 +136,7 @@
             <div class="sponsor__text">
               <!Studio rose
               <span>Studio Rose Design is a Graphic Design studio based in Northern Virginia that specializes in invitation/event design, logos, photo editing, printing, and many other forms of graphic design.</span>
-            </div>
+            </div> 
           </div>-->
 
           <!--<hr class="sponsors__hr">
