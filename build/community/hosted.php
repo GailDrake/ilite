@@ -98,23 +98,23 @@
           <h1>2017 FTC Robotics Regional Competition</h1>
 					<img class="leftimg2" src="../images/FTC-Relic-Recovery.png">
           <p>
-						ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting a NOVA regional FTC robotics competition again this year. FIRST Tech Challenge teams, typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's competition will be using the 2017, Relic Recovery, FTC game and will be held on <b>December 2nd, 2017</b> at Battlefield High School.
+						ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting a NOVA regional FTC robotics competition again this year. FIRST Tech Challenge teams, typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's competition will be using the 2017, Relic Recovery, FTC game and will be held on December 2nd, 2017 at Battlefield High School.
 					</p>
-					<br><br><br><br><br><br><br><br><br><br><br>
+					<br><br><br><br><br>
 
           <h1>4th Annual HayMaker STEM Expo</h1>
 					<img class="leftimg3" src="../images/site-img250.jpg">
           <p>
 						On Saturday, January 27th, join ILITE at the 2018 Haymaker STEM Expo. Play, build, make, and explore in our 4th rendition of the HayMaker Science, Technology, Engineering and Math (STEM) Expo. The expo will run from 10AM to 5PM with movies playing at 11AM and 3PM respectively. Students and enthusiasts of all ages and skills are invited to share our vision and to revel in a gathering of technology enthusiasts, crafters, tinkerers, hobbyists, engineering, science clubs, sustainability concepts, students and local exhibitors. The expo will boast a wide variety of family-friendly STEM activities, concessions and informational booths for ILITE summer camps and Battlefield High School’s IT program. Those interested in learning of our full offerings for “STEM’ers” or want to participate as an exhibitionist can visit our website. It is free of charge to attend. ILITE hopes to see you there!
 					</p>
-					<br><br><br><br><br><br>
+					<br><br>
 
 					<h1>2018 FRC Robotics District Competition</h1>
 					<img class="leftimg1" src="../images/FRC-Power-Up.jpg">
 					<p>
-            ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting the FRC District robotics competition again this year.The competition features this year’s FRC (FIRST Robotics Competition) game, FIRST Power Up<sup>TM</sup>. Three teams and their robots work together on constantly rotating alliances throughout the competition. Rankings are determined by individual score averages, meaning teams must work together to earn as many points as possible collectively. This 2018 competition will be held from <b>March 2nd, 2017 to March 4th, 2017</b> at Battlefield High School.
+            ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting the FRC District robotics competition again this year.The competition features this year’s FRC (FIRST Robotics Competition) game, FIRST Power Up<sup>TM</sup>. Three teams and their robots work together on constantly rotating alliances throughout the competition. Rankings are determined by individual score averages, meaning teams must work together to earn as many points as possible collectively. This 2018 competition will be held from March 2nd, 2017 to March 4th, 2017 at Battlefield High School.
 					</p>
-					<br><br><br><br><br><br><br><br>
+					<br><br><br><br><br>
 
           <center>
 						<h1 class="underline">Past Events:</h1>
@@ -123,9 +123,9 @@
 					<h1>IROC</h1>
 					<img class="leftimg1" src="../images/iroc.png">
           <p>
-            ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game, FIRST Steamworks<sup>TM</sup>. Three teams and their robots work together on constantly rotating alliances throughout the competition. Rankings are determined by individual score averages, meaning teams must work together to earn as many points as possible collectively. This 2017 competition, the 7th annual event, was held on <b>October 22nd, 2017</b> at Battlefield High School.
+            ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game, FIRST Steamworks<sup>TM</sup>. Three teams and their robots work together on constantly rotating alliances throughout the competition. Rankings are determined by individual score averages, meaning teams must work together to earn as many points as possible collectively. This 2017 competition, the 7th annual event, was held on October 22nd, 2017 at Battlefield High School.
 					</p>
-					<br><br><br><br><br><br><br><br><br><br><br>
+					<br><br><br><br><br>
 
 					<h1>2016 FIRST Chesapeake District Northern Virginia Event</h1>
 					<img class="leftimg1" src="../images/FRC-Stronghold.jpg">
@@ -133,21 +133,21 @@
 					  ILITE hosted their first FRC District competition for Week One of the 2016 FIRST Stronghold season. Forty FRC teams from the Chesapeake district gathered to participate in the first competition of Stronghold. Those in attendance saw exceptional robots on the field, Gracious Professionalism, and Cooperation throughout the two-day event. The event was interrupted with a
 					  pleasant surprise visit by none other than the founder of FIRST, Dean Kamen, himself.
 				  </p>
-					<br><br><br><br>
+					<br><br><br>
 
   				<h1>2015 Northern Virginia FTC Qualifier</h1>
 					<img class="leftimg1" src="../images/FTC-RES-Q.jpg">
   				<p>
 					  The 2015 Northern Virginia FTC Qualifier hosted in December as a way of promoting the amazing experience that we have had with FIRST to our community. Following the FTC game, Res-Q, 48 teams built robots to scoop debris and climb hills to the one-day event. This year marked the third annual double FTC qualifier hosted by ILITE, with 24 teams on each division. Children of all ages will be able to come together and enjoy the new, exciting event. From all over our community students will gather together, and have the chance to test the robots and the programs they had put together.
 					</p>
-					<br><br><br><br><br><br><br><br>
+					<br><br><br>
 
   				<h1>2014 Northern Virginia FLL Qualifier</h1>
 					<img class="leftimg1" src="../images/FLL-World-Class.png">
   				<p>
 					  The 2014 Northern Virginia FLL Qualifier hosted in December as a way of promoting one of the earliest levels of FIRST experience that we can promote to our community. Following the FLL game, World Class, more than 40 teams built robots to perform game specific tasks in the one-day event. Children of all ages will be able to come together and enjoy the new, exciting event. From all over our community students will gather together, and have the chance to test the robots and the programs they had put together.
 					</p>
-					<br><br><br><br><br><br><br>
+					<br><br><br>
 
         </div>
       </div>
