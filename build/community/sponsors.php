@@ -73,6 +73,17 @@
             </div>
              </div>
 
+             <div>
+             		<center>
+             			<h1>special thanks to the following people</h1>
+             			<ul>
+             				<li>Paul Burgess IV</li>
+             				<li>Patrick Boyd</li>
+             			</ul>
+             		</center>
+               </div>
+
+
           <hr class="sponsors__hr">
           <div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/usstem.png"></div>
@@ -104,7 +115,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/azosai.jpg"></div>
             <div class="sponsor__text">
-              <!--Azos Ai
+              <!Azos Ai
               <span>Azos Description here</span>
             </div>
           </div>-->
@@ -113,7 +124,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/studiorose.png"></div>
             <div class="sponsor__text">
-              <!--Studio rose
+              <!Studio rose
               <span>Studio Rose Design is a Graphic Design studio based in Northern Virginia that specializes in invitation/event design, logos, photo editing, printing, and many other forms of graphic design.</span>
             </div>
           </div>-->
@@ -122,7 +133,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/lowes.png"></div>
             <div class="sponsor__text">
-              <!--Lowes
+              <!Lowes
               <span>For more than 60 years, Lowe’s has been “Improving Home Improvement”. Our proud past combines with a promising future. Lowe’s offers everything customers need to build, maintain, beautify and enjoy their homes. Lowe’s operates more than 1,725 stores in the United States, Canada and Mexico. In 2010, Lowe’s earned several notable industry distinctions.</span>
             </div>
           </div>-->
@@ -131,7 +142,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/.jpg"></div>
             <div class="sponsor__text">
-              <!--Spark
+              <!Spark
               <span>Add SPARK description</span>
             </div>
           </div>-->
@@ -140,7 +151,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/netapp.png"></div>
             <div class="sponsor__text">
-              <!--NetAPP
+              <!NetAPP
               <span>Leading organizations worldwide count on NetApp for software, systems and services to manage and store their data. Customers value our teamwork, expertise and passion for helping them succeed now and into the future.</span>
             </div>
           </div>-->
@@ -149,7 +160,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/datasync.png"></div>
             <div class="sponsor__text">
-              <!--DataSync
+              <!DataSync
               <span>In every industry, expertise in information technology, big data analysis and interpretation is driving innovation and improving business outcomes. For the American intelligence and defense communities, the need for effective partners who can leverage this expertise to support their mission is clear. DataSync Technologies’ goal is to provide award-winning, mission-driven, cost-effective consultants that impart the best possible value to our customer, by enhancing defense and intelligence solutions through best business practices. As a Women-Owned Small Business, we attract and retain consultants with the desire to work in a small business that encourages entrepreneurial spirit. Our staff members have a combination of Government and Commercial consulting experience to bring real-world solutions through a responsive relationship with our customers’ organisational staff to ensure project success.</span>
             </div>
           </div>-->
@@ -158,7 +169,7 @@
 					<div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/frda.png"></div>
             <div class="sponsor__text">
-              <!--FRDA
+              <!FRDA
               <span>Since its founding in 2002, FRDA has been a provider of choice for select private and U.S. government sponsors seeking creative human-based solutions to challenging mission and technical support issues. FRDA provides clients capable and fully vetted subject matter experts (SME) to address challenging and sensitive requirements. FRDA personnel deliver a broad range of recent and relevant international experience. All FRDA SMEs retain some level of security clearance and constitute a professional cadre with deep expertise in senior government, private sector and/or academic positions. Many of our senior SMEs have held command-level positions in sensitive intelligence organizations or specialized military operations units. ‬</span>
             </div>
           </div>-->
@@ -221,7 +232,7 @@
           <div class="sponsorsmall">
             <div class="sponsor__image"><img src="../images/sponsors/wanderstock.png"></div>
             <div class="sponsor__text">
-              <!--Wanderstock Photography
+              <!Wanderstock Photography
               <span>Add Wanderstock description here</span>
             </div>
              </div>-->
@@ -230,7 +241,7 @@
           <div class="sponsormed">
             <div class="sponsor__image"><img src="../images/sponsors/usarmy.jpg"></div>
             <div class="sponsor__text">
-              <!--US ARMY
+              <!US ARMY
               <span>Add US ARMY description here</span>
             </div>
              </div>-->
@@ -306,6 +317,47 @@
               <span>Cathy’s Home Team is a Real-Estate Agency dedicated to “serving Northern Virginia one family at a time”. Always putting their clients first, the company’s team of highly-trained professionals promises to keep in constant communications with their customers in order to help them achieve their real estate goals.</span>
             </div>
           </div>
+
+          <div class="sponsorsmall">
+          	<div class="sponsor__image">
+          		<img src="../images/sponsors/ABLE.png">
+          	</div>
+          	<div class="sponsor__text">
+          		<span>
+          			Able Moving and Storage is a well known, and reliable moving and storage company with over 50 company owned vans and trucks.
+          		</span>
+          	</div>
+          </div>
+
+             <hr class="sponsors__hr" />
+
+
+          <div class="sponsorsmall">
+          	<div class="sponsor__image">
+          		<img src="../images/sponsors/comcast.png">
+          	</div>
+          	<div class="sponsor__text">
+          		<span>
+          			Comcast Corporation is a company that works with media and technology to provide high speed internet and phone providers under the XFINITY brand.
+          		</span>
+          	</div>
+          </div>
+
+            <hr class="sponsors__hr" />
+
+
+          <div class="sponsorsmall">
+          	<div class="sponsor__image">
+          		<img src="../images/sponsors/micron.png">
+          	</div>
+          	<div class="sponsor__text">
+          		<span>
+          			Micron Technology gives the industry the broadest portfolio, and are the only company to make major memory and storage technologies.
+          		</span>
+          	</div>
+          </div>
+
+
 
         </div>
       </div><!-- end section -->
