@@ -307,6 +307,15 @@
             </div>
           </div>
 
+          <hr class="sponsors__hr">
+          <div class="sponsorsmall">
+            <div class="sponsor__image"><img src="../images/sponsors/EngilityLogo.png"></div>
+            <div class="sponsor__text">
+              <!--Engility-->
+              <span>Engility (NYSE: EGL) is engineered to make a difference. Built on six decades of heritage, Engility is a leading provider of integrated solutions and services, supporting U.S. government customers in the defense, federal civilian, intelligence and space communities. Our innovative, highly technical solutions and engineering capabilities address diverse client missions. We draw upon our team's intimate understanding of customer needs, deep domain expertise and technical skills to help solve our nation's toughest challenges. Headquartered in Chantilly, Virginia, and with offices around the world, Engility's array of specialized technical service offerings include high-performance computing, cyber security, enterprise modernization and systems engineering. To learn more about Engility, please visit www.engility.com and connect with us on Facebook, LinkedIn and Twitter.</span>
+            </div>
+          </div>
+
         </div>
       </div><!-- end section -->
       <?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a><!-- end scroll to top of the page-->
