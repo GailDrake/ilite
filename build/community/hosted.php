@@ -6,7 +6,7 @@
 <html class="no-js" lang="en-gb">
 <!--<![endif]-->
 <head>
-  <title>ILITE | Robotics</title>
+  <title>ILITE Robotics | Home</title>
   <meta charset="utf-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="ILITE, first robotics, Battlefield HS" name="keywords">
@@ -15,61 +15,18 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport"><!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:600|Raleway:300,400,500" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:600|Raleway:300,400,500" rel="stylesheet"> -->
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><!-- <script src="../js/map.js" async defer></script> -->
+  <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><!-- <script src="../js/map.js" async defer></script> --> -->
   <link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
-<body class='hostedevents'>
-  <script id="handlebars__navbar" type="text/x-handlebars-template">
-        {{> navbar}}
-  </script>
-  <div id="handlebars__navbar__target"></div>
+<body>
   <div class="site_wrapper">
     <div class="right-0" id="wrap">
-      <nav class="navigation" id="navigation">
-        <!-- <a class="nav__logo" href="../index.html"></a> -->
-        <div id="burger">
-          <div class="nav-mobile">
-            <div id="nav-toggle">
-              <span></span>
-            </div>
-          </div>
-        </div>
-        <div class="nav-container">
-          <div class="nav__link" id="nav__about">
-            About
-            <div class="caret"></div>
-            <div class="nav__link__wrapper" id="nav__about__wrapper">
-              <a class="nav__link__target" href='/about/missionandvision.php'>Mission &amp; Vision</a> <a class="nav__link__target" href='/about/team.php'>Team</a> <a class="nav__link__target" href='/about/history.php'>History</a> <a class="nav__link__target" href='/about/press.php'>Press</a> <a class="nav__link__target" href='/about/contactus.php'>Contact Us</a>
-            </div>
-          </div>
-          <div class="nav__link" id="nav__first">
-            FIRST Robotics
-            <div class="caret"></div>
-            <div class="nav__link__wrapper" id="nav__first__wrapper">
-              <a class="nav__link__target" href='/first/whatisfirst.php'>About FIRST</a> <a class="nav__link__target" href='http://www.firstinspires.org/scholarships'>Scholarships</a> <a class="nav__link__target" href='/first/firstcampaign.php'>FIRST Outreach</a> <a class="nav__link__target" href='/first/season.php'>FIRST 2016 Season</a>
-            </div>
-          </div>
-          <div class="nav__link" id="nav__community">
-            Community
-            <div class="caret"></div>
-            <div class="nav__link__wrapper" id="nav__community__wrapper">
-              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a> <a class="nav__link__target" href='/community/surveys.php'>Summer Camp Surveys</a> <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='/community/hosted.php'>Hosted Events</a>
-            </div>
-          </div><a class="nav__link no-caret" href='/media/media.php'>Media</a>
-          <div class="nav__link action" id="nav__involved">
-            Get Involved
-            <div class="caret"></div>
-            <div class="nav__link__wrapper" id="nav__involved__wrapper">
-              <a class="nav__link__target" href='/getinvolved/whereisilite.php'>Where is Team 1885</a> <a class="nav__link__target" href='/getinvolved/volunteereventportal.php'>Volunteer Portal</a> <a class="nav__link__target" href='/getinvolved/studenteventportal.php'>Student Event Portal</a> <a class="nav__link__target" href='/getinvolved/becomeasponsor.php'>Become a Sponsor</a> <a class="nav__link__target" href='/getinvolved/becomeamember.php'>Become a Member</a> <a class="nav__link__target" href='/getinvolved/becomeamentor.php'>Become a Mentor</a> <a class="nav__link__target" href='/getinvolved/firstfuel.php'>Help Feed the Team</a>
-            </div>
-          </div>
-        </div>
-      </nav>
+      <?php include "../includes/header.php" ?>
       <div class="head-image inner-page">
         <div class="head-image-inner">
           <div class="head-image-content clear">
