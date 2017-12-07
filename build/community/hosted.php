@@ -114,16 +114,17 @@
     <?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a><!-- end scroll to top of the page-->
   </div><?php include "../includes/side-menu.php" ?><!-- ######### JS FILES ######### -->
   <?php include "../includes/javascript.php" ?>
+  
   <script src="../js/animations/js/animations.min.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="../js/onepage3/bootstrap.min.js">
-  </script>
+  </script> 
   <script src="../js/onepage3/jPinning.js">
-  </script>
+  </script> 
   <script src="../js/scrolltotop/totop.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript">
-  </script>
+  </script> 
   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript">
   </script>
 </div>
