@@ -9,8 +9,8 @@
   <title>ILITE Robotics | Home</title>
   <meta charset="utf-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
-  <meta content="ILITE, first robotics, Battlefield HS" name="keywords">
-  <meta content="ILITE stands for" name="description">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
   <link href="images/favicon.ico" rel="shortcut icon">
   <meta content="width=device-width, initial-scale=1.0" name="viewport"><!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -35,7 +35,8 @@
                 <div class="headline-title">
                   <h1>Hosted Events</h1>
                 </div>
-                <div class="head-image__subheader"></div>
+                <div class="head-image__subheader">
+                </div>
               </div>
             </div>
           </div>
@@ -45,6 +46,7 @@
         <!-- start -->
         <div id="breadnav">
           <ul class="crumbs">
+
           </ul>
         </div>
         <div class="contentcontent">
@@ -106,38 +108,23 @@
 					</p>
 					<br><br><br>
 
-        </div>
       </div>
     </div><!-- end section -->
-    <?php include "../includes/footer.php" ?>
-
-    <a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
-
-    </div>
-
-    <?php include "../includes/side-menu.php" ?>
-
-  <!-- ######### JS FILES ######### -->
+    <?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a><!-- end scroll to top of the page-->
+  </div><?php include "../includes/side-menu.php" ?><!-- ######### JS FILES ######### -->
   <?php include "../includes/javascript.php" ?>
-
-  <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
-  <script src="../js/onepage3/bootstrap.min.js"></script>
-  <script src="../js/onepage3/jPinning.js"></script>
-  <script src="../js/scrolltotop/totop.js" type="text/javascript"></script>
-  <script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
-
-
-
-  <!-- get jQuery -->
-  <!--<script type="text/javascript" src="/js/universal/jquery.js"></script>-->
-  <!-- Whole site JS -->
-  <!-- <script src="/js/ilite/min/ilite.min.js" type="text/javascript"></script> -->
-  <!-- <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
-<script src="../js/onepage3/bootstrap.min.js"></script>
-<script src="../js/onepage3/jPinning.js"></script>
-<script src="../js/scrolltotop/totop.js" type="text/javascript"></script>
-<script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script> -->
+  <script src="../js/animations/js/animations.min.js" type="text/javascript">
+  </script>
+  <script src="../js/onepage3/bootstrap.min.js">
+  </script>
+  <script src="../js/onepage3/jPinning.js">
+  </script>
+  <script src="../js/scrolltotop/totop.js" type="text/javascript">
+  </script>
+  <script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript">
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript">
+  </script>
+</div>
 </body>
 </html>
