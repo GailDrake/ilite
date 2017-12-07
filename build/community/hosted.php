@@ -22,6 +22,7 @@
   <link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
   <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"> <script src="../js/map.js" async defer></script> -->
   <link href="./css/style.css" rel="stylesheet" type="text/css">
+  <link href="./../css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
   <div class="site_wrapper">
