@@ -23513,3 +23513,6 @@ padding-bottom: 13px;
     text-shadow: 0px 0px 50px white;
 
 }
+.nav__logo {
+  background-image: none;
+}
