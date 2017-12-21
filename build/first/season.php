@@ -71,7 +71,8 @@
   </ul>
   </div>
 <div class="contentcontent">
-<iframe width="100%" height="315" src="https://youtu.be/MM_JWAON6PI" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="100%" height="315" src="https://youtu.be/MM_JWAON6PI" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MM_JWAON6PI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>
 <p>FIRST POWER UP<sup>SM</sup> Teaser</p>
 			<div class="third__image" style="background-image: url('../images/ILITE_Control_Station.JPG');"></div>
