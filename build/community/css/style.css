@@ -22110,6 +22110,7 @@ nav ul li ul li a:hover {
   -webkit-box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.3);
   box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.3);
   height: auto;
+  max-width: 1100px;
 }
 .contentcontent h1 {
   text-transform: uppercase;
@@ -22353,9 +22354,6 @@ p,
 div,
 span {
   transition: opacity 350ms ease-out 50ms, color 350ms ease-out 50ms, background-color 350ms ease-out 50ms;
-}
-.contentcontent {
-  max-width: 1100px;
 }
 .home__img-holder {
   display: flex;
@@ -22970,7 +22968,7 @@ span {
   background-color: #f7f7f7;
   padding: 0px 0 0px;
 }
-.containernew .coentcontent {
+.containernew .contentcontent {
   max-width: 85%;
   margin: 0 auto;
   padding: 45px 45px 60px;
