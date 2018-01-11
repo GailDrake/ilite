@@ -52,7 +52,7 @@
             FIRST Robotics
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="nav__first__wrapper">
-              <a class="nav__link__target" href='/first/whatisfirst.php'>About FIRST</a> <a class="nav__link__target" href='http://www.firstinspires.org/scholarships'>Scholarships</a> <a class="nav__link__target" href='/first/firstcampaign.php'>FIRST Outreach</a> <a class="nav__link__target" href='/first/season.php'>FIRST 2018 Season</a>
+              <a class="nav__link__target" href='/first/whatisfirst.php'>About FIRST</a> <a class="nav__link__target" href='http://www.firstinspires.org/scholarships'>Scholarships</a> <a class="nav__link__target" href='/first/firstcampaign.php'>FIRST Outreach</a> <a class="nav__link__target" href='/first/season.php'>FIRST 2016 Season</a>
             </div>
           </div>
           <div class="nav__link" id="nav__community">
@@ -99,7 +99,10 @@
                   <div class="home__img e1"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> <strong><a href="http://www.irocoffseason.org">FTC Robotics NoVA Regional</a></strong> <strong>December 2th, 2017</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007">
+                  <i class="fa fa-map-marker"></i> Google Map</a></em> 
+                  <strong><a href="http://www.irocoffseason.org">FTC Robotics NoVA Regional</a></strong> 
+                  <strong>December 2th, 2017</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
               <div class="one_third animate" data-anim-delay="200" data-anim-type="fadeInUp">
@@ -107,7 +110,9 @@
                   <div class="home__img e2"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> <strong><a href="community/hosted.php#ftc">4th Annual HayMaker STEAM Expo</a></strong> <strong>Jauary 27th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> 
+                  <strong><a href="community/hosted.php#ftc">4th Annual HayMaker STEM Expo</a></strong> 
+                  <strong>January 28th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
               <div class="one_third last animate" data-anim-delay="300" data-anim-type="fadeInUp">
@@ -115,7 +120,9 @@
                   <div class="home__img e3"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> <strong><a href="community/hosted.php#frc">FRC District Event</a></strong> <strong>March 2nd, 3rd, and 4th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> 
+                  <strong><a href="community/hosted.php#frc">FRC District Event</a></strong> 
+                  <strong>March 2nd, 3rd, and 4th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
             </div>
@@ -130,21 +137,31 @@
                   <a class="home__img-holder" href="/getinvolved/firstfuel.php">
                   <div class="home__img n3"></div></a>
                   <div class="addes">
-                    <strong>FIRST Fuel Sign-Ups</strong> Team-members and parents should be aware of the <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>. We thank you for your continued support of ILITE!
+                    <strong>FIRST Fuel Sign-Ups</strong> 
+                    Team-members and parents should be aware of the 
+                    <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>. 
+                    We thank you for your continued support of ILITE!
                   </div>
                 </div><!-- end section -->
                 <div class="one_third animate" data-anim-delay="250" data-anim-type="fadeInUp">
                   <a class="home__img-holder">
                   <div class="home__img n1"></div></a>
                   <div class="addes">
-                    <strong>2017 IROC Competition is Largest Ever Held</strong> With 31 registered teams, the 2017 ILITE Robotics Off-Season Challenge was the largest ever held. The winning alliance was composed of FRC Teams 1389, The Body Electric, 619, Cavalier Robotics, 384, SPARKY, and 2537, Atholton SpaceRAIDers. Congratulations teams!
+                    <strong>2016 IROC Competition is Largest Ever Held</strong> 
+                    With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the 
+                    largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics, 
+                    5338, RoboLoCos, and 2363, Triple Helix. Congratulations teams!
                   </div>
                 </div><!-- end section -->
                 <div class="one_third last animate" data-anim-delay="300" data-anim-type="fadeInUp">
                   <a class="home__img-holder">
                   <div class="home__img n2"></div></a>
                   <div class="addes">
-                    <strong>ILITE Chosen To Be Kindness Ambassadors</strong> ILITE has been chosen to be kindness ambassadors for our school and community. Recent developments include enacting kindness rules at our high school, starting a kindness week at out school, and spreading kindess at the PWCS Walk for Autism.
+                    <strong>ILITE Chosen To Be Kindness Ambassadors</strong> 
+                    ILITE has been chosen to be kindness ambassadors for our school 
+                    and community. Recent developments include enacting kindness rules 
+                    at our high school, starting a kindness week at out school, and 
+                    spreading kindess at the PWCS Walk for Autism.
                   </div>
                 </div><!-- end section -->
               </div>
@@ -156,30 +173,72 @@
               <p class="home__section-header">our sponsors</p>
               <p class="home__section-sub-header">We thank our sponsors for their continued support.</p>
               <div class="home__sponsors__logo-wrap">
-                <a class="home__sponsors__logo-link" href="http://www.netapp.com/us/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/1.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.a1floodtech.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/2.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.lockheedmartin.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/3.png )"></div></a> <a class="home__sponsors__logo-link" href="http://battlefieldhs.schools.pwcs.edu/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/4.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://www.usstem.org/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/17.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.macedontechnologies.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/6.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.frdallc.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/7.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.bellpumpandwell.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/8.jpg )"></div></a> <a class="home__sponsors__logo-link" href="https://www.incadencecorp.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/9.png )"></div></a> <a class="home__sponsors__logo-link" href="#" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/11.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.novec.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/12.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://www.afcea.org/site/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/13.gif )"></div></a> <a class="home__sponsors__logo-link" href="http://ascoweb.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/14.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.pwcs.edu/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/15.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://wanderstockphoto.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/16.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.army.mil/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/6.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://www.datasynctech.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/5.png )"></div></a> <a class="home__sponsors__logo-link" href="https://www.geico.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/18.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.azosai.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/19.jpg )"></div></a> <a class="home__sponsors__logo-link" href="http://khouriortho.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/20.jpg )"></div></a> <a class="home__sponsors__logo-link" href="www.townofhaymarket.org/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/21.jpg )"></div></a> <a class="home__sponsors__logo-link" href="https://www.tropicalsmoothiecafe.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/22.png )"></div></a> <a class="home__sponsors__logo-link" href="http://www.cathyshometeam.com/" target="_blank">
-                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/23.png )"></div></a>
+                <a class="home__sponsors__logo-link" href="http://www.a1floodtech.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/floodtech.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.lockheedmartin.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/lockheedmartin.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://battlefieldhs.pwcs.edu/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/battlefieldhighschool.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.usstem.org/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/usstem.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.macedontechnologies.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/macedontechnologies.png )"></div>
+                </a>
+                <!-- <a class="home__sponsors__logo-link" href="https://www.frdallc.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/frda.png )"></div>
+								</a> -->
+								<a class="home__sponsors__logo-link" href="http://www.bellpumpandwell.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/bellpumpandwell.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.incadencecorp.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/incadence.png )"></div>
+                </a>
+                <!-- <a class="home__sponsors__logo-link" href="https://www..com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/evolutionenvirogroup.png )"></div>
+                </a> -->
+                <a class="home__sponsors__logo-link" href="https://www.novec.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/novec.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.afcea.org/site/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/afcea.gif )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://ascoweb.com" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/asco.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.pwcs.edu/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/pwc.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://wanderstockphoto.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/wanderstock.png )"></div>
+                </a>
+                <!-- <a class="home__sponsors__logo-link" href="http://www.army.mil/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/usarmy.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.datasynctech.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/datasync.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.geico.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/geico2.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.azosai.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/azosai.jpg )"></div>
+                </a> -->
+                <a class="home__sponsors__logo-link" href="http://khouriortho.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/khouriortho.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.townofhaymarket.org/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/haymarket.jpg )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="https://www.tropicalsmoothiecafe.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/tropicalsmoothie.png )"></div>
+                </a>
+                <a class="home__sponsors__logo-link" href="http://www.cathyshometeam.com/" target="_blank">
+                <div class="home__sponsors__logo" style="background-image: url( images/sponsors/cathyshometeam.png )"></div>
+                </a>
               </div>
             </div>
           </div>
