@@ -25,7 +25,7 @@
 				<a href='/first/whatisfirst.php' class="nav__link__target">About FIRST</a>
 				<a href='http://www.firstinspires.org/scholarships' class="nav__link__target">Scholarships</a>
 				<a href='/first/firstcampaign.php' class="nav__link__target">FIRST Outreach</a>
-        <a href='/first/season.php' class="nav__link__target">FIRST 2017 Season</a>
+        <a href='/first/season.php' class="nav__link__target">Current Season</a>
 			</div>
 		</div>
 

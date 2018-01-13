@@ -59,7 +59,7 @@
               <a class="nav__link__target" href='/first/whatisfirst.php'>About FIRST</a>
               <a class="nav__link__target" href='http://www.firstinspires.org/scholarships'>Scholarships</a>
               <a class="nav__link__target" href='/first/firstcampaign.php'>FIRST Outreach</a>
-              <a class="nav__link__target" href='/first/season.php'>FIRST 2016 Season</a>
+              <a class="nav__link__target" href='/first/season.php'>Current Season</a>
             </div>
           </div>
           <div class="nav__link" id="nav__community">

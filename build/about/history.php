@@ -94,6 +94,10 @@ In 2008, we saw the development of ILITE in the community. Lobbying on Capitol H
 
 <p>FIRST Team 1885 is now spread across the county with student representation from five of the eleven high schools in the district. The team plays host to SEAPerch, FLL, and FTC events, and hosted its first off-season FRC scrimmage, IROC, the ILITE Robotics Off-Season Challenge. Alumni have gone on to earn full scholarships at top engineering schools across the country, and have spoken at technical conferences on behalf of the phenomenal results from the team including the Naval STEM Forum in 2011.</p>
 
+<p>We've won several awards received recognition as well, including multiple Chairman's awards in distrct and district championship</p>
+
+
+
 
 </div>
 </div><!-- end section -->
