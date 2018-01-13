@@ -243,7 +243,7 @@
         </div>
       </nav><!-- ######### JS FILES ######### -->
       <!-- get jQuery -->
-      <script src="/js/universal/jquery.js" type="text/javascript">
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
       </script> <!-- Whole site JS -->
 
       <script src="/js/ilite/min/ilite.min.js" type="text/javascript">
