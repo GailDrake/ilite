@@ -22369,13 +22369,15 @@ span {
   background-image: url("../images/site-img259.jpg");
 }
 .home__img-holder .home__img.e1 {
-  background-image: url("../images/ftc.jpg");
+  background-image: url("../community/images/first-logo.png");
+  background-size: cover;
 }
 .home__img-holder .home__img.e2 {
   background-image: url("../images/site-img250.jpg");
 }
 .home__img-holder .home__img.e3 {
-  background-image: url("../images/frc.jpg");
+  background-image: url("../images/firstpoweruplogo.png");
+  background-size: cover;
 }
 .home__img-holder .home__img.n1 {
   background-image: url("../images/irocindex.png");
