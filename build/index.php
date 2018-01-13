@@ -244,7 +244,7 @@
       </nav><!-- ######### JS FILES ######### -->
       <!-- get jQuery -->
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
-      </script> <!-- Whole site JS -->
+<!-- Whole site JS -->
 
       <script src="/js/ilite/min/ilite.min.js" type="text/javascript">
       </script> <!-- Home page only JS -->
