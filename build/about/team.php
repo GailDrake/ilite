@@ -72,19 +72,22 @@
                   <a href="#" name="tab3">Build</a>
                 </li>
                 <li>
-                  <a href="#" name="tab4">Business</a>
+                  <a href="#" name="tab4">Outreach</a>
                 </li>
                 <li>
-                  <a href="#" name="tab5">Electronics</a>
+                  <a href="#" name="tab5">Sponsorship</a>
                 </li>
                 <li>
-                  <a href="#" name="tab6">Graphics</a>
+                  <a href="#" name="tab6">Electronics</a>
                 </li>
                 <li>
-                  <a href="#" name="tab7">Programming</a>
+                  <a href="#" name="tab7">Graphics</a>
                 </li>
                 <li>
-                  <a href="#" name="tab8">Web</a>
+                  <a href="#" name="tab8">Programming</a>
+                </li>
+                <li>
+                  <a href="#" name="tab9">Web</a>
                 </li>
                 <li>
                   <a href="#" name="tab2">Mentors</a>
@@ -98,20 +101,20 @@
 									<div class="post-container">
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
-                      <h3 class="post-title">Erin Grace Drake</h3><span class="title"><b>Title:</b> President</span>
+                      <h3 class="post-title">ErinGrace Drake</h3><span class="title"><b>Title:</b> President</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2004
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I can recite all of "Sweet Caroline" by Neil Diamond.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Being a Chairman's finalist at the World Championship.
                     </div>
                   </div>
 
                   <div class="post-container">
                     <div class="post-thumb"><img src="../images/members/electronics/FRC_16_CameronBell.jpg"></div>
                     <div class="post-content">
-                      <h3 class="post-title">Cameron Bell</h3><span class="title"><b>Title:</b> Vice-President</span>
+                      <h3 class="post-title">Cameron Bell</h3><span class="title"><b>Title:</b>Co-Vice President</span>
 											<br>
                       <b>Year Joined:</b> 2012
 											<br>
@@ -124,13 +127,13 @@
 									<div class="post-container">
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
-                      <h3 class="post-title">Kristen Giesler</h3><span class="title"><b>Title:</b> Vice-President</span>
+                      <h3 class="post-title">Kristen Giesler</h3><span class="title"><b>Title:</b>Co-Vice President</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2014
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like to travel.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Making waffles for breakfast in our hotel room at competition.
                     </div>
                   </div>
 
@@ -165,11 +168,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Harrison Kwak</h3><span class="title"><b>Title:</b> Build Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like pineapples.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Winning my very first competition as a member of ILITE.
                     </div>
                   </div>
 
@@ -204,11 +207,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Stephen Welch</h3><span class="title"><b>Title:</b> Programming Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like food.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
@@ -217,11 +220,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Brandon Morrell</h3><span class="title"><b>Title:</b> Programming Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like food.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
@@ -243,11 +246,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Jibran Jahangiri</h3><span class="title"><b>Title:</b> Outreach Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I give the best massages.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> At 2017 World Championship, when they announced ILITE as the Chairmans Finalist.
                     </div>
                   </div>
 
@@ -269,11 +272,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Aliyah Desautels</h3><span class="title"><b>Title:</b> Sponsorship Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2014
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> Some of my friends call me "White Rice", because I'm half white and half asian.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Rushing the Darwin field at Worlds as Chairmans Finalists.
                     </div>
                   </div>
 
@@ -295,11 +298,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Dylan Fernandes</h3><span class="title"><b>Title:</b> Web Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I make a lot of bad jokes.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> 2017 FRC Worlds Competition.
                     </div>
                   </div>
 
@@ -560,11 +563,11 @@
                     <div class="post-thumb"><img src="../images/members/Harrison%20K..jpg"></div>
                     <div class="post-content">
                         <h3 class="post-title">Harrison Kwak</h3>
-												<b>Year Joined:</b> 2014
+												<b>Year Joined:</b> 2015
 												<br>
-                        <b>Fun Fact:</b> I play the ukelele
+                        <b>Fun Fact:</b> I like pineapples.
 												<br>
-                        <b>Favorite Memory:</b> Winning Chairmans at DC
+                        <b>Favorite Memory:</b> Winning my very first competition as a member of ILITE.
                     </div>
                   </div>
 
@@ -631,12 +634,12 @@
               <div class="post-container">
                 <div class="post-thumb"><img src=""></div>
                 <div class="post-content">
-                  <h3 class="post-title">Lily Khocheron</h3>
-                  <b>Year Joined:</b>
+                  <h3 class="post-title">Lily Khochareun</h3>
+                  <b>Year Joined:</b> 2017
                   <br>
-                  <b>Fun Fact:</b>
+                  <b>Fun Fact:</b> I play 3 instruments.
                   <br>
-                  <b>Favorite Memory:</b>
+                  <b>Favorite Memory:</b> Kickoff.
                 </div>
               </div>
 
@@ -644,11 +647,11 @@
               <div class="post-thumb"><img src=""></div>
               <div class="post-content">
                 <h3 class="post-title">Upneet Singh</h3>
-                <b>Year Joined:</b>
+                <b>Year Joined:</b> 2017
                 <br>
-                <b>Fun Fact:</b>
+                <b>Fun Fact:</b> I dream about robotics all the time.
                 <br>
-                <b>Favorite Memory:</b>
+                <b>Favorite Memory:</b> Kickoff - when Power Up was announced.
               </div>
             </div>
 
@@ -656,11 +659,11 @@
               <div class="post-thumb"><img src=""></div>
               <div class="post-content">
                 <h3 class="post-title">Iain Mischel</h3>
-                <b>Year Joined:</b>
+                <b>Year Joined:</b> 2017
                 <br>
-                <b>Fun Fact:</b>
+                <b>Fun Fact:</b> I was born in England.
                 <br>
-                <b>Favorite Memory:</b>
+                <b>Favorite Memory:</b> Playing guitar at IROC setup.
               </div>
             </div>
 
@@ -691,7 +694,7 @@
 			</div>
 
                 <div id="tab4">
-                  <h1>Business</h1>
+                  <h1>Outreach</h1>
 
                   <div class="greybox">
                     <h2>Subteam Specific Mission Statement</h2><i class="fa fa-quote-left"></i> To inspire people, young and old, to become leaders in science, technology, engineering, and mathematics by providing them with the proper environment, social encouragement to pursue STEM, and necessary resources and mentoring to continue learning and working in STEM in and out of school environments. <i class="fa fa-quote-right"></i>
@@ -748,9 +751,9 @@
                       <h3 class="post-title">Jibran Jahangiri</h3>
 											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b> I know 6 languages.
+                      <b>Fun Fact:</b> I give the best massages.
 											<br>
-                      <b>Favorite Memory:</b> Can't choose a favourite memory, because each day amongst these amazing people brings new memories.
+                      <b>Favorite Memory:</b> At 2017 World Championship, when they announced ILITE as the Chairmans Finalist.
                     </div>
                   </div>
 
@@ -770,11 +773,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Jacob Schaum</h3>
-											<b>Year Joined:</b> 2015
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I am a triplet.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> FRC Kickoff and helping learn the rules and design our new robot.
                     </div>
                   </div>
 
@@ -794,11 +797,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Carrie Morell</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm on an all girls Cyber Defense team.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Volunteering at IROC.
                     </div>
                   </div>
 
@@ -806,11 +809,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Grace Henderson</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> My birthday is 03/03/2003.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Volunteering at IROC.
                     </div>
                   </div>
 
@@ -818,11 +821,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Faran Jahangiri</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I love singing.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Team bonding moments.
                     </div>
                   </div>
 
@@ -842,11 +845,11 @@
                       <div class="post-thumb"><img src=""></div>
                       <div class="post-content">
                         <h3 class="post-title">Srinitya Allam</h3>
-                        <b>Year Joined:</b>
+                        <b>Year Joined:</b> 2017
                         <br>
-                        <b>Fun Fact:</b>
+                        <b>Fun Fact:</b> I have major Trypophobia
                         <br>
-                        <b>Favorite Memory:</b>
+                        <b>Favorite Memory:</b> Scorekeeping at IROC 2017.
                       </div>
                     </div>
 
@@ -854,17 +857,88 @@
                       <div class="post-thumb"><img src=""></div>
                       <div class="post-content">
                         <h3 class="post-title">Kiyan Zewer</h3>
-                        <b>Year Joined:</b>
+                        <b>Year Joined:</b> 2017
                         <br>
-                        <b>Fun Fact:</b>
+                        <b>Fun Fact:</b> I am a Meme Bible co-founder.
                         <br>
-                        <b>Favorite Memory:</b>
+                        <b>Favorite Memory:</b> Rumble in the Roads.
                       </div>
                     </div>
 
                   </div>
 
                 <div id="tab5">
+                  <h1>Sponsorship</h1>
+
+                  <div class="greybox">
+                    <h2>Subteam Specific Mission Statement</h2><i class="fa fa-quote-left"></i><i class="fa fa-quote-right"></i>
+                  </div>
+									<img src="">
+                  <p></p>
+                  <div class="greybox">
+                    <h2>Goals</h2>
+                    <ol>
+                      <li>To support ILITE by acquiring resources and funds by focusing on marketing and campaigning for the team</li>
+                    </ol>
+                  </div>
+                  <div class="greybox">
+                    <h2>Awards</h2>
+                    <ul>
+                      <li>2016 Hampton Roads District Event: Entrepreneurship Award</li>
+                    </ul>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Aliyah Desautels</h3>
+                      <b>Year Joined:</b> 2014
+                      <br>
+                      <b>Fun Fact:</b> Some of my friends call me "White Rice", because I'm half white and half asian.
+                      <br>
+                      <b>Favorite Memory:</b> Rushing the Darwin field at Worlds as Chairmans Finalists.
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Mia Alessi</h3>
+                      <b>Year Joined:</b>
+                      <br>
+                      <b>Fun Fact:</b>
+                      <br>
+                      <b>Favorite Memory:</b>
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Savannah Zamudio</h3>
+                      <b>Year Joined:</b>
+                      <br>
+                      <b>Fun Fact:</b>
+                      <br>
+                      <b>Favorite Memory:</b>
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Caitlin Colsia</h3>
+                      <b>Year Joined:</b>
+                      <br>
+                      <b>Fun Fact:</b>
+                      <br>
+                      <b>Favorite Memory:</b>
+                    </div>
+                  </div>
+
+                </div>
+
+                <div id="tab6">
                   <h1>Electronics</h1>
 
                   <div class="greybox">
@@ -993,7 +1067,7 @@
 
                 </div>
 
-                <div id="tab6">
+                <div id="tab7">
                   <h1>Graphics</h1>
 
                   <div class="greybox">
@@ -1047,9 +1121,9 @@
                       <h3 class="post-title">Seneca Ung</h3>
                       <b>Year Joined:</b> 2016
                       <br>
-                      <b>Fun Fact:</b> My older sister was on ILITE
+                      <b>Fun Fact:</b> I have a subtle obsession with Chick Fil A sauce.
                       <br>
-                      <b>Favorite Memory:</b> Winning Chairmans at districts
+                      <b>Favorite Memory:</b> Hotel nights at Districts.
                     </div>
                   </div>
 
@@ -1127,7 +1201,7 @@
 
 								</div>
 
-                <div id="tab7">
+                <div id="tab8">
                   <h1>Programming</h1>
 
                   <div class="greybox">
@@ -1165,9 +1239,9 @@
                       <h3 class="post-title">Brandon Morrell</h3>
                       <b>Year Joined:</b> 2016
                       <br>
-                      <b>Fun Fact:</b> I swim
+                      <b>Fun Fact:</b> I like food.
                       <br>
-                      <b>Favorite Memory:</b> Doing driver tests
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
@@ -1175,11 +1249,11 @@
                     <div class="post-thumb"><img src="../images/members/Steve%20W..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Stephen Welch</h3>
-											<b>Year Joined:</b> 2014
+											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b> I drive go carts
+                      <b>Fun Fact:</b> I like food.
 											<br>
-                      <b>Favorite Memory:</b> DCMPs
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
@@ -1211,11 +1285,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Nathaniel Chong</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like food.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
@@ -1235,17 +1309,17 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Kate Balint</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm a theater nerd.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> My first kickoff.
                     </div>
                   </div>
 
                 </div>
 
-                <div id="tab8">
+                <div id="tab9">
                   <h1>Web</h1>
 
                   <div class="greybox">
@@ -1282,9 +1356,9 @@
                       <h3 class="post-title">Dylan Fernandes</h3>
 											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b> I am the epitome of bad jokes.
+                      <b>Fun Fact:</b> I make a lot of bad jokes.
 											<br>
-                      <b>Favorite Memory:</b> Walking into the room and knowing I'm part of the team.
+                      <b>Favorite Memory:</b> 2017 FRC Worlds Competition.
                     </div>
                   </div>
 
@@ -1306,9 +1380,9 @@
                       <h3 class="post-title">Nicholas Miller</h3>
 											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b> I was a part of a World Champion archery team.
+                      <b>Fun Fact:</b> I was part of a World Champion archery team.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Joining the team.
                     </div>
                   </div>
 
@@ -1330,9 +1404,9 @@
                       <h3 class="post-title">Urvi Pisal</h3>
 											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b> I love to draw.
+                      <b>Fun Fact:</b> I love spicy food.
 											<br>
-                      <b>Favorite Memory:</b> When Tropical Smoothie was at the STEM expo last year.
+                      <b>Favorite Memory:</b> When Tropical Smoothie was at the STEM Expo.
                     </div>
                   </div>
 
