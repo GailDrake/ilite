@@ -116,11 +116,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Cameron Bell</h3><span class="title"><b>Title:</b>Co-Vice President</span>
 											<br>
-                      <b>Year Joined:</b> 2012
+                      <b>Year Joined:</b> 2014
 											<br>
-                      <b>Fun Fact:</b> I have no idea what I'm doing
+                      <b>Fun Fact:</b> I am currently training to do a 21 day backpacking trek that will be over 200 miles long this summer.
 											<br>
-                      <b>Favorite Memory:</b> Coming in one morning before any other subteam and making major progress on the electronics boards.
+                      <b>Favorite Memory:</b> Having to switch our intake in under 5 minutes before an elimination match.
                     </div>
                   </div>
 
@@ -359,11 +359,11 @@
                       <h3 class="post-title">Dave Bascom</h3>
 											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Subteam:</b> Web Development
+                      <b>Subteam:</b> Web
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I spent 8 years studying painting in art school.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Bringing my kids to ILITE events.
                     </div>
                   </div>
 
@@ -371,13 +371,13 @@
                     <div class="post-thumb"><img src="../images/members/mentors/FRC_16_DennisLuban.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Dennis Luban</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2009
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Build
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I love teaching students!
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Participating at FIRST Worlds - 2016.
                     </div>
                   </div>
 
@@ -427,13 +427,13 @@
                     <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JesseKnight.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jesse Knight</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2007
 											<br>
-                      <b>Subteam:</b> Programming, Build, Strategy
+                      <b>Subteam:</b> Wanderer
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm an introvert, until I shouldn't be.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Staying up to 2am figuring out who we should pick at 2017 World Champs.
                     </div>
                   </div>
 
@@ -589,9 +589,9 @@
                       <h3 class="post-title">Calvin Min</h3>
 											<b>Year Joined:</b> 2016
 											<br>
-                      <b>Fun Fact:</b> I am the airship's human player this season
+                      <b>Fun Fact:</b> I have a sibling on the team.
 											<br>
-                      <b>Favorite Memory:</b> Being able to get all 4 rotors at DCMPs
+                      <b>Favorite Memory:</b> World Championships 2017.
                     </div>
                   </div>
 
@@ -683,11 +683,11 @@
           <div class="post-thumb"><img src=""></div>
           <div class="post-content">
             <h3 class="post-title">Kaihil Patel</h3>
-            <b>Year Joined:</b>
+            <b>Year Joined:</b> 2017
             <br>
-            <b>Fun Fact:</b>
+            <b>Fun Fact:</b> I love the Dallas Cowboys.
             <br>
-            <b>Favorite Memory:</b>
+            <b>Favorite Memory:</b> Laughing and having fun building with the rest of the build team.
           </div>
         </div>
 
@@ -763,9 +763,9 @@
                       <h3 class="post-title">Hannah Credno</h3>
 											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like pineapple on pizza.
 											<br>
-                      <b>Favorite Memory:</b> Hosting IROC
+                      <b>Favorite Memory:</b> 2016 District Champs at UMD. I got to meet so many people from all over the area and I made strong friendships then that have lasted today.
                     </div>
                   </div>
 
@@ -916,11 +916,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Savannah Zamudio</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I only have half siblings.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Attending the IROC event.
                     </div>
                   </div>
 
@@ -985,11 +985,11 @@
                     <div class="post-thumb"><img src="../images/members/electronics/FRC_16_CameronBell.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Cameron Bell</h3>
-                      <b>Year Joined:</b> 2012
+                      <b>Year Joined:</b> 2014
 											<br>
-                      <b>Fun Fact:</b> I have no idea what I'm doing
+                      <b>Fun Fact:</b> I am currently training to do a 21 day backpacking trek that will be over 200 miles long this summer.
 											<br>
-                      <b>Favorite Memory:</b> Coming in one morning before any other subteam and making major progress on the electronics boards.
+                      <b>Favorite Memory:</b> Having to switch our intake in under 5 minutes before an elimination match.
                     </div>
                   </div>
 
@@ -1107,11 +1107,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Kavya Annapareddy</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I can draw. No, I won't draw you. I can, but I won't.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Being too small to fit in the barrels at the corn maze and just falling out.
                     </div>
                   </div>
 
@@ -1143,11 +1143,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Caitlin McIntosh</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm a half ginger.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Watching my first competition at IROC.
                     </div>
                   </div>
 
@@ -1263,9 +1263,9 @@
                       <h3 class="post-title">Atishay Kasera</h3>
 											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b> I am valedictorian of my class
+                      <b>Fun Fact:</b> I am a vegetarian who is not fond of salads.
 											<br>
-                      <b>Favorite Memory:</b> Joining the team
+                      <b>Favorite Memory:</b> Joining the team.
                     </div>
                   </div>
 
@@ -1273,11 +1273,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">George Alphonse</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like food.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
@@ -1297,11 +1297,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Daniel Tolbert</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like food.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Eating food.
                     </div>
                   </div>
 
