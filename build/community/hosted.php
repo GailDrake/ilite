@@ -117,35 +117,7 @@
             <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a>
             <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
           </div><br>
-
-          <h1>2017 FTC Robotics Northern Virginia Regional Qualifier </h1>
-             ILITE (Inspiring Leaders in Technology and Engineering)
-		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
-		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
-		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
-		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
           <br>
-          <br>
-
-          <h1>FLL Workshops</h1>
-            The first workshop will be held on September 21st. Then Programming 1# on September 30th and Programming #2 on December 5th.
-          	Lastly presentations will be on December 12th
-
-            FIRST® LEGO® League challenges kids to think like scientists and engineers.
-            During the HYDRO DYNAMICSSM season, teams will choose and solve a real-world problem in the Project.
-            They will also build, test, and program an autonomous robot using LEGO® MINDSTORMS® technology to solve a set of missions in the Robot Game.
-            Throughout their experience, teams will operate under the FIRST LEGO League signature set of Core Values, celebrating discovery,
-            teamwork, and Gracious Professionalism®
-
-          <br>
-
-          <h1>STEAM Expo</h1>
-          The STEAM Expo will be held on January 27th and provides free activities, such as 50 hands on experiments, student project showcases, and STEAM
-          presentations to over 2000 attendes of students, teachers, and families. The recent addition of 'A' for Arts
-          in STEAM allowed for new activities such as the technology behind music and an interactive instrument petting zoo.
-          There are hands on activities range from friendship bracelets, math puzzles, and chemistry. Local vendors and
-          photo booths are set up for attendees.
-
           <br>
 
           <h1> 2018 FIRST Chesapeake District Northern Virginia Event</h1>
@@ -153,13 +125,6 @@
           teams from the Chesapeake district gather to participate in the first competition of Steamworks. Those in
           attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the
           two-day event. The competition will take place on March 2th and end on March 4th.
-
-          <h1>2017 FTC Robotics Regional Competition</h1>
-		   ILITE (Inspiring Leaders in Technology and Engineering)
-		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
-		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
-		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
-		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
 
 
           <center>
@@ -171,6 +136,34 @@
             <a class="button thhthree" href="http://irocoffseason.org/">IROC SITE</a> <a class="button thhthree" href="http://irocoffseason.org/images/floorplan.png">FLOOR PLAN</a> <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a> <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
           </div><br>
           <br>
+
+                    <h1>2017 FTC Robotics Regional Competition</h1>
+          		   ILITE (Inspiring Leaders in Technology and Engineering)
+          		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
+          		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
+          		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
+          		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
+                 <br>
+                 <br>
+          <h1>FLL Workshops</h1>
+            The first workshop will be held on September 21st. Then Programming 1# on September 30th and Programming #2 on December 5th.
+            Lastly presentations will be on December 12th
+
+            FIRST® LEGO® League challenges kids to think like scientists and engineers.
+            During the HYDRO DYNAMICSSM season, teams will choose and solve a real-world problem in the Project.
+            They will also build, test, and program an autonomous robot using LEGO® MINDSTORMS® technology to solve a set of missions in the Robot Game.
+            Throughout their experience, teams will operate under the FIRST LEGO League signature set of Core Values, celebrating discovery,
+            teamwork, and Gracious Professionalism®
+            <br>
+            <br>
+          <h1>2017 FTC Robotics Northern Virginia Regional Qualifier </h1>
+             ILITE (Inspiring Leaders in Technology and Engineering)
+		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
+		  typically made up of 10+ members in grades 7-12, are challenged to design, build, program, and operate robots
+		  to play a floor game in an alliance format. You don’t want to miss this collaborative competition! This year's
+		   competition will be held on <b>December 2nd, 2017</b> at Battlefield High School.
+       <br>
+       <br>
           <h1>2016 FTC Robotics Regional Competition</h1>
 		   ILITE (Inspiring Leaders in Technology and Engineering)
 		  Robotics is hosting a NoVA regional FTC robotics competition again this year. FIRST Tech Challenge teams,
@@ -179,9 +172,13 @@
 		   competition will be held on <b>December 10th, 2016</b> at Battlefield High School.
           <br>
           <br>
-          <h1>3rd Annual HayMaker STEM Expo</h1><img class="leftimg" src="../images/site-img250.jpg">
+
+          <h1>3rd Annual HayMaker STEM Expo</h1><img class="leftimg" src="../images/STEAMExpologo-01.png">
+          <br>
+          <br>
           <p>On Saturday, January 28th, join ILITE at the 2017 Haymaker STEM Expo. Play, build, make, and explore in our 3rd rendition of the HayMaker Science, Technology, Engineering and Math (STEM) Expo. The expo will run from 10AM to 5PM with movies playing at 11AM and 3PM respectively. Students and enthusiasts of all ages and skills are invited to share our vision and to revel in a gathering of technology enthusiasts, crafters, tinkerers, hobbyists, engineering, science clubs, sustainability concepts, students and local exhibitors. The expo will boast a wide variety of family-friendly STEM activities, concessions and informational booths for ILITE summer camps and Battlefield High School’s IT program. Those interested in learning of our full offerings for “STEM’ers” or want to participate as an exhibitionist can visit our website. It is free of charge to attend. ILITE hopes to see you there!</p>
           <br>
+
           <h1>2016 FIRST Chesapeake District Northern Virginia Event</h1>
           <p>ILITE hosted their first FRC District competition for Week One of the 2016 FIRST Stronghold season. Forty FRC teams from the Chesapeake district gathered to participate in the first competition of Stronghold. Those in attendance saw exceptional robots on the field, Gracious Professionalism, and Coopertition throughout the two-day event. The event was interrupted with a pleasant surprise visit by none other than the founder of FIRST, Dean Kamen himself.</p>
           <h1>2015 Northern Virginia FTC Qualifier</h1>
