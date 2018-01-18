@@ -22362,7 +22362,7 @@ span {
 }
 .home__img-holder {
   display: flex;
-  height: 200px;
+  height: 300px;
   background-color: #fff;
 }
 .home__img-holder img {
@@ -22390,13 +22390,13 @@ span {
   background-image: url("../images/site-img259.jpg");
 }
 .home__img-holder .home__img.e1 {
-  background-image: url("../images/ftc.jpg");
+  background-image: url("../images/FTC-Relic-Recovery.png");
 }
 .home__img-holder .home__img.e2 {
   background-image: url("../images/site-img250.jpg");
 }
 .home__img-holder .home__img.e3 {
-  background-image: url("../images/frc.jpg");
+  background-image: url("../images/FRC-Power-Up.jpg");
 }
 .home__img-holder .home__img.n1 {
   background-image: url("../images/irocindex.png");
