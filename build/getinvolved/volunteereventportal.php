@@ -62,57 +62,11 @@
 				<div class="contentcontent">
 					<br>
 					<div style="margin-top: 15px;"></div>
-					<div style="margin-top: -35px;"></div><strong>Upcoming Events: October, 2017</strong>
-					<table class="table table-bordered">
-						<thead>
-							<tr>
-								<th>Date</th>
-								<th>Event Name</th>
-								<th style="width: 400px;">Description</th>
-								<th>Location</th>
-								<th>Sign Up</th>
-							</tr>
-						</thead>
-						<thead>
-							<tr>
-								<td>October 21, 2017</td>
-								<td>IROC Competition</td>
-								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
-								<td>
-									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
-									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
-								</td>
-								<td>
-									<a href="http://irocoffseason.org/registervolunteer/volunteer.php" target="_blank">Sign Up</a>
-								</td>
-							</tr>
-						</thead>
-					</table>&nbsp; <strong>Month of: October, 2017</strong>
-					<table class="table table-bordered">
-						<thead>
-							<tr>
-								<th>Date</th>
-								<th>Event Name</th>
-								<th style="width: 400px;">Description</th>
-								<th>Location</th>
-								<th>Sign Up</th>
-							</tr>
-						</thead>
-						<thead>
-							<tr>
-								<td>October 21, 2017</td>
-								<td>IROC Competition</td>
-								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
-								<td>
-									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
-									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
-								</td>
-								<td>
-									<a href="http://irocoffseason.org/registervolunteer/volunteer.php" target="_blank">Sign Up</a>
-								</td>
-							</tr>
-						</thead>
-					</table><strong>Month of: January, 2018</strong>
+
+					<div style="margin-top: -35px;"></div>
+
+					<strong>Upcoming Events: January, 2018</strong>
+
 					<table class="table table-bordered">
 						<thead>
 							<tr>
@@ -126,16 +80,49 @@
 						<thead>
 							<tr>
 								<td>January 27, 2018</td>
-								<td>HayMaker STEAM Expo</td>
-								<td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
+								<td>Stem Expo</td>
+								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
 								<td>
 									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
 									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
 								</td>
-								<td><strong>Sign Up in December</strong></td>
+								<td>
+									<a href=" http://www.signupgenius.com/go/30e084faea929a0fc1-steam" target="_blank">Sign Up</a>
+								</td>
+							</tr>
+						</thead>
+					</table>&nbsp;
+
+					 <strong>Month of: March, 2018</strong>
+
+					<table class="table table-bordered">
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Event Name</th>
+								<th style="width: 400px;">Description</th>
+								<th>Location</th>
+								<th>Sign Up</th>
+							</tr>
+						</thead>
+						<thead>
+							<tr>
+								<td>March 2/3/4, 2018</td>
+								<td>FRC District Competition</td>
+								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
+								<td>
+									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
+									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
+								</td>
+								<td>
+									<a href=" https://www.firstinspires.org/" target="_blank">Sign Up</a>
+								</td>
 							</tr>
 						</thead>
 					</table>
+
+
+
 				</div>
 			</div><!-- end section -->
 			<?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a><!-- end scroll to top of the page-->
