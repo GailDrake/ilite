@@ -142,11 +142,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Nicole Cheng</h3><span class="title"><b>Title:</b> Secretary</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I collect rubber ducks.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Finally transitioning from Honorary Member to ILITE Member.
                     </div>
                   </div>
 
@@ -155,11 +155,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Emily Shaw</h3><span class="title"><b>Title:</b> Build Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2011
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> My dream is to meet a river otter.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Fixing the gear box at Worlds 2017.
                     </div>
                   </div>
 
@@ -194,11 +194,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Justin Williams</h3><span class="title"><b>Title:</b> Electronics Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like memes.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Worlds vlogging.
                     </div>
                   </div>
 
@@ -233,11 +233,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Diego Hernandez</h3><span class="title"><b>Title:</b> Outreach Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I am always peachy.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> My favorite memory is ILITE winning its first District event in 2017 season.
                     </div>
                   </div>
 
@@ -259,11 +259,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Jessica Capayachi</h3><span class="title"><b>Title:</b> Graphics Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I love watching Miraculous ladybug with my friends.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Girls in Stem summer camp, getting to meet all the girls and talk to them.
                     </div>
                   </div>
 
@@ -285,11 +285,11 @@
                     <div class="post-content">
                       <h3 class="post-title">Mia Alessi</h3><span class="title"><b>Title:</b> Sponsorship Lead</span>
 											<br>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I want to teach in a different country after college.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Always meeting new people and making closer friends.
                     </div>
                   </div>
 
@@ -381,7 +381,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_DennisLuban.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Dennis L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Dennis Luban</h3>
 											<b>Year Joined:</b> 2009
@@ -423,7 +423,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JamieLechner.JPG"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Jamie L..JPG"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jamie Lechner</h3>
 											<b>Year Joined:</b> 2013
@@ -437,7 +437,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JesseKnight.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Jesse K..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jesse Knight</h3>
 											<b>Year Joined:</b> 2007
@@ -451,7 +451,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_KellyGiesler.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Kelley G..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kelly Giesler</h3>
 											<b>Year Joined:</b> 2014
@@ -507,7 +507,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Nicholas%20L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Nicholas L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Nicholas Lechner</h3>
 											<b>Year Joined:</b> 2013
@@ -519,7 +519,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Noah%20L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Noah L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Noah Lechner</h3>
 											<b>Year Joined:</b>
@@ -561,19 +561,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Emily%20S..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Build/Emily S..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Emily Shaw</h3>
 											<b>Year Joined:</b> 2011
 											<br>
-                      <b>Fun Fact:</b> Obsessed with gummy bears
+                      <b>Fun Fact:</b> My dream is to meet a river otter.
 											<br>
-                      <b>Favorite Memory:</b> When we sing and play ukulele together.
+                      <b>Favorite Memory:</b> Fixing the gear box at Worlds 2017.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Harrison%20K..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Build/Harrison K..jpg"></div>
                     <div class="post-content">
                         <h3 class="post-title">Harrison Kwak</h3>
 												<b>Year Joined:</b> 2015
@@ -585,7 +585,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Kyle%20J..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Build/Kyle J..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kyle Jarett</h3>
 											<b>Year Joined:</b> 2014
@@ -597,7 +597,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Calvin%20M..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Build/Calvin M..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Calvin Min</h3>
 											<b>Year Joined:</b> 2016
@@ -609,7 +609,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Vallabi%20V..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Build/Vallabi V..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Vallabi Vallaban</h3>
 											<b>Year Joined:</b> 2015
@@ -621,7 +621,7 @@
                   </div>
 
                 <div class="post-container">
-                  <div class="post-thumb"><img src=""></div>
+                  <div class="post-thumb"><img src="../images/members/Build/Trevor L..jpg"></div>
                   <div class="post-content">
                     <h3 class="post-title">Trevor Lew</h3>
                     <b>Year Joined:</b>
@@ -633,9 +633,9 @@
                 </div>
 
               <div class="post-container">
-                <div class="post-thumb"><img src=""></div>
+                <div class="post-thumb"><img src="../images/members/Build/Matthew R..jpg"></div>
                 <div class="post-content">
-                  <h3 class="post-title">Mathew Reheuser</h3>
+                  <h3 class="post-title">Matthew Reheuser</h3>
                   <b>Year Joined:</b>
                   <br>
                   <b>Fun Fact:</b>
@@ -645,7 +645,7 @@
               </div>
 
               <div class="post-container">
-                <div class="post-thumb"><img src=""></div>
+                <div class="post-thumb"><img src="../images/members/Build/Lily K..jpg"></div>
                 <div class="post-content">
                   <h3 class="post-title">Lily Khochareun</h3>
                   <b>Year Joined:</b> 2017
@@ -657,7 +657,7 @@
               </div>
 
             <div class="post-container">
-              <div class="post-thumb"><img src=""></div>
+              <div class="post-thumb"><img src="../images/members/Build/Upneet S..jpg"></div>
               <div class="post-content">
                 <h3 class="post-title">Upneet Singh</h3>
                 <b>Year Joined:</b> 2017
@@ -669,7 +669,7 @@
             </div>
 
             <div class="post-container">
-              <div class="post-thumb"><img src=""></div>
+              <div class="post-thumb"><img src="../images/members/Build/Iain M..jpg"></div>
               <div class="post-content">
                 <h3 class="post-title">Iain Mischel</h3>
                 <b>Year Joined:</b> 2017
@@ -681,19 +681,19 @@
             </div>
 
           <div class="post-container">
-            <div class="post-thumb"><img src=""></div>
+            <div class="post-thumb"><img src="../images/members/Build/Juan C..jpg"></div>
             <div class="post-content">
               <h3 class="post-title">Juan Corsino</h3>
-              <b>Year Joined:</b>
+              <b>Year Joined:</b> 2017
               <br>
-              <b>Fun Fact:</b>
+              <b>Fun Fact:</b> I like betta fish and quadcopters.
               <br>
-              <b>Favorite Memory:</b>
+              <b>Favorite Memory:</b> Joining the team.
             </div>
           </div>
 
         <div class="post-container">
-          <div class="post-thumb"><img src=""></div>
+          <div class="post-thumb"><img src="../images/members/Build/Kaihil P..jpg"></div>
           <div class="post-content">
             <h3 class="post-title">Kaihil Patel</h3>
             <b>Year Joined:</b> 2017
@@ -747,19 +747,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Diego%20H..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Diego H..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Diego Hernandez</h3>
 											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b> I volunteer with the Walk for Autism
+                      <b>Fun Fact:</b> I am always peachy.
 											<br>
-                      <b>Favorite Memory:</b> Doing the youth for tomorrow event
+                      <b>Favorite Memory:</b> My favorite memory is ILITE winning its first District event in 2017 season.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Jibran%20J..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Jibran J..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jibran Jahangiri</h3>
 											<b>Year Joined:</b> 2015
@@ -771,7 +771,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Hannah%20C..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Hannah C..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Hannah Credno</h3>
 											<b>Year Joined:</b> 2015
@@ -783,7 +783,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Jacob S..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jacob Schaum</h3>
 											<b>Year Joined:</b> 2017
@@ -795,19 +795,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Grace C..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Grace Cutsinger</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm always singing, either out loud or in my head.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Volunteering at IROC 2017!
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Carrie M..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Carrie Morell</h3>
 											<b>Year Joined:</b> 2017
@@ -819,7 +819,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Grace H..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Grace Henderson</h3>
                       <b>Year Joined:</b> 2017
@@ -831,7 +831,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/Faran J..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Faran Jahangiri</h3>
                       <b>Year Joined:</b> 2017
@@ -843,7 +843,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Outreach/John C..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">John Curley</h3>
                       <b>Year Joined:</b>
@@ -855,7 +855,7 @@
 									</div>
 
                     <div class="post-container">
-                      <div class="post-thumb"><img src=""></div>
+                      <div class="post-thumb"><img src="../images/members/Outreach/Srinitya A..jpg"></div>
                       <div class="post-content">
                         <h3 class="post-title">Srinitya Allam</h3>
                         <b>Year Joined:</b> 2017
@@ -867,7 +867,7 @@
                     </div>
 
                     <div class="post-container">
-                      <div class="post-thumb"><img src=""></div>
+                      <div class="post-thumb"><img src="../images/members/Outreach/Kiyan Z..jpg"></div>
                       <div class="post-content">
                         <h3 class="post-title">Kiyan Zewer</h3>
                         <b>Year Joined:</b> 2017
@@ -875,6 +875,19 @@
                         <b>Fun Fact:</b> I am a Meme Bible co-founder.
                         <br>
                         <b>Favorite Memory:</b> Rumble in the Roads.
+                      </div>
+                    </div>
+
+                    <div class="post-container">
+                      <div class="post-thumb"><img src="../images/members/Leadership/Nicole C..jpg"></div>
+                      <div class="post-content">
+                        <h3 class="post-title">Nicole Cheng</h3>
+  											<br>
+                        <b>Year Joined:</b> 2017
+  											<br>
+                        <b>Fun Fact:</b> I collect rubber ducks.
+  											<br>
+                        <b>Favorite Memory:</b> Finally transitioning from Honorary Member to ILITE Member.
                       </div>
                     </div>
 
@@ -902,7 +915,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Sponsorship/Aliyah D..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Aliyah Desautels</h3>
                       <b>Year Joined:</b> 2014
@@ -914,19 +927,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Sponsorship/Mia A..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Mia Alessi</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I want to teach in a different country after college.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Always meeting new people and making closer friends.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Sponsorship/Savannah Z..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Savannah Zamudio</h3>
                       <b>Year Joined:</b> 2017
@@ -941,11 +954,11 @@
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Caitlin Colsia</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm 70% coffee not water.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> First competition(IROC)!
                     </div>
                   </div>
 
@@ -971,7 +984,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Cole R..jpg" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Cole R..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Cole Roof</h3>
                       <b>Year Joined:</b>
@@ -983,19 +996,19 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Justin W..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Justin Williams</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like memes.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Worlds vlogging.
                     </div>
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/electronics/FRC_16_CameronBell.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Leadership/Cameron B..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Cameron Bell</h3>
                       <b>Year Joined:</b> 2014
@@ -1007,38 +1020,38 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Nathan B..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Nathan Burks</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> My favorite plant is the cactus.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> The first game we won during the steam punk games and the Christmas party.
                     </div>
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Robert M..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Robert McCulloch</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I love motorcycles.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> IROC setup.
                     </div>
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Carson M..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Carson Min</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I stream League of Legends.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Going to Rumble in the Roads.
                     </div>
                   </div>
 
@@ -1046,28 +1059,28 @@
                     <div class="post-thumb"><img src="" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Ethan Miles</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I like 3D printing.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> First day of the build season.
                     </div>
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Adam S..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Adam Stevenson</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> My last name is not spelled with a PH.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> IROC.
                     </div>
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="" /></div>
+                    <div class="post-thumb"><img src="../images/members/Electronics/Meet P..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Meet Patel</h3>
                       <b>Year Joined:</b>
@@ -1105,19 +1118,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Jessica C..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jessica Capayachi</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2016
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I love watching Miraculous ladybug with my friends.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Girls in Stem summer camp, getting to meet all the girls and talk to them.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Kavya A..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kavya Annapareddy</h3>
                       <b>Year Joined:</b> 2017
@@ -1129,7 +1142,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Seneca%20U..jp"></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Seneca U..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Seneca Ung</h3>
                       <b>Year Joined:</b> 2016
@@ -1141,19 +1154,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Michael C..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Michael Castell</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2015
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I balance playing football for the school with working on the robotics team.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Staying up till 2am watching movies in a packed hotel room at competitions.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Caitlin M..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Caitlin McIntosh</h3>
                       <b>Year Joined:</b> 2017
@@ -1177,38 +1190,38 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Alyssa S..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Alyssa Stump</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I love League of Legends.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> I loved the fall party at the corn maze. I enjoyed having to problem solve with my teammates.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Hayden B..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Hayden Bushnell</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> I'm a CS:GO Gold Nova II.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> My awkward interview.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Graphics/Tam V..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Tam Vu</h3>
-                      <b>Year Joined:</b>
+                      <b>Year Joined:</b> 2017
                       <br>
-                      <b>Fun Fact:</b>
+                      <b>Fun Fact:</b> My favorite movie is Kung Fu Panda.
                       <br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> Being accepted.
                     </div>
                   </div>
 
@@ -1247,7 +1260,7 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Brandon M..jpg" /></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/Brandon M..jpg" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Brandon Morrell</h3>
                       <b>Year Joined:</b> 2016
@@ -1259,7 +1272,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Steve%20W..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/Stephen W..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Stephen Welch</h3>
 											<b>Year Joined:</b> 2015
@@ -1271,7 +1284,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Atishay%20K..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/Atishay K..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Atishay Kasera</h3>
 											<b>Year Joined:</b> 2015
@@ -1283,7 +1296,7 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/George A..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">George Alphonse</h3>
 											<b>Year Joined:</b> 2017
@@ -1295,7 +1308,7 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/Nathan C..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Nathaniel Chong</h3>
 											<b>Year Joined:</b> 2017
@@ -1307,7 +1320,7 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/Daniel T..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Daniel Tolbert</h3>
 											<b>Year Joined:</b> 2017
@@ -1319,7 +1332,7 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Programming/Kate B..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kate Balint</h3>
 											<b>Year Joined:</b> 2017
@@ -1364,7 +1377,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/web/FRc_16_DylanFernendes.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Web/Dylan F..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Dylan Fernandes</h3>
 											<b>Year Joined:</b> 2015
@@ -1376,19 +1389,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Web/Adeel A..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Adeel Aziz</h3>
 											<b>Year Joined:</b> 2017
 											<br>
-                      <b>Fun Fact:</b> I bought a real gold and diamond necklace for my girlfriend of one month.
+                      <b>Fun Fact:</b> I'm Apple Certified.
 											<br>
-                      <b>Favorite Memory:</b>
+                      <b>Favorite Memory:</b> 2018 Kickoff.
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Web/Nicholas M..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Nicholas Miller</h3>
 											<b>Year Joined:</b> 2017
@@ -1400,19 +1413,19 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+                    <div class="post-thumb"><img src="../images/members/Web/Harry D..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Harry Davidson</h3>
-											<b>Year Joined:</b> 2017
+											<b>Year Joined:</b>
 											<br>
-                      <b>Fun Fact:</b> I am also part of ILITE's Cyber Team.
+                      <b>Fun Fact:</b>
 											<br>
                       <b>Favorite Memory:</b>
                     </div>
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/web/.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Web/Urvi P..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Urvi Pisal</h3>
 											<b>Year Joined:</b> 2017
@@ -1424,14 +1437,14 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/web/.jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Web/Kyle R..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kyle Rowland</h3>
-											<b>Year Joined:</b> 2017
+											<b>Year Joined:</b>
 											<br>
-                      <b>Fun Fact:</b> I work.
+                      <b>Fun Fact:</b>
 											<br>
-                      <b>Favorite Memory:</b> Not ILITE.
+                      <b>Favorite Memory:</b>
                     </div>
                   </div>
 
