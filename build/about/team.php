@@ -873,7 +873,7 @@
                         <h3 class="post-title">Kiyan Zewer</h3>
                         <b>Year Joined:</b> 2017
                         <br>
-                        <b>Fun Fact:</b> I am a Meme Bible co-founder.
+                        <b>Fun Fact:</b> I am Kurdish.
                         <br>
                         <b>Favorite Memory:</b> Rumble in the Roads.
                       </div>
