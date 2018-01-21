@@ -324,6 +324,7 @@
                 <div id="tab2">
                   <h1>Mentors</h1>
                   <div class="team-img"><img src="../images/members/Mentors/Mentors.png"></div>
+                  <p>The mentors are a group of volunteers who contribute to the team. They are responsible for supporting and assisting the team members in their respective subteams throughout the season. Mentors provide the opportunity for a better learning environment and the development of necessary skills.</p>
 
                   <div class="post-container">
                     <div class="post-thumb"><img src="../images/members/Mentors/Gail D..jpg"></div>
@@ -714,11 +715,10 @@
                     <h2>Subteam Specific Mission Statement</h2><i class="fa fa-quote-left"></i> To inspire people, young and old, to become leaders in science, technology, engineering, and mathematics by providing them with the proper environment, social encouragement to pursue STEM, and necessary resources and mentoring to continue learning and working in STEM in and out of school environments. <i class="fa fa-quote-right"></i>
                   </div>
 									<div class="team-img"><img src="../images/members/Outreach/Outreach.jpg"></div>
-                  <p>The ILITE Business Team is a complex network of subteams that work to exercise the skills needed for successful project management, advertising, and marketing. Made up of dedicated team members that meet multiple times a week, the Business Team is open to all students interested in outreach, sponsorship, and all things business-related. The team breaks off into multiple divisions that focus on certain aspects of Business and are categorized into specialized areas of interest such as Sponsorship, Engineering Inspiration & Outreach, Awards Submissions, and Finances -- all of which contribute towards supporting the mission and vision of the team. The Sponsorship subteam supports ILITE by acquiring resources and funds and focuses on marketing and campaigning for the team. These provided resources allow the team to work in a more professional environment as fundings are used for equipment, team clothing, travel fees, and other needs of our team. The Engineering Inspiration (EI) subteam takes part in the development of our outreach and pushes the boundaries of what defines a “robotics team”. The EI Team coordinates and organizes the participation in outreach events such as our Haymaker STEM Expo and a variety of annual summer camps. All of our work in these events are what set ILITE apart, and the Awards subteam works to demonstrate that to FIRST. The Awards team focuses on which awards can and will be sought after for the season and develop a strategy for each. These skills that are developed within the team promote and enhance the opportunities and abilities of each student to reach success, especially in a small business environment. The entire team focuses on the bigger picture for ILITE, while the members of the Business team work to expand the opportunities and mindset for the community and its members, promoting the development and growth of FIRST.</p>
+                  <p>The ILITE Outreach Team is a complex network of people that work to exercise the skills needed for successful project management, advertising, and marketing. Made up of dedicated team members that meet multiple times a week, the Outreach Team is open to all students interested in outreach and all things business-related. The team breaks off into multiple divisions that focus on certain aspects of outreach and are categorized into specialized areas of interest such as Engineering Inspiration & Outreach and Awards Submissions -- both of which contribute towards supporting the mission and vision of the team. The Engineering Inspiration (EI) team takes part in the development of our outreach and pushes the boundaries of what defines a “robotics team”. The EI Team coordinates and organizes the participation in outreach events such as our Haymaker STEM Expo and a variety of annual summer camps. All of our work in these events are what set ILITE apart, and the Awards subteam works to demonstrate that to FIRST. The Awards team focuses on which awards can and will be sought after for the season and develop a strategy for each. These skills that are developed within the team promote and enhance the opportunities and abilities of each student to reach success, especially in a small business environment. The entire team focuses on the bigger picture for ILITE, while the members of the Outreach team work to expand the opportunities and mindset for the community and its members, promoting the development and growth of FIRST.</p>
                   <div class="greybox">
                     <h2>Goals</h2>
                     <ol>
-                      <li>To support ILITE by acquiring resources and funds by focusing on marketing and campaigning for the team</li>
                       <li>To coordinate and organize outreach events</li>
                       <li>To identify which awards must be sought after for the season and develop a strategy for each</li>
                     </ol>
@@ -901,11 +901,12 @@
                     <h2>Subteam Specific Mission Statement</h2><i class="fa fa-quote-left"></i><i class="fa fa-quote-right"></i>
                   </div>
 									<div class="team-img"><img src="../images/members/Sponsorship/Sponsorship.jpg"></div>
-                  <p></p>
+                  <p>The ILITE Sponsorship Team practices the skills required to successfully maintain and obtain sponsors. The Sponsorship team is responsible for raising funds and managing finances and supports ILITE by acquiring resources and funds and focuses on marketing and campaigning for the team. These resources allow the team to work in a more professional environment as fundings are used for equipment, team clothing, travel fees, and other needs of our team.</p>
                   <div class="greybox">
                     <h2>Goals</h2>
                     <ol>
                       <li>To support ILITE by acquiring resources and funds by focusing on marketing and campaigning for the team</li>
+                      <li>To reach out to potential sponsors and acquire sponsorships for the team</li>
                     </ol>
                   </div>
                   <div class="greybox">
