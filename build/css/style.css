@@ -22222,8 +22222,9 @@ margin-top: -5px;
 }
 .team-img {
   display: block;
-  height: 150px;
-  width: 225px;
+  height: 444px;
+  width: 666px;
+  margin: 0 auto;
   border: 3px solid #999;
 }
 .sponsormed {
