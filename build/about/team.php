@@ -319,6 +319,19 @@
                     </div>
                   </div>
 
+                  <div class="post-container">
+                    <div class="post-thumb"><img src="../images/members/Outreach/Kiyan Z..jpg"></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Kiyan Zewer</h3><span class="title"><b>Title:</b> Strategy Lead</span>
+                      <br>
+                      <b>Year Joined:</b> 2017
+                      <br>
+                      <b>Fun Fact:</b> I am Kurdish.
+                      <br>
+                      <b>Favorite Memory:</b> Rumble in the Roads.
+                    </div>
+                  </div>
+
                 </div>
 
                 <div id="tab2">
@@ -341,7 +354,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/FRC_16_.JPG"></div>
+                    <div class="post-thumb-old"><img src="../images/members/Mentors/FRC_16_.JPG"></div>
                     <div class="post-content">
                       <h3 class="post-title">Lakshmi Meyappan</h3>
 											<b>Year Joined:</b> 2014
@@ -369,7 +382,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_DaveBascom.JPG"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_DaveBascom.JPG"></div>
                     <div class="post-content">
                       <h3 class="post-title">Dave Bascom</h3>
 											<b>Year Joined:</b> 2015
@@ -397,7 +410,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_GloriaDesautels.jpg"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_GloriaDesautels.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Gloria Desautels</h3>
 											<b>Year Joined:</b> 2014
@@ -411,7 +424,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_GregMorton.jpg"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_GregMorton.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Greg Morton</h3>
 											<b>Year Joined:</b>
@@ -467,7 +480,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_KimberlyStong.JPG"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_KimberlyStong.JPG"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kimberly Strong</h3>
 											<b>Year Joined:</b> 2014
@@ -481,7 +494,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_MarcSciarrino.jpg"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_MarcSciarrino.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Marc Sciarrino</h3>
 											<b>Year Joined:</b> 2010
@@ -495,7 +508,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/mentors/FRC_16_PaulLahann.jpg"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_PaulLahann.jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Paul Lahann</h3>
 											<b>Year Joined:</b>
@@ -514,6 +527,8 @@
                       <h3 class="post-title">Nicholas Lechner</h3>
 											<b>Year Joined:</b> 2013
 											<br>
+                      <b>Subteam:</b>
+                      <br>
                       <b>Fun Fact:</b> Robotics is Life.
 											<br>
                       <b>Favorite Memory:</b> During build season, when we pulled an all nighter on Presidents day.
@@ -526,9 +541,53 @@
                       <h3 class="post-title">Noah Lechner</h3>
 											<b>Year Joined:</b>
 											<br>
+                      <b>Subteam:</b>
+                      <br>
                       <b>Fun Fact:</b> I like John Deer
 											<br>
                       <b>Favorite Memory:</b> Teaching the scrubs.
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src="../images/members/Mentors/Larry L..jpg"></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Larry Laverty</h3>
+											<b>Year Joined:</b>
+											<br>
+                      <b>Subteam:</b>
+                      <br>
+                      <b>Fun Fact:</b>
+											<br>
+                      <b>Favorite Memory:</b>
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src="../images/members/Mentors/Leon D..jpg"></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Leon Davidson</h3>
+											<b>Year Joined:</b>
+											<br>
+                      <b>Subteam:</b>
+                      <br>
+                      <b>Fun Fact:</b>
+											<br>
+                      <b>Favorite Memory:</b>
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src="../images/members/Mentors/ L..jpg"></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Mr. Lechner</h3>
+											<b>Year Joined:</b>
+											<br>
+                      <b>Subteam:</b>
+                      <br>
+                      <b>Fun Fact:</b>
+											<br>
+                      <b>Favorite Memory:</b>
                     </div>
                   </div>
 
@@ -541,7 +600,9 @@
                     <h2>Subteam Specific Mission Statement</h2><i class="fa fa-quote-left"></i> To be able to create an efficient and robust robot that represents the whole of our abilities and capabilities as a subteam and serves as a base for other subteams’ work. In the process, we would like to maintain a priority for safety, control, and an appreciation for quality design. <i class="fa fa-quote-right"></i>
                   </div>
 									<div class="team-img"><img src="../images/members/Build/Build.jpg"></div>
-                  <p>The Build Subteam is responsible for creating the ILITE robot yearly for competition. To do so efficiently and effectively, the subteam has split into several smaller branches: the Drive Train Team, Manipulator Team, and CAD and Integration Team. The Drive Train Team takes on the role of developing the foundation of the team’s robot each season. This includes responsibility for all major structural members as well as the design and construction of a drive train layout optimized for that season’s FRC challenge. Students and mentors work side by side discussing game strategies and best practices to ensure a successful robot which will last through an entire season. The Manipulator Team is responsible for the design of complex components such as arms, claws, and shooters that attach to the drivetrain to allow the robot to successfully tackle the team’s goals each year as either an offensive, defensive, or equally-balanced robot. This team undergoes a long process of prototyping and experimentation before settling on the final product which they execute with precise manufacturing techniques. The CAD and Integration Team models the entire robot and design process through its various stages in OpenSCAD and Inventor to ensure good team documentation and to create engineering drawings for manufacturing. This is important as it allows the team to construct a second “practice” robot that is identical to the competition robot. It also helps ensure that all parts come together in a seamless package which adheres to FIRST design regulations.</p>
+                  <p>
+                    The Build Subteam is responsible for creating the ILITE robot yearly for competition. To do so efficiently and effectively, the subteam has split into several smaller branches: the Drive Train Team, Manipulator Team, and CAD and Integration Team. The Drive Train Team takes on the role of developing the foundation of the team’s robot each season. This includes responsibility for all major structural members as well as the design and construction of a drive train layout optimized for that season’s FRC challenge. Students and mentors work side by side discussing game strategies and best practices to ensure a successful robot which will last through an entire season. The Manipulator Team is responsible for the design of complex components such as arms, claws, and shooters that attach to the drivetrain to allow the robot to successfully tackle the team’s goals each year as either an offensive, defensive, or equally-balanced robot. This team undergoes a long process of prototyping and experimentation before settling on the final product which they execute with precise manufacturing techniques. The CAD and Integration Team models the entire robot and design process through its various stages in OpenSCAD and Inventor to ensure good team documentation and to create engineering drawings for manufacturing. This is important as it allows the team to construct a second “practice” robot that is identical to the competition robot. It also helps ensure that all parts come together in a seamless package which adheres to FIRST design regulations.
+                  </p>
                   <div class="greybox">
                     <h2>Goals</h2>
                     <ol>
@@ -1250,14 +1311,6 @@
                     <h2>Awards</h2>
                     <ul>
                       <li>2014 FIRST World Championship: Innovation In Control Award</li>
-                      <li>2012 Virginia Regional: Best Website Award</li>
-                      <li>2011 - Excellence in Website Design</li>
-                      <li>2010 - Excellence in Website Design</li>
-                      <li>2009 - Excellence in Website Design</li>
-                      <li>2008 - Excellence in Website Design</li>
-                      <li>2007 Las Vegas Regional: Best Website Award</li>
-                      <li>2006 - Excellence in Website Design</li>
-                      <li>2005 - Excellence in Website Design</li>
                     </ul>
                   </div>
 
@@ -1442,7 +1495,7 @@
                     <div class="post-thumb"><img src="../images/members/Web/Kyle R..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kyle Rowland</h3>
-											<b>Year Joined:</b>
+											<b>Year Joined:</b> 2017
 											<br>
                       <b>Fun Fact:</b>
 											<br>

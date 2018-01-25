@@ -22208,6 +22208,15 @@ margin-top: -5px;
   float: left;
   border-right: 3px solid #999;
 }
+.post-thumb-old {
+  display: block;
+  height: 200px;
+  width: 300px;
+  float: left;
+  border-right: 3px solid #999;
+  background-color: BLACK;
+  padding: 0px 50px;
+}
 .post-content {
   margin-left: 310px;
   padding-top: 20px;
