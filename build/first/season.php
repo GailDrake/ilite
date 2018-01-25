@@ -49,7 +49,7 @@
 								<div class="home-image-inner-content">
 
 									<div class="headline-title">
-										<h1>2017-2018 Season</h1>
+										<h1>2018 Season</h1>
 									</div>
 
 									<div class="head-image__subheader"></div>
@@ -67,7 +67,7 @@
   <ul class="crumbs">
     <!--<li><a href="../index.php">Home</a></li>
     <li><a href="#">FIRST</a></li>
-    <li class="last"><a href="#">2017-2018 Season</a></li>-->
+    <li class="last"><a href="#">2018 Season</a></li>
   </ul>
   </div>
 <div class="contentcontent">

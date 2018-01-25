@@ -80,9 +80,9 @@
 		<p>Whether it be through our summer camps that teach hundreds of students about STEM, or our annually-hosted FIRST competitions, ILITE continuously inspires those around them. We strive to embody the FIRST mission of "More than Robots" in all we do."</p>
 
 		<h1>Our Mission:</h1>
-			<div class="third__image" style="background-image: url('../images/stills/teddy.JPG');"></div>
-	<div class="third__image" style="background-image: url('../images/stills/haymarketday.jpg');"></div>
-		<div class="third__image" style="background-image: url('../images/stills/stemexpo1.JPG');"></div>
+			<div class="third__image" style="background-image: url('../images/stills/teddy.JPG');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/haymarketday.jpg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/kid.jpeg');"></div>\
 		<div class="greybox photobot">
 			<i class="fa fa-quote-left"></i> To inspire young people to become leaders in science, technology, engineering, and mathematics by providing them with hands-on engineering challenges with the mentorship of industry professionals, to build a foundation of both technical and social skills and values, to create leaders in technology and engineering. <i class="fa fa-quote-right"></i>
 	 	</div>
@@ -96,9 +96,9 @@
 		</div>
 
 	 <h1>ILITE-ism:</h1>
-		<div class="third__image" style="background-image: url('../images/stills/stemexpo3.JPG');"></div> 
-	<div class="third__image" style="background-image: url('../images/stills/experiment.jpeg');"></div>
-		<div class="third__image" style="background-image: url('../images/stills/gather.jpeg');"></div>
+		<div class="third__image" style="background-image: url('../images/stills/stemexpo1.JPG');"></div> 
+	<div class="third__image" style="background-image: url('../images/stills/experiment.jpeg');"></div> 
+		<div class="third__image" style="background-image: url('../images/stills/gather.jpeg');"></div> 
 	 <p>
 		 Outreach is an effort which requires an adverse plan of attack to reach the greatest number of persons, all of whom come from different backgrounds. ILITE holds a core value it calls “ILITE-ism” which is the belief that everyone, regardless of background or profession can be an advocate for technology and engineering.
 	 </p>
