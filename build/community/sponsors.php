@@ -61,15 +61,7 @@
       <div class="containernew">
         <div id="breadnav">
           <ul class="crumbs">
-            <li>
-              <a href="../index.php">Home</a>
-            </li>
-            <li>
-              <a href="#">About</a>
-            </li>
-            <li>
-              <a href="#">Sponsors</a>
-            </li>
+            <br>
           </ul>
         </div>
         <div class="contentcontent">

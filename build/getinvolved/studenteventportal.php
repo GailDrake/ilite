@@ -64,9 +64,7 @@
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">
-    <li><a href="../index.php">Home</a></li>
-    <li><a href="#">Get Involved</a></li>
-    <li class="last"><a href="#">Student Event Portal</a></li>
+    <br>
   </ul>
   </div>
 <div class="contentcontent">

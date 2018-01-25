@@ -65,11 +65,10 @@
 
 <div id="breadnav">
   <ul class="crumbs">
-    <li><a href="../index.php">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li class="last"><a href="#">Team Organization and Members</a></li>
+    <br>
   </ul>
 </div>
+
 
 <div class="containernew">
 <div class="contentcontent">
