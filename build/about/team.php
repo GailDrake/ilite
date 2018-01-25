@@ -91,30 +91,36 @@
     <div id="tab1">
 <p>ILITE understands that a team structure is a well-defined organizational structure that promotes good communication and is the key to any successful FIRST Robotics team. A very important aspect of our team is building a organizational model which brings together like-minded individuals who share a common interest while pairing them with industry professionals to establish a comfortable environment of mentorship from professionals and peers alike. Our structural style is one that specifically emphasises student leadership and accountability. </p>
 
-  <div class="post-container">
-                                  <div class="post-thumb"><img src="../images/members/business/FRC_16_AmrMetwally.jpg" /></div>
-                                    <div class="post-content">
-                                       <h3 class="post-title">Amr Metwally</h3>
-                                       <span class="title"><b>Title:</b> President </span><br>
-                                       <b>Year Joined:</b> 2013
-                                       <br>
-                                       <b>Fun Fact:</b> I can speak Arabic.
-                                       <br>
-                                       <b>Favorite Memory:</b> Becoming a Deans List Finalist
-                                    </div>
-                                 </div>
-                                 <div class="post-container">
-                                    <div class="post-thumb"><img src="../images/members/Jamie P..jpg" /></div>
-                                    <div class="post-content">
-                                       <h3 class="post-title">Jamie Panilinigan</h3>
-                                       <span class="title"><b>Title:</b> Vice-President </span><br>
-                                       <b>Year Joined:</b> 2014
-                                       <br>
-                                       <b>Fun Fact:</b> I am on the Chairmans team this year
-                                       <br>
-                                       <b>Favorite Memory:</b> When we won Chairmans at Districts
-                                    </div>
-                                 </div>
+
+  <div class="flexbox-columns">
+
+<div class="one_third animate" data-anim-delay="200" data-anim-type="fadeInUp">
+	<img src="../images/members/business/FRC_16_AmrMetwally.jpg" >
+	<div class="home__img n3"></div></a>
+	<div class="addes">
+		<strong>Amr Metwally</strong><br>
+		<strong>Title:</strong> President </span><br>
+		<b>Year Joined:</b> 2013
+		<br>
+		<b>Fun Fact:</b> I can speak Arabic.
+		<br>
+		<b>Favorite Memory:</b> Becoming a Deans List Finalist
+	</div>
+
+	<div class="one_third animate" data-anim-delay="250" data-anim-type="fadeInUp">
+		<a class="home__img-holder">
+		<div class="home__img n1"></div></a>
+		<div class="addes">
+			<strong>Jamie Panilinigan</strong><br>
+			<strong>Title:</strong> President </span><br>
+			<b>Year Joined:</b> 2013
+			<br>
+			<b>Fun Fact:</b> I can speak Arabic.
+			<br>
+			<b>Favorite Memory:</b> Becoming a Deans List Finalist
+		</div>
+
+
                                  <div class="post-container">
                                     <div class="post-thumb"><img src="../images/members/Sam S..jpg" /></div>
                                     <div class="post-content">
@@ -124,7 +130,7 @@
                                        <br>
                                        <b>Fun Fact:</b>
                                        <br>
-                                       <b>Favorite Memory:</b> 
+                                       <b>Favorite Memory:</b>
                                     </div>
                                  </div>
                                  <div class="post-container">
@@ -206,7 +212,7 @@
                                        <span class="title"><b>Title:</b> Programming Leader </span><br>
                                        <b>Year Joined:</b> 2014
                                        <br>
-                                       <b>Fun Fact:</b> 
+                                       <b>Fun Fact:</b>
                                        <br>
                                        <b>Favorite Memory:</b> Letting Jeremy drive the robot
                                     </div>
@@ -242,7 +248,7 @@
                                        <br>
                                        <b>Fun Fact:</b>
                                        <br>
-                                       <b>Favorite Memory:</b> 
+                                       <b>Favorite Memory:</b>
                                     </div>
                                  </div>
                                  <div class="post-container">
@@ -255,14 +261,14 @@
                                        <br>
                                        <b>Fun Fact:</b>
                                        <br>
-                                       <b>Favorite Memory:</b> 
+                                       <b>Favorite Memory:</b>
                                     </div>
                                  </div>
                                  <div class="post-container">
                                     <div class="post-thumb"><img src="../images/members/mentors/FRC_16_ChrissO'Connell.jpg" /></div>
                                     <div class="post-content">
                                        <h3 class="post-title">Chris O'Connell</h3>
-                                       <b>Year Joined:</b> 
+                                       <b>Year Joined:</b>
                                        <br>
                                        <b>Subteam:</b> Programming
                                        <br>
@@ -317,7 +323,7 @@
                                        <b>Year Joined:</b>
                                        <br>
                                        <b>Subteam:</b> Build
-                                       <br> 
+                                       <br>
                                        <b>Fun Fact:</b>
                                        <br>
                                        <b>Favorite Memory:</b>
@@ -340,7 +346,7 @@
                                     <div class="post-thumb"><img src="../images/members/mentors/FRC_16_JesseKnight.jpg" /></div>
                                     <div class="post-content">
                                        <h3 class="post-title">Jesse Knight</h3>
-                                       <b>Year Joined:</b> 
+                                       <b>Year Joined:</b>
                                        <br>
                                        <b>Subteam:</b> Programming, Build, Strategy
                                        <br>
@@ -439,18 +445,18 @@
                                        <h3 class="post-title">Kyle Jarett</h3>
                                        <b>Year Joined:</b> 2014
                                        <br>
-                                       <b>Fun Fact:</b> Born in Texas. 
+                                       <b>Fun Fact:</b> Born in Texas.
                                        <br>
-                                       <b>Favorite Memory:</b> When we got the laser printer. 
+                                       <b>Favorite Memory:</b> When we got the laser printer.
                                     </div>
                                  </div>
                                  <div class="post-container">
                                     <div class="post-thumb"><img src="../images/members/Emily S..jpg" /></div>
                                     <div class="post-content">
                                        <h3 class="post-title">Emily Shaw</h3>
-                                       <b>Year Joined:</b> 2011       
+                                       <b>Year Joined:</b> 2011
                                        <br>
-                                       <b>Fun Fact:</b> Obsessed with gummy bears 
+                                       <b>Fun Fact:</b> Obsessed with gummy bears
                                        <br>
                                        <b>Favorite Memory:</b> When we sing and play ukulele together.
                                     </div>
@@ -459,7 +465,7 @@
                                       <div class="post-thumb"><img src="../images/members/build/FRC_16_EvereettMichel.jpg" /></div>
                                     <div class="post-content">
                                        <h3 class="post-title">Everett Michel</h3>
-                                       <b>Year Joined:</b> 2013                                       
+                                       <b>Year Joined:</b> 2013
                                        <br>
                                        <b>Fun Fact:</b> I am in the Marching Band
                                        <br>
@@ -509,7 +515,7 @@
                                        <h3 class="post-title">Nicholas Lechner</h3>
                                        <b>Year Joined:</b> 2013
                                        <br>
-                                       <b>Fun Fact:</b> Robotics is Life. 
+                                       <b>Fun Fact:</b> Robotics is Life.
                                        <br>
                                        <b>Favorite Memory:</b> During build season, when we pulled an all nighter on Presidents day.
                                     </div>
@@ -547,7 +553,7 @@
                                        <b>Favorite Memory:</b>
                                     </div>
                                  </div>
-                              
+
                                  <div class="post-container">
                                     <div class="post-thumb"><img src="../images/members/Vallabi V..jpg" /></div>
                                     <div class="post-content">
@@ -557,7 +563,7 @@
                                        <b>Fun Fact:</b> I have a dog
                                        <br>
                                        <b>Favorite Memory:</b> District Championships this year
-                                    </div> 
+                                    </div>
                                  </div>
 
     </div>
@@ -656,7 +662,7 @@
                                        <h3 class="post-title">Harshil Salni</h3>
                                        <b>Year Joined:</b> 2015
                                        <br>
-                                       <b>Fun Fact:</b> I'm obsessed with legos and soccer. 
+                                       <b>Fun Fact:</b> I'm obsessed with legos and soccer.
                                        <br>
                                        <b>Favorite Memory:</b> I was having an eh day, but when I came to robotics I knew I could relax but also do some work
                                     </div>
@@ -665,9 +671,9 @@
                                     <div class="post-thumb"><img src="../images/members/Johannah S..jpg" /></div>
                                     <div class="post-content">
                                        <h3 class="post-title">Johannah Suegay</h3>
-                                       <b>Year Joined:</b> 2014 
+                                       <b>Year Joined:</b> 2014
                                        <br>
-                                       <b>Fun Fact:</b>  I spend 47% of my life watching soccer. 
+                                       <b>Fun Fact:</b>  I spend 47% of my life watching soccer.
                                        <br>
                                        <b>Favorite Memory:</b> Winning chairmans last year. It was it, I was yelling.
                                     </div>
@@ -676,11 +682,11 @@
                                     <div class="post-thumb"><img src="../images/members/Jibran J..jpg" /></div>
                                     <div class="post-content">
                                        <h3 class="post-title">Jibran Jahangiri</h3>
-                                       <b>Year Joined:</b> 2015 
+                                       <b>Year Joined:</b> 2015
                                        <br>
-                                       <b>Fun Fact:</b> I know 6 languages. 
+                                       <b>Fun Fact:</b> I know 6 languages.
                                        <br>
-                                       <b>Favorite Memory:</b> Can't choose a favourite memory, because each day amongst these amazing people brings new memories. 
+                                       <b>Favorite Memory:</b> Can't choose a favourite memory, because each day amongst these amazing people brings new memories.
                                  </div>
                               </div>
     </div>
@@ -718,7 +724,7 @@ The Electronics subteam’s main task is to efficiently route and connect the ne
                                        <h3 class="post-title">Cameron Bell</h3>
                                        <b>Year Joined:</b> 2014
                                        <br>
-                                       <b>Fun Fact:</b> When I'm stressed I like to sit out on my room and draw. 
+                                       <b>Fun Fact:</b> When I'm stressed I like to sit out on my room and draw.
                                        <br>
                                        <b>Favorite Memory:</b>
                                     </div>
@@ -738,7 +744,7 @@ The Electronics subteam’s main task is to efficiently route and connect the ne
                                        <b>Favorite Memory:</b>
                                     </div>
                                  </div> -->
-                             
+
                                  <div class="post-container">
                                     <div class="post-thumb"><img src="../images/members/Will C..jpg" /></div>
                                     <div class="post-content">
@@ -792,7 +798,7 @@ Team 1885, ILITE Robotics, is defined by an intellectual and creative legacy bui
                                        <h3 class="post-title">Alicia Pierson</h3>
                                        <b>Year Joined:</b> 2015
                                        <br>
-                                       <b>Fun Fact:</b>  I'm really into music, play piano, and I'm in marching band 
+                                       <b>Fun Fact:</b>  I'm really into music, play piano, and I'm in marching band
                                        <br>
                                        <b>Favorite Memory:</b> I liked the FTC competition because I like contributing to the team
                                     </div>
@@ -887,7 +893,7 @@ Team 1885, ILITE Robotics, is defined by an intellectual and creative legacy bui
                                     <div class="post-content">
                                        <h3 class="post-title">Peng Zhang</h3>
                                        <span class="title"><b>Title:</b> Pogramming Leader </span><br>
-                                       <b>Fun Fact:</b> I like food 
+                                       <b>Fun Fact:</b> I like food
                                        <br>
                                        <b>Favorite Memory:</b> When teddy sniffed the potentiometer
                                     </div>
@@ -898,7 +904,7 @@ Team 1885, ILITE Robotics, is defined by an intellectual and creative legacy bui
                                        <h3 class="post-title">Kristen Giesler</h3>
                                        <b>Year Joined:</b> 2014
                                        <br>
-                                       <b>Fun Fact:</b> ( ͡° ͜ʖ ͡°) 
+                                       <b>Fun Fact:</b> ( ͡° ͜ʖ ͡°)
                                        <br>
                                        <b>Favorite Memory:</b>  Meeting Dean Kamen at 2015 Worlds
                                     </div>

@@ -113,7 +113,7 @@
 
           <div class="center-button">
             <a class="button thhthree" href="http://haymakerstemexpo.org/">STEAM Expo SITE</a>
-            <a class="button thhthree" href="http://irocoffseason.org/images/floorplan.pn">FLOOR PLAN</a>
+            <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">FLOOR PLAN</a>
             <a class="button thhthree" href="http://irocoffseason.org/images/traffic.png">MAP</a>
             <a class="button thhthree" href="http://irocoffseason.org/iroc_schedule.pdf">SCHEDULE</a>
           </div><br>
