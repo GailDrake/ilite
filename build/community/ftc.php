@@ -1,4 +1,4 @@
-<!doctype html>
+<!Doctype html>
 <!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
@@ -72,31 +72,31 @@
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="200">
 					<a class="home__img-holder" href="#">
-						<div class="home__img grad"></div> 
+						<div class="home__img grad"></div>
 					</a>
 					<div class="addes">
 						<strong>2016 NoVA FTC Event</strong>
 						The 2016 Northern Virginia FTC event will be held on <i>December 10th, 2016 at Battlefield High School</i>.</div>
-					
-				
+
+
 				</div><!-- end section -->
 
 				<div class="one_third animate" data-anim-type="fadeInUp" data-anim-delay="250">
 					<a class="home__img-holder" href="#">
-						<div class="home__img worldchamps-2016"></div> 
+						<div class="home__img worldchamps-2016"></div>
 					</a>
 						<div class="addes">
 						<strong>2016 Volunteer Positions Open</strong>
 						Open volunteer positions and fixed positions alike have been made public. Interested individuals should sign up through <a href="https://my.usfirst.org/FIRSTPortal/Login/VIMS_login.aspx">VIMS</a>.
 					</div>
-					
-					
+
+
 				</div><!-- end section -->
 
 				<div class="one_third last animate" data-anim-type="fadeInUp" data-anim-delay="300">
 
 					<a class="home__img-holder" href="#">
-						<div class="home__img champs-2016"></div> 
+						<div class="home__img champs-2016"></div>
 					</a>
 <div class="addes">
 						<strong>Concessions Information</strong>
