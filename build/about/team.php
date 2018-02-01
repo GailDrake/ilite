@@ -650,12 +650,12 @@
                   <div class="post-container">
                     <div class="post-thumb"><img src="../images/members/Build/Kyle J..jpg"></div>
                     <div class="post-content">
-                      <h3 class="post-title">Kyle Jarett</h3>
-											<b>Year Joined:</b> 2014
+                      <h3 class="post-title">Kyle Jarrett</h3>
+											<b>Year Joined:</b> 2015
 											<br>
-                      <b>Fun Fact:</b> Born in Texas.
+                      <b>Fun Fact:</b> I am a Life scout in the BSA.
 											<br>
-                      <b>Favorite Memory:</b> When we got the laser printer.
+                      <b>Favorite Memory:</b> Bunking with my friends at districts.
                     </div>
                   </div>
 
