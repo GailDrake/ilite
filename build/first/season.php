@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
-    
+
 	<link rel="shortcut icon" href="/images/favicon.ico">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
@@ -49,7 +49,7 @@
 								<div class="home-image-inner-content">
 
 									<div class="headline-title">
-										<h1>2017 Season</h1>
+										<h1>2017-2018 Season</h1>
 									</div>
 
 									<div class="head-image__subheader"></div>
@@ -65,22 +65,19 @@
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">
-    <li><a href="../index.php">Home</a></li>
-    <li><a href="#">FIRST</a></li>
-    <li class="last"><a href="#">2017 Season</a></li>
+    <br>
   </ul>
   </div>
 <div class="contentcontent">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EMiNmJW7enI" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="100%" height="315" src="https://youtu.be/MM_JWAON6PI" frameborder="0" allowfullscreen></iframe> -->
+<iframe width="1040" height="315" src="https://www.youtube.com/embed/HZbdwYiCY74?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
-<p>FIRST STEAMWORKS <sup>SM</sup> is played by two alliances of three teams each. Alliances compete against each other
-to toss balls in boilers, place gears to rotate rotors, and autonomously score.</p>
-
-			<div class="third__image" style="background-image: url('../images/stills/trophy.jpeg');"></div> 
-	<div class="third__image" style="background-image: url('../images/stills/chairmanchurch.jpeg');"></div> 
-		<div class="third__image" style="background-image: url('../images/stills/standard.JPG');"></div> 
+<p>FIRST POWER UP<sup>SM</sup> Teaser</p>
+			<div class="third__image" style="background-image: url('../images/ILITE_Control_Station.JPG');"></div>
+	<div class="third__image" style="background-image: url('../images/ILITE_Flag.JPG');"></div>
+		<div class="third__image" style="background-image: url('../images/ILITE_Airship.JPG');"></div>
 		<br><br><br>
-<p><br>ILITE has been hard at work to make another season successful. Already ILITE has won the Chairmans Award and was on the winning alliance at the 2017 Greater DC Regional . Additionally, ILITE won the 2017 Central Virginia District. The season culminating in ILITE wnning the Chairmans award at the District Championships as well as becoming an alliance finalist, qualifying for the 2017 Worlds Championship. This is the 13th year the team has qualified!</p>
+<p><br>The FIRST 2018 season has yet to begin, however, ILITE is already hard at work. We are reaching out into the community, teaching and inspiring kids in STEAM and FIRST. ILITE is also hosting events for FIRST Tech Challenge and the previous 2017 season. We are all excited for the upcoming 2018 season and eagerly await it's arrival.</p>
 
 </div>
 </div><!-- end section -->

@@ -1,3 +1,5 @@
+This repo is the production site of www.ilite.us, but should also be considered a legacy codebase. Content should be updated and serious bugs fixed, but new development efforts will go into [this repo](https://github.com/GailDrake/iliteus).
+
 ## Local development environment:
 From the command line, in the root `ilite` folder, type `gulp`. This will run a watcher task that will compile all LESS and JavaScript files.
 

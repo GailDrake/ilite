@@ -64,9 +64,7 @@
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">
-    <li><a href="../index.php">Home</a></li>
-    <li><a href="#">Get Involved</a></li>
-    <li class="last"><a href="#">FIRST Fuel</a></li>
+    <br>
   </ul>
   </div>
 <div class="contentcontent">
@@ -75,10 +73,17 @@
 <h1>Food is Important.</h1>
 That's why we promote (and provide) healthy meals as part of our long hours working together as a team.
 <br>
-<blockquote><b>Parents,</b> in return for your contribution to team fuel, your student will be fed at robotics meetings. Supplying the team with proper fuel is an important group effort, as no student should work as hard as they do an an empty stomach. We aim to provide healthy foods (no sodas) to ensure that students are properly nourished during the season, so please keep the term "brain food" in mind. For our hosted competitions (IROC, FLL, and FTC), we are asking for a parent "grill master" that can work the grill for setup volunteers the Friday before the competition. <b>Please note it is a REQUIREMENT for all team members to supply ONE Meal during the season.</b> However, if you wish to contribute to more meals, it would be greatly appreciated. You are expected to provide food for the whole team, current consisting of 71 students and 15 adults.</blockquote>
+<blockquote><b>Parents,</b> in return for your contribution to team fuel, your student will be fed at robotics meetings. Supplying the team with proper fuel is an important group effort, as no student should work as hard as they do an an empty stomach. We aim to provide healthy foods (no sodas) to ensure that students are properly nourished during the season, so please keep the term "brain food" in mind. For our hosted competitions (IROC, FLL, and FTC), we are asking for a parent "grill master" that can work the grill for setup volunteers the Friday before the competition. <b>Please note it is a REQUIREMENT for all team members to supply ONE Meal during the season.</b> However, if you wish to contribute to more meals, it would be greatly appreciated. You are expected to provide food for the whole team, current consisting of 75 students and 15 adults.
 </blockquote>
-<strong>For the 2017 season, we are asking that student eat breakfast at home every day and that meals brought in by families be lunch, not breakfast as it has been in the past.</strong>
-<h1 class="h1link"><a href="/var/www/html/ilite">Feed our team!</a></h1>
+<strong>For the 2018 season, we are asking that student eat breakfast at home every day and that meals brought in by families be lunch, not breakfast as it has been in the past.</strong>
+<br>
+<br>
+	<div style="float: left; width: 100%;">
+	<a class="button thhfour" href="http://www.signupgenius.com/go/30e084faea929a0fc1-first">Feed our team!</a>
+	</div>
+
+<br>
+
 </div>
 </div><!-- end section -->
 
