@@ -124,7 +124,7 @@
                     </div>
                   </div>
 
-									<div class="post-container">
+									<!--<div class="post-container">
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Kristen Giesler</h3><span class="title"><b>Title:</b>Co-Vice President</span>
@@ -135,7 +135,7 @@
 											<br>
                       <b>Favorite Memory:</b> Making waffles for breakfast in our hotel room at competition.
                     </div>
-                  </div>
+                  </div>-->
 
 									<div class="post-container">
                     <div class="post-thumb"><img src="../images/members/Leadership/Nicole C..jpg"></div>
@@ -345,7 +345,7 @@
                       <h3 class="post-title">Gail Drake</h3>
 											<b>Year Joined:</b> 2004
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Team Coach
 											<br>
                       <b>Fun Fact:</b>
 											<br>
@@ -457,7 +457,7 @@
                       <h3 class="post-title">Jesse Knight</h3>
 											<b>Year Joined:</b> 2007
 											<br>
-                      <b>Subteam:</b> Wanderer
+                      <b>Subteam:</b> Build, Programming
 											<br>
                       <b>Fun Fact:</b> I'm an introvert, until I shouldn't be.
 											<br>
@@ -527,7 +527,7 @@
                       <h3 class="post-title">Nicholas Lechner</h3>
 											<b>Year Joined:</b> 2013
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Build
                       <br>
                       <b>Fun Fact:</b> Robotics is Life.
 											<br>
@@ -541,7 +541,7 @@
                       <h3 class="post-title">Noah Lechner</h3>
 											<b>Year Joined:</b>
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Build
                       <br>
                       <b>Fun Fact:</b> I like John Deer
 											<br>
@@ -555,7 +555,7 @@
                       <h3 class="post-title">Larry Laverty</h3>
 											<b>Year Joined:</b>
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Build
                       <br>
                       <b>Fun Fact:</b>
 											<br>
@@ -569,7 +569,7 @@
                       <h3 class="post-title">Leon Davidson</h3>
 											<b>Year Joined:</b>
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Build
                       <br>
                       <b>Fun Fact:</b>
 											<br>
@@ -578,12 +578,12 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/ L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/Mentors/Stephan L..jpg"></div>
                     <div class="post-content">
-                      <h3 class="post-title">Mr. Lechner</h3>
+                      <h3 class="post-title">Stephan Lechner</h3>
 											<b>Year Joined:</b>
 											<br>
-                      <b>Subteam:</b>
+                      <b>Subteam:</b> Build
                       <br>
                       <b>Fun Fact:</b>
 											<br>
@@ -1013,7 +1013,7 @@
                     </div>
                   </div>
 
-                  <div class="post-container">
+                  <!--<div class="post-container">
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Caitlin Colsia</h3>
@@ -1023,7 +1023,7 @@
                       <br>
                       <b>Favorite Memory:</b> First competition(IROC)!
                     </div>
-                  </div>
+                  </div>-->
 
                 </div>
 
@@ -1118,7 +1118,7 @@
                     </div>
                   </div>
 
-									<div class="post-container">
+									<!--<div class="post-container">
                     <div class="post-thumb"><img src="" /></div>
                     <div class="post-content">
                       <h3 class="post-title">Ethan Miles</h3>
@@ -1128,7 +1128,7 @@
                       <br>
                       <b>Favorite Memory:</b> First day of the build season.
                     </div>
-                  </div>
+                  </div>-->
 
 									<div class="post-container">
                     <div class="post-thumb"><img src="../images/members/Electronics/Adam S..jpg" /></div>
@@ -1240,7 +1240,7 @@
                     </div>
                   </div>
 
-                  <div class="post-container">
+                  <!--<div class="post-container">
                     <div class="post-thumb"><img src=""></div>
                     <div class="post-content">
                       <h3 class="post-title">Maggie Harris</h3>
@@ -1250,7 +1250,7 @@
                       <br>
                       <b>Favorite Memory:</b>
                     </div>
-                  </div>
+                  </div>-->
 
                   <div class="post-container">
                     <div class="post-thumb"><img src="../images/members/Graphics/Alyssa S..jpg"></div>
