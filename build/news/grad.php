@@ -64,9 +64,7 @@
 <div class="containernew">
 <div id="breadnav">
   <ul class="crumbs">
-    <li><a href="../index.php">Home</a></li>
-    <li><a href="#">News</a></li>
-    <li class="last"><a href="#">ILITE Class of 2016 Brings Home Honors and Scholarships</a></li>
+    <br>
   </ul>
   </div>
 <div class="contentcontent">
