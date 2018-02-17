@@ -336,11 +336,11 @@
 
                 <div id="tab2">
                   <h1>Mentors</h1>
-                  <div class="team-img"><img src="../images/members/Mentors/Mentors.jpg"></div>
+                  <div class="team-img"><img src="../images/members/mentors/Mentors.jpg"></div>
                   <p>The mentors are a group of volunteers who contribute to the team. They are responsible for supporting and assisting the team members in their respective subteams throughout the season. Mentors provide the opportunity for a better learning environment and the development of necessary skills.</p>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Gail D..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Gail D..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Gail Drake</h3>
 											<b>Year Joined:</b> 2004
@@ -354,7 +354,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb-old"><img src="../images/members/Mentors/FRC_16_.JPG"></div>
+                    <div class="post-thumb-old"><img src="../images/members/mentors/FRC_16_.JPG"></div>
                     <div class="post-content">
                       <h3 class="post-title">Lakshmi Meyappan</h3>
 											<b>Year Joined:</b> 2014
@@ -368,7 +368,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Chris O..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Chris O..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Chris O'Connell</h3>
 											<b>Year Joined:</b>
@@ -396,7 +396,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Dennis L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Dennis L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Dennis Luban</h3>
 											<b>Year Joined:</b> 2009
@@ -438,7 +438,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Jamie L..JPG"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Jamie L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jamie Lechner</h3>
 											<b>Year Joined:</b> 2013
@@ -452,7 +452,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Jesse K..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Jesse K..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Jesse Knight</h3>
 											<b>Year Joined:</b> 2007
@@ -466,7 +466,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Kelley G..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Kelley G..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kelly Giesler</h3>
 											<b>Year Joined:</b> 2014
@@ -522,7 +522,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Nicholas L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Nicholas L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Nicholas Lechner</h3>
 											<b>Year Joined:</b> 2013
@@ -536,7 +536,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Noah L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Noah L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Noah Lechner</h3>
 											<b>Year Joined:</b>
@@ -550,7 +550,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Larry L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Larry L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Larry Laverty</h3>
 											<b>Year Joined:</b>
@@ -564,7 +564,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Leon D..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Leon D..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Leon Davidson</h3>
 											<b>Year Joined:</b>
@@ -578,7 +578,7 @@
                   </div>
 
                   <div class="post-container">
-                    <div class="post-thumb"><img src="../images/members/Mentors/Stephan L..jpg"></div>
+                    <div class="post-thumb"><img src="../images/members/mentors/Stephan L..jpg"></div>
                     <div class="post-content">
                       <h3 class="post-title">Stephan Lechner</h3>
 											<b>Year Joined:</b>
