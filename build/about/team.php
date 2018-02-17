@@ -336,7 +336,7 @@
 
                 <div id="tab2">
                   <h1>Mentors</h1>
-                  <div class="team-img"><img src="../images/members/Mentors/Mentors.png"></div>
+                  <div class="team-img"><img src="../images/members/Mentors/Mentors.jpg"></div>
                   <p>The mentors are a group of volunteers who contribute to the team. They are responsible for supporting and assisting the team members in their respective subteams throughout the season. Mentors provide the opportunity for a better learning environment and the development of necessary skills.</p>
 
                   <div class="post-container">
