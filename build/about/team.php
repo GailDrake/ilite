@@ -125,7 +125,7 @@
                   </div>
 
 									<div class="post-container">
-                    <div class="post-thumb"><img src="../../build/images/members/Leadership/KristenG.png"></div>
+                    <div class="post-thumb"><img src="../images/members/Leadership/KristenG.png"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kristen Giesler</h3><span class="title"><b>Title:</b>Co-Vice President</span>
 											<br>
