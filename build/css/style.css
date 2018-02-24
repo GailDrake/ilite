@@ -21965,7 +21965,7 @@ nav ul li > a:hover {
 }
 nav ul li > a:not(:only-child):after {
   padding-left: 4px;
-  content: ' â–¾';
+  content: ' Ã¢â€“Â¾';
 }
 nav ul li ul li {
   width: 190px;
