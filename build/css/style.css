@@ -17909,7 +17909,7 @@ ul {
 ol ol,
 ol ul,
 ul ol,
-ul 1 {
+ul {
   margin-bottom: 0;
 }
 .list-unstyled {
@@ -19986,7 +19986,7 @@ tbody.collapse.in {
   transition-duration: .35s;
   -webkit-transition-property: height, visibility;
   -o-transition-property: height, visibility;
-  transition-property: height, visibility
+  transition-property: height, visibility;
   width: 0;
   height: 0;
   margin-left: 2px;
@@ -23191,7 +23191,6 @@ width: auto;
 padding-left: 25px;
 padding-left: 25px;
 }
-<!-- Media page -->
 .imageGrid {
   line-height: 0;
   width: 100%;
