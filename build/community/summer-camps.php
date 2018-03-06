@@ -37,7 +37,7 @@
             <div class="home-image-wrap clear">
               <div class="home-image-inner-content">
                 <div class="headline-title">
-                  <h1>ILITE 2017 Summer Camps</h1>
+                  <h1>ILITE 2018 Summer Camps</h1>
                 </div>
                 <div class="head-image__subheader">
                   Back by popular demand are both old and inaugural camps.
@@ -58,10 +58,9 @@
 <div class="campbox-pdf"><a href="../documents/campflyer.pdf" class="pdflink"><i class="fa fa-file-text"></i> 2016 Camp Flyer</a></div>
 <div class="campbox-pdf"><a href="#lego" class="pdflink"><i class="fa fa-info-circle"></i>ILITE Camps</a></div>
 <div class="campbox-pdf"><a href="#battlefield" class="pdflink"> <i class="fa fa-list"></i>Battlefield HS Camps</a></div> -->
-          <h1>ILITE Robotics Camps</h1>The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu<br>
+          <h1>ILITE Robotics Camps</h1>The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu<br><b><a href ="https://gofan.co/app/school/VA25529/Academic-Camp"> SIGNUP HERE.</b></a>
           <br>
           <br>
-          x
           <table class="summercamptable" style="margin-top:-30px;">
             <caption>
               Week of: June 20st - June 23rd
@@ -72,8 +71,8 @@
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
-                <th>Sign Up</th>
-                <th>Accepted Students (Payment Received in Green)</th>
+                <!-- <th>Sign Up</th> kill -->
+                <!-- <th>Accepted Students (Payment Received in Green)</th> -->
                 <th>Photos/Videos</th>
               </tr>
             </thead>
@@ -85,12 +84,12 @@
                 </td>
                 <td>Gr 1-8</td>
                 <td>$180</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td>
+                </td> -->
                 <td>
                   <a href="https://www.dropbox.com/sh/n0te6czkbu3zy45/AABok-WMSv8FvzotnxU_WTufa?dl=0">Day 1</a><br>
                   <a href="https://www.dropbox.com/sh/ot744jcbh9mj2xq/AABLt_I5MRmA4Ff4iuZd5Oj7a?dl=0">Day 2</a><br>
@@ -105,12 +104,12 @@
                 </td>
                 <td>Gr 6-12</td>
                 <td>$160</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td>
+                </td> -->
                 <td>
                   <a href="https://www.dropbox.com/sh/7tcramwg58jj5ch/AACnXwv5F9KhsieZ5cpQYWOla?dl=0">Day 1</a><br>
                   <a href="https://www.dropbox.com/sh/ygt8hturdcfp4wf/AAAKlCPg3Yna5CsPZ5avXfyja?dl=0">Day 2</a><br>
@@ -125,12 +124,12 @@
                 </td>
                 <td>Gr 1-4</td>
                 <td>$180</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td>
+                </td> -->
                 <td>
                   <a href="https://www.dropbox.com/sh/0f6pg7w2p7sx8zf/AABCyq9ZCzgPhO3E8SQNKfX9a?dl=0">Day 1</a><br>
                   <a href="https://www.dropbox.com/sh/g6ta2vwtqj90vca/AAC-SVy9vW7WuqVU9-x1aFVja?dl=0">Day 2</a><br>
@@ -146,12 +145,12 @@
                 </td>
                 <td>Gr 3+</td>
                 <td>$160</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td>
+                </td> -->
                 <td>
                   <a href="https://www.dropbox.com/sh/ceez4i9tqgz8wzv/AAAeN2NV5ubMt8SptEB0o25Ha?dl=0">Day 1</a><br>
                   <a href="https://www.dropbox.com/sh/4o5r7rdn5pvlylf/AAD4gtWkyeNT-btqrx5yNs0sa?dl=0">Day 2</a><br>
@@ -172,8 +171,8 @@
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
-                <th>Sign Up</th>
-                <th>Accepted Students (Payment Received in Green)</th><!-- <th>Photos/Videos</th>-->
+                <!-- <th>Sign Up</th>
+                <th>Accepted Students (Payment Received in Green)</th><th>Photos/Videos</th> -->
               </tr>
             </thead>
             <tbody>
@@ -184,12 +183,12 @@
                 </td>
                 <td>Gr K-6</td>
                 <td>$180</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td>
+                </td> -->
                 <!--
                 <td>
                  <a href="https://www.dropbox.com/sh/n0te6czkbu3zy45/AABok-WMSv8FvzotnxU_WTufa?dl=0">Day 1</a><br>
@@ -207,12 +206,12 @@
                 </td>
                 <td>Gr 6-8</td>
                 <td>$180</td>
-                <td>
+                <!--<td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td><!--  <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Day%201%20AM/Girls%20in%20STEM">Day 1</a><br>
+                </td>  <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Day%201%20AM/Girls%20in%20STEM">Day 1</a><br>
                <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
                <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
                <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
@@ -226,12 +225,12 @@
                 </td>
                 <td>Gr 4-6</td>
                 <td>$180</td>
-                <td>
+               <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td><!--   <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20PM/Intro%20to%20Programming">Day 1</a><br>
+                </td>   <td><a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%201%20PM/Intro%20to%20Programming">Day 1</a><br>
                <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%202%20PM/Intro%20to%20Programming">Day 2</a><br>
                <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%203%20PM/Intro%20to%20Programming">Day 3</a><br>
                <a href="https://www.dropbox.com/home/2017/2017%20Summer%20Camps/Week%201/Day%204%20PM/Intro%20to%20Programming">Day 4</a><br>
@@ -250,8 +249,8 @@
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
-                <th>Sign Up</th>
-                <th>Accepted Students (Payment Received in Green)</th><!-- <th>Photos/Videos</th>-->
+                <!-- <th>Sign Up</th>
+                <th>Accepted Students (Payment Received in Green)</th><th>Photos/Videos</th> -->
               </tr>
             </thead>
             <tbody>
@@ -264,12 +263,12 @@
                 </td>
                 <td>Gr 6-12</td>
                 <td>$160</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td><!--<td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
+                </td><td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
               </tr>
             </tbody>
           </table><br>
@@ -283,8 +282,8 @@
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
-                <th>Sign Up</th>
-                <th>Accepted Students (Payment Received in Green)</th><!--    <th>Photos/Videos</th>-->
+                <!-- <th>Sign Up</th>
+                <th>Accepted Students (Payment Received in Green)</th>   <th>Photos/Videos</th> -->
               </tr>
             </thead>
             <tbody>
@@ -297,12 +296,12 @@
                 </td>
                 <td>Gr 6-12</td>
                 <td>$160</td>
-                <td>
+                <!-- <td>
                   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeduQM7ljTSeF_EfpinNt8taiqepCxS9zUdzR9IlH2myvomLQ/viewform">Sign Up Link</a>
                 </td>
                 <td>
                   <a href="https://docs.google.com/spreadsheets/d/1frfag9N-BtEtTTdSdmKcf3AWoG1fu0eZ_CXs2mjD5Fw/pubhtml?gid=1823755489&amp;single=true&amp;widget=true&amp;headers=false">Accepted Students</a>
-                </td><!-- <td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td>-->
+                </td><td><a href="https://www.dropbox.com/sh/obl30lawhoaltmt/AAAKx4ByyjmBV6GvbZi4ToA_a?dl=0">Dropbox</a></td> -->
               </tr>
             </tbody>
           </table><span class="red">*The Cyber Defense Camp will span 5 days, June 27th to June 30th.</span><br>
@@ -347,10 +346,10 @@ and/or have a little experience with Java programming.
 This would involve coding in a text-based language such as Java.</p></div> -->
           <div class="campbox">
             <p></p>
-            <h1>SIGN-UP AND PAYMENT PROCESSES</h1>PWCS Policy is as follows. Please register for camps using the links in the above table. Payments will be processed through mailed checks. Checks should be made out to <b>Battlefield High School</b> with the <b>student name and camp in the memo line</b>. Please mail your check to to Professor Drake at <b>15000 Graduation Drive || Haymarket VA 20169</b>. Per PWCS policy, there are NO refunds. <a id="battlefield" name="battlefield"></a>
+            <h1><a href="https://gofan.co/app/school/VA25529/Academic-Camp">SIGN-UP AND PAYMENT PROCESSES</a></h1>Please sign-up and pay for your camp using our oniline process. Both sign-up and payment will happen in the same transaction. <b><a href ="https://gofan.co/app/school/VA25529/Academic-Camp">SIGNUP HERE.</b></a>
             <p></p>
           </div>
-          <h1>Battlefield High School Affiliated Camps</h1>The camps below are affiliated with Battlefield High School. Questions or concerns about these camps should be directed to Mr. Joseph Huddle at huddlejc@pwcs.edu or by phone at 703.743.3702.<br>
+          <!-- <h1>Battlefield High School Affiliated Camps</h1>The camps below are affiliated with Battlefield High School. Questions or concerns about these camps should be directed to Mr. Joseph Huddle at huddlejc@pwcs.edu or by phone at 703.743.3702.<br>
           <br>
           <table class="summercamptable">
             <caption>
@@ -525,7 +524,7 @@ This would involve coding in a text-based language such as Java.</p></div> -->
                 </td>
               </tr>
             </tbody>
-          </table>
+          </table> -->
         </div><!-- end section -->
         <?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a><!-- end scroll to top of the page-->
       </div><?php include "../includes/side-menu.php" ?><!-- ######### JS FILES ######### -->
