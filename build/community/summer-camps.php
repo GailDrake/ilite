@@ -24,6 +24,11 @@
   <link href="../css/simpleline-icons/simple-line-icons.css" media="screen" rel="stylesheet" type="text/css">
   <link href="../js/animations/css/animations.min.css" media="all" rel="stylesheet" type="text/css">
   <link href="../responsive-layouts.css" media="screen" rel="stylesheet" type="text/css">
+  <style>
+    .summercamptable tr td {
+      width:30%;
+    }
+  </style>
   <script async defer src="../js/map.js">
   </script>
 </head>
@@ -61,7 +66,7 @@
           <h1>ILITE Robotics Camps</h1>The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu
           <br><br>  
           <center>
-            <a class = "button thhthree" href ="https://gofan.co/app/school/VA25529/Academic-Camp">SIGNUP HERE</a>
+            <a target = "_blank" class = "button thhthree" href ="https://gofan.co/app/school/VA25529/Academic-Camp">SIGNUP HERE</a>
           </center>
           <br>
           <br>
