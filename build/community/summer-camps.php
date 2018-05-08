@@ -221,7 +221,7 @@
           </table><br>
           <table class="summercamptable">
             <caption>
-              Week of: July 18th - July 22nd, 2018
+              Week of: June 18th - June 22nd, 2018
             </caption>
             <thead>
               <tr>
