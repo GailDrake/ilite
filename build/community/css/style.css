@@ -12541,6 +12541,7 @@ h6.dbclord {
   background: #3D8C29;
   padding: 16px 35px;
   border-radius: 3px;
+  border: 1px solid #3d8c29;
   white-space: nowrap;
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
@@ -12562,6 +12563,10 @@ h6.dbclord {
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
   transition: all 0.3s ease;
+}
+
+.button.thhthree.buttonblock {
+  width: 80%;
 }
 .button.ththree:hover {
   color: #fff;
