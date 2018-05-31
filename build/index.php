@@ -59,7 +59,7 @@
             Community
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="nav__community__wrapper">
-              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a>  <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='/community/hosted.php'>Hosted Events</a>
+              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a> <a class="nav__link__target" href='/community/surveys.php'>Summer Camp Surveys</a> <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='/community/hosted.php'>Hosted Events</a>
             </div>
           </div><a class="nav__link no-caret" href='/media/media.php'>Media</a>
           <div class="nav__link action" id="nav__involved">
