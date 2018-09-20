@@ -252,7 +252,39 @@
               </tr>
             </tbody>
           </table>
-          <br>
+          <br/> <div>
+            <div class="summer-camps__slideshows">
+              <h2>Slideshows:</h2>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w1_d1_am.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w1_d1_pm.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w1_d2_am.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w1_d2_pm.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w1_d3_am.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w2_d1-2_am.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls">
+                <source src="../images/camps/summer-camps_w2_d1-2_pm.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+            </div>
+          <br/>
           <div class="campbox">
             <p><img src="../images/camps/lego.jpg"></p>
             <h1>LEGO EV3 ROBOTICS</h1>Students who attend ILITE’s LEGO EV3 Summer Camp design, build, and program awesome robots using state-of-the-art LEGO robotics technology: the powerful MINDSTORMS EV3 system. This exciting robotics camp challenges students to push robots to the limits by completing various tasks. The capstone of the camp is a mini competition. ILITE’s LEGO EV3 Camp gives students the opportunity to learn and have fun at the same time. <a id="mh" name="mh"></a>
