@@ -96,7 +96,7 @@
 Professor Drake</i>
 <div class="center-button">
 <a href="https://docs.google.com/document/d/1ElAiufYy49WOX8wY5Z5nODxnJxB0iWm23-Pf2WvJIok/edit#bookmark=id.gjdgxs" class="button thhthree">CONTINUE TO STUDENT HANDBOOK</a>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfon-yjYkxPnEfffBKT88eV2etCrcYsjJJUrz2wPdhhVtASlA/viewform" class="button thhthree">CONTINUE TO APPLICATION FORM (OR COMPLETE BELOW)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0M8P2sX1h9lrTdBvJpn7O0wFtZDFWjgNOHBz4g7WneJiB6g/viewform?usp=sf_link" class="button thhthree">CONTINUE TO APPLICATION FORM (OR COMPLETE BELOW)
 </a><br><br><br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0M8P2sX1h9lrTdBvJpn7O0wFtZDFWjgNOHBz4g7WneJiB6g/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" target="_blank">
