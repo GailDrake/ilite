@@ -28,16 +28,6 @@
   <script async defer src="../js/map.js">
   </script>
 </head>
-<<<<<<< HEAD
-=======
-
-<style>
-	center ul li {
-		font-size: 22px;
-	}
-</style>
-
->>>>>>> 7e35e22d53c366a9a4cf30b98f695dbdd1632a16
 <body>
   <div class="site_wrapper">
     <div class="right-0" id="wrap">
