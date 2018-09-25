@@ -264,23 +264,23 @@
                 <source src="../images/camps/summer-camps_w1_d1_pm.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w2_d1-2_am-poster.png">
                 <source src="../images/camps/summer-camps_w2_d1-2_am.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w2_d1-2_pm-poster.png">
                 <source src="../images/camps/summer-camps_w2_d1-2_pm.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w1_d2_am-poster.png">
                 <source src="../images/camps/summer-camps_w1_d2_am.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w1_d2_pm-poster.png">
                 <source src="../images/camps/summer-camps_w1_d2_pm.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w1_d3_am-poster.png">
                 <source src="../images/camps/summer-camps_w1_d3_am.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
