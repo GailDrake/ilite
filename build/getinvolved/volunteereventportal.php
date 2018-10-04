@@ -6,7 +6,7 @@
 <html class="no-js" lang="en-gb">
 <!--<![endif]-->
 <head>
-	<title>ILITE Robotics | Home</title>
+	<title>ILITE Robotics | Volunteer Event Portal</title>
 	<meta charset="utf-8">
 	<meta content="IE=edge" http-equiv="X-UA-Compatible">
 	<meta content="" name="keywords">
