@@ -95,7 +95,7 @@
 <i>Respectfully,<br>
 Professor Drake</i>
 <div class="center-button">
-<a href="https://docs.google.com/document/d/1ElAiufYy49WOX8wY5Z5nODxnJxB0iWm23-Pf2WvJIok/edit#bookmark=id.gjdgxs" class="button thhthree">CONTINUE TO STUDENT HANDBOOK</a>
+<a href="https://docs.google.com/document/d/1SFH2Hs9oXi3cOYfFEArPILBA2U-OafPdp_VbHpdu3SI/edit?usp=sharing" target="_blank" class="button thhthree">CONTINUE TO STUDENT HANDBOOK</a>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0M8P2sX1h9lrTdBvJpn7O0wFtZDFWjgNOHBz4g7WneJiB6g/viewform?usp=sf_link" class="button thhthree">CONTINUE TO APPLICATION FORM (OR COMPLETE BELOW)
 </a><br><br><br>
 
