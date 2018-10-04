@@ -28,16 +28,6 @@
   <script async defer src="../js/map.js">
   </script>
 </head>
-<<<<<<< HEAD
-=======
-
-<style>
-	center ul li {
-		font-size: 22px;
-	}
-</style>
-
->>>>>>> 7e35e22d53c366a9a4cf30b98f695dbdd1632a16
 <body>
   <div class="site_wrapper">
     <div class="right-0" id="wrap">
@@ -79,8 +69,10 @@
              		<center>
              			<h1>special thanks to the following people</h1>
              			<ul>
-             				<li>Paul Burgess IV</li>
+                    <li>George Burgess IV</li>
              				<li>Patrick Boyd</li>
+                    <li>Garland Family</li>
+                    <li>Welch Family</li>
              			</ul>
              		</center>
                </div>
@@ -112,15 +104,6 @@
               <span>American Stripping Co., or ASCo, is a company that specializes in blast cleaning that allows surfaces to be powder coated. They have sponsored us every year and are that secret weapon that gives our robots their signature look.</span>
             </div>
           </div>
-
-          <!--<hr class="sponsors__hr">
-					<div class="sponsorsmall">
-            <div class="sponsor__image"><img src="../images/sponsors/azosai.jpg"></div>
-            <div class="sponsor__text">
-              <!Azos Ai
-              <span>Azos Description here</span>
-            </div>
-          </div>-->
 
            <!--<hr class="sponsors__hr">
 					<div class="sponsorsmall">
@@ -320,43 +303,52 @@
             </div>
           </div>
 
+          <hr class="sponsors__hr" />
           <div class="sponsorsmall">
           	<div class="sponsor__image">
           		<img src="../images/sponsors/ABLE.png">
           	</div>
           	<div class="sponsor__text">
+              <!--ABLE-->
           		<span>
           			Able Moving and Storage is a well known, and reliable moving and storage company with over 50 company owned vans and trucks.
           		</span>
           	</div>
           </div>
 
-             <hr class="sponsors__hr" />
-
-
+          <hr class="sponsors__hr" />
           <div class="sponsorsmall">
           	<div class="sponsor__image">
           		<img src="../images/sponsors/comcast.png">
           	</div>
           	<div class="sponsor__text">
+              <!--Comcast-->
           		<span>
           			Comcast Corporation is a company that works with media and technology to provide high speed internet and phone providers under the XFINITY brand.
           		</span>
           	</div>
           </div>
 
-            <hr class="sponsors__hr" />
-
-
+          <hr class="sponsors__hr" />
           <div class="sponsorsmall">
           	<div class="sponsor__image">
           		<img src="../images/sponsors/micron.png">
           	</div>
           	<div class="sponsor__text">
+              <!--Micron-->
           		<span>
           			Micron Technology gives the industry the broadest portfolio, and are the only company to make major memory and storage technologies.
           		</span>
           	</div>
+          </div>
+
+          <hr class="sponsors__hr">
+					<div class="sponsorsmall">
+            <div class="sponsor__image"><img src="../images/sponsors/azosai.jpg"></div>
+            <div class="sponsor__text">
+              <!--Azos Ai-->
+              <span>Azos AI is a privately held corporation that provides embedded intelligence for the IT industry using expertise in aritificial intelligence, application development, and communications.</span>
+            </div>
           </div>
 
           <hr class="sponsors__hr">
