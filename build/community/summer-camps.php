@@ -65,19 +65,19 @@
 <div class="campbox-pdf"><a href="#battlefield" class="pdflink"> <i class="fa fa-list"></i>Battlefield HS Camps</a></div> -->
           <h1>ILITE Robotics Camps</h1>The camps below are hosted by ILITE Robotics. Questions or concerns about these camps should be directed to Gail Drake at drakegd@pwcs.edu
           <br><br>  
-          <center>
+          <!-- <center>
             <a target = "_blank" class = "button thhthree" href ="https://gofan.co/app/school/VA25529/Academic-Camp">SIGNUP HERE</a>
           </center>
           <br>
-          <br>
+          <br> -->
           <br>
           <table class="summercamptable" style="margin-top:-30px;">
             <caption>
-              Week of: June 12th - June 15th, 2018
+              <!-- Week of: June 12th - June 15th, 2018 -->
             </caption>
             <thead>
               <tr>
-                <th>Times</th>
+                <!-- <th>Times</th> -->
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
@@ -85,7 +85,7 @@
             </thead>
             <tbody>
               <tr>
-                <td>9AM-Noon</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#lego">Lego EV3 Robotics</a>
                 </td>
@@ -99,7 +99,7 @@
                 </td> -->
               </tr>
               <tr>
-                <td>9AM-Noon</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#boe">Boe-Bot Camp</a>
                 </td>
@@ -113,7 +113,7 @@
                 </td> -->
               </tr>
               <tr>
-                <td>1PM-4PM</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#mh">STEM 1: Matter Hackers</a>
                 </td>
@@ -127,7 +127,7 @@
                 </td> -->
               </tr>
               <tr>
-                <td>1PM-4PM</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#basics">Basics of Programming</a>
                 </td>
@@ -138,11 +138,11 @@
           </table><br>
           <table class="summercamptable">
             <caption>
-              Week of: June 18th - June 21st, 2018
+              <!-- Week of: June 18th - June 21st, 2018 -->
             </caption>
             <thead>
               <tr>
-                <th>Times</th>
+                <!-- <th>Times</th> -->
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
@@ -150,7 +150,7 @@
             </thead>
             <tbody>
               <tr>
-                <td>9AM-Noon</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#lego">FLL Lego EV3 Robotics</a>
                 </td>
@@ -158,7 +158,7 @@
                 <td>$150</td>
               </tr>
               <tr>
-                <td>9AM-Noon</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#girls">Girls in STEM</a>
                 </td>
@@ -177,7 +177,7 @@
                </td> -->
               </tr>
               <tr>
-                <td>1PM-4PM</td>
+                <!-- <td>TBD</td> -->
                 <td>
                   <a href="#ii">STEM 2: Imagination Infusion</a>
                 </td>
@@ -188,11 +188,11 @@
           </table><br>
           <table class="summercamptable">
             <caption>
-              Week of: June 12th - June 15th, 2018
+              <!-- Week of: June 12th - June 15th, 2018 -->
             </caption>
             <thead>
               <tr>
-                <th>Times</th>
+                <!-- <th>Times</th> -->
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
@@ -202,9 +202,9 @@
             </thead>
             <tbody>
               <tr>
-                <td>
-                  1PM-5PM<a id="lego" name="lego"></a>
-                </td>
+                <!-- <td>
+                  TBD
+                </td> -->
                 <td>
                   <a href="#cyber">Cyber Defense</a><span class="red">*</span>
                 </td>
@@ -221,11 +221,11 @@
           </table><br>
           <table class="summercamptable">
             <caption>
-              Week of: June 18th - June 22nd, 2018
+              <!-- Week of: June 18th - June 22nd, 2018 -->
             </caption>
             <thead>
               <tr>
-                <th>Times</th>
+                <!-- <th>Times</th> -->
                 <th>Camp Name</th>
                 <th>Grade Levels/Experience Level</th>
                 <th>Price</th>
@@ -235,9 +235,9 @@
             </thead>
             <tbody>
               <tr>
-                <td>
-                  1PM-5PM<a id="lego" name="lego"></a>
-                </td>
+                <!-- <td>
+                  TBD
+                </td> -->
                 <td>
                   <a href="#cyber">Advanced Cyber Defense</a><span class="red">*</span>
                 </td>
@@ -252,37 +252,39 @@
               </tr>
             </tbody>
           </table>
+          <p>*Dates have not yet been determined</p>
           <br/> <div>
             <div class="summer-camps__slideshows">
-              <h2>Slideshows:</h2>
-              <video controls="controls">
+              <h2>2018 Slideshows:</h2>
+              <video controls="controls" poster="../images/camps/w1_d1_am-poster.png">
                 <source src="../images/camps/summer-camps_w1_d1_am.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w1_d1_pm-poster.png">
                 <source src="../images/camps/summer-camps_w1_d1_pm.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
-                <source src="../images/camps/summer-camps_w1_d2_am.mp4" type="video/mp4"/>
-                Your browser doesn't support the HTML5 video element.
-              </video>
-              <video controls="controls">
-                <source src="../images/camps/summer-camps_w1_d2_pm.mp4" type="video/mp4"/>
-                Your browser doesn't support the HTML5 video element.
-              </video>
-              <video controls="controls">
-                <source src="../images/camps/summer-camps_w1_d3_am.mp4" type="video/mp4"/>
-                Your browser doesn't support the HTML5 video element.
-              </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w2_d1-2_am-poster.png">
                 <source src="../images/camps/summer-camps_w2_d1-2_am.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
-              <video controls="controls">
+              <video controls="controls" poster="../images/camps/w2_d1-2_pm-poster.png">
                 <source src="../images/camps/summer-camps_w2_d1-2_pm.mp4" type="video/mp4"/>
                 Your browser doesn't support the HTML5 video element.
               </video>
+              <video controls="controls" poster="../images/camps/w1_d2_am-poster.png">
+                <source src="../images/camps/summer-camps_w1_d2_am.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls" poster="../images/camps/w1_d2_pm-poster.png">
+                <source src="../images/camps/summer-camps_w1_d2_pm.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+              <video controls="controls" poster="../images/camps/w1_d3_am-poster.png">
+                <source src="../images/camps/summer-camps_w1_d3_am.mp4" type="video/mp4"/>
+                Your browser doesn't support the HTML5 video element.
+              </video>
+            <a id="lego" name="lego"></a>
             </div>
           <br/>
           <div class="campbox">
@@ -326,7 +328,7 @@ and/or have a little experience with Java programming.
 This would involve coding in a text-based language such as Java.</p></div> -->
           <div class="campbox">
             <p></p>
-            <h1><a href="https://gofan.co/app/school/VA25529/Academic-Camp">SIGN-UP AND PAYMENT PROCESSES</a></h1>Please sign-up and pay for your camp using our oniline process. Both sign-up and payment will happen in the same transaction. <b><a href ="https://gofan.co/app/school/VA25529/Academic-Camp">SIGNUP HERE.</b></a>
+            <h1><a href="https://gofan.co/app/school/VA25529/Academic-Camp">SIGN-UP AND PAYMENT PROCESSES</a></h1>Please sign-up and pay for your camp using our online process. Both sign-up and payment will happen in the same transaction. <!--<b><a href ="https://gofan.co/app/school/VA25529/Academic-Camp">SIGNUP HERE.</b></a>-->
             <p></p>
           </div>
           <!-- <h1>Battlefield High School Affiliated Camps</h1>The camps below are affiliated with Battlefield High School. Questions or concerns about these camps should be directed to Mr. Joseph Huddle at huddlejc@pwcs.edu or by phone at 703.743.3702.<br>
