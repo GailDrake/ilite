@@ -57,6 +57,43 @@
           <p>At ILITE Robotics, we have promising videographers who take lots of film of our team’s activities. They capture our effervescent and interesting teammates working, learning, and even playing. ILITE media can be viewed below.</p>
           <div class="imageGrid">
 
+
+            <a href="https://www.dropbox.com/sh/slw0srbj68cuqce/AAA87ZVnyJmZeh3sOVkzZS7Ya/FRC%20Competition/Worlds?dl=0&subfolder_nav_tracking=1">
+            <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+              <div class="textWrapper">
+                <h2>World Championship 2018</h2>
+                <div class="content"></div>
+              </div>
+            </div>
+            </a>
+
+            <a href="https://www.dropbox.com/sh/slw0srbj68cuqce/AAA4f5wfXL0RLTbhdL2DipWca/FRC%20Competition/District%20Champs?dl=0&subfolder_nav_tracking=1">
+            <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+              <div class="textWrapper">
+                <h2>Chesapeake District Championships 2018</h2>
+                <div class="content"></div>
+              </div>
+            </div>
+            </a>
+
+            <a href="https://www.dropbox.com/sh/slw0srbj68cuqce/AAA-vesfsbGy1d2ga8FkVb4Ra/STEAM%20EXPO?dl=0&subfolder_nav_tracking=1s">
+            <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+              <div class="textWrapper">
+                <h2>STEAM Expo 2018</h2>
+                <div class="content"></div>
+              </div>
+            </div>
+            </a>
+
+            <a href="https://www.dropbox.com/sh/slw0srbj68cuqce/AAAV54Fd78MFhY3AVd4lw_I4a/IROC%202017?dl=0&subfolder_nav_tracking=1">
+            <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
+              <div class="textWrapper">
+                <h2>IROC 2017</h2>
+                <div class="content"></div>
+              </div>
+            </div>
+            </a>
+
             <a href="https://www.dropbox.com/sh/bbr2288z656ubhm/AADWSERCz8P0Ki5G4Wg93TOJa/FRC%20Robotics/2017%20World%20Championships?dl=0">
             <div class="tile" style="background-image: url('/images/headers/generic-header.jpg');">
               <div class="textWrapper">
