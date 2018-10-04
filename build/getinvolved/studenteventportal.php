@@ -70,7 +70,7 @@
                     </ul>
                 </div>
                 <div class="contentcontent">
-                    <strong>Upcoming Events: September, 2017</strong>
+                    <strong>Upcoming Events: October, 2018</strong>
                     <table class="table table-bordered">
                         <thead>
                             <tr>
@@ -83,71 +83,59 @@
                         </thead>
                         <thead>
                             <tr>
-                                <td>September 23, 2017</td>
-                                <td>Girls In Aviation</td>
-                                <td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions on the basic programming language "basic", and learn the basics of robotics. </span></td>
-                                <td><a href="https://www.wai.org/giad" target="_blank">Manassas Regional Airport</a><br></br><a href="https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191 target="
-                                        _blank "">10600 Harry J Parrish Blvd <br> Manassas, VA 20110</a></td>
-                                <td><strong>None</strong></td>
+                                <td>October 20, 2018</td>
+                                <td>IROC (ILITE Robotics Off Season Challenge)</td>
+                                <td><span style="font-weight: 400;">ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics
+                                    Competition) game. The 2018 game, FIRST Power Up, is an arcade based game in which robots place "Power Cubes" on scales and swiches to earn points per the second.  At the end of the game, robots can hang for extra points for the endgame.</td></span></td>
+                                <td><a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a><br></br>
+                                    <a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="
+                                        _blank " ">15000 Graduation Dr <br> Haymarket, VA 20169</a></td>
+								<td><strong><a href="https://www.signupgenius.com/go/30e084faea929a0fc1-ilite4" target="_blank">Volunteer</a>
+								<br /><br />
+								<a href="https://www.signupgenius.com/go/30e084faea929a0fc1-iroc3" target="_blank">Food</a>
+								</strong></td>
                             </tr>
                         </thead>
                     </table>
 
 
 
-                    <div style="margin-top: 10.5px;"></div>
-                    <strong>Upcoming Events: 2017-2018</strong>
-                    <table class="table table-bordered">
+                    <div style="margin-top: 10.5px; "></div>
+                    <strong>Upcoming Events: 2018-2019</strong>
+                    <table class="table table-bordered ">
                         <thead>
                             <tr>
                                 <th>Date</th>
                                 <th>Event Name</th>
-                                <th style="width: 400px;">Description</th>
+                                <th style="width: 400px; ">Description</th>
                                 <th>Location</th>
-                                <th> Sign Up</th>
+                                <th>Sign Up</th>
                             </tr>
                         </thead>
                         <thead>
                             <tr>
-                                <td>September 23, 2017</td>
+                                <td>October 13, 2018</td>
                                 <td>Girls In Aviation</td>
-                                <td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions on the basic programming language "basic", and learn the basics of robotics. </span></td>
-                                <td><a href="https://www.wai.org/giad" target="_blank">Manassas Regional Airport</a><br></br><a href="https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191 target="
-                                        _blank "">10600 Harry J Parrish Blvd<br> Manassas, VA 20110</a></td>
+                                <td><span style="font-weight: 400; ">This informative workshop will feature student and alumni-led sessions on the basic programming language "basic ", and learn the basics of robotics. </span></td>
+                                <td><a href="https://www.wai.org/giad " target="_blank "><!--Manassas Regional Airport</a><br></br><a href="https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191"
+                                        target="_blank " ">--10600 Harry J Parrish Blvd<br> Manassas, VA 20110--></a></td>
                                 <td><strong>None</strong></td>
-                            </tr>
-                            <tr>
-                                <td>October 15, 2017</td>
-                                <td>Payton's Walk</td>
-                                <td><span style="font-weight: 400;">Join our walk in support of the Payton Project,and freeze bullying. Run or walk while enjoying live music, facepainting, refreshments, and much more!</span></td>
-                                <td><a href="http://paytonsproject.org/" target="_blank">Marris Pavillion </a><br></br><a href="https://www.google.com/maps/place/Morris+Pavillion/@36.7777774,-103.9680488,4z/data=!4m8!1m2!2m1!1sMarris+Pavilion!3m4!1s0x8859f6dd77fba7b5:0x3923579b7f3f1955!8m2!3d35.6119634!4d-82.4401103"
-                                        target="_blank">East Ln<br> Swannanoa, NC 28778</a></td>
-                                <td><strong>Coming soon</strong></td>
-                            </tr>
-                            <tr>
-                                <td>October 21, 2017</td>
-                                <td>IROC Competition</td>
-                                <td>ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics
-                                    Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
-                                <td><a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield Highschool</a><br></br><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068"
-                                        target="_blank">15000 Graduation Dr<br> Haymarket, VA 20169</a></td>
-                                <td><a href="http://irocoffseason.org/registervolunteer/volunteer.php">Sign Up</a></td>
                             </tr>
                             <tr>
                                 <td>October 28, 2017</td>
                                 <td>Air and Scare</td>
                                 <td>Explore the spooky side of air and space at Air and Scare, our annual Halloween event at the Steven F. Udvar-Hazy Center in Chantilly, Va. Participate in creepy crafts, spooky science experiments, and other Halloween-themed
                                     activities. Arrive in costume to get into the Halloween spirit and enjoy safe indoor trick-or-treating.</td>
-                                <td><a href="https://airandspace.si.edu/udvar-hazy-center" target="_blank">Udvar-Hazy Center</a><br></br><a href="https://www.google.com/maps/place/Steven+F.+Udvar-Hazy+Center/@38.9109231,-77.4463962,17z/data=!3m1!4b1!4m5!3m4!1s0x89b646eb32642073:0xb15e71e7680ccaa8!8m2!3d38.9109189!4d-77.4442075"
-                                        target="_blank">14390 Air and Space Museum Pkwy<br> Chantilly, VA 20151</a></td>
+                                <td><a href="https://airandspace.si.edu/udvar-hazy-center " target="_blank ">Udvar-Hazy Center</a><br></br><a href="https://www.google.com/maps/place/Steven+F.+Udvar-Hazy+Center/@38.9109231,-77.4463962,17z/data=!3m1!4b1!4m5!3m4!1s0x89b646eb32642073:0xb15e71e7680ccaa8!8m2!3d38.9109189!4d-77.4442075 "
+                                        target="_blank ">14390 Air and Space Museum Pkwy<br> Chantilly, VA 20151</a></td>
                                 <td><strong>Coming soon</strong></td>
                             </tr>
                             <tr>
                                 <td>January 27, 2018</td>
                                 <td>HayMaker STEAM Expo</td>
                                 <td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
-                                <td><a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield Highschool</a><br></br><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068"
-                                        target="_blank">15000 Graduation Dr<br> Haymarket, VA 20169</a></td>
+                                <td><a href="https://battlefieldhs.pwcs.edu/ " target="_blank ">Battlefield Highschool</a><br></br><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068 "
+                                        target="_blank ">15000 Graduation Dr<br> Haymarket, VA 20169</a></td>
                                 <td><strong>Coming soon</strong></td>
                             </tr>
                         </thead>
@@ -156,8 +144,8 @@
 
 
 			</div>
-			<?php include "../includes/footer.php" ?>
-			<a href="#" class="scrollup">Scroll</a>
+			<?php include "../includes/footer.php " ?>
+			<a href="# " class="scrollup ">Scroll</a>
         </div>
         <!-- end section -->
 
@@ -165,17 +153,17 @@
 
     </div>
 
-    <?php include "../includes/side-menu.php" ?>
+    <?php include "../includes/side-menu.php " ?>
 
     <!-- ######### JS FILES ######### -->
-    <?php include "../includes/javascript.php" ?>
+    <?php include "../includes/javascript.php " ?>
 
-    <script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
-    <script src="../js/onepage3/bootstrap.min.js"></script>
-    <script src="../js/onepage3/jPinning.js"></script>
-    <script src="../js/scrolltotop/totop.js" type="text/javascript"></script>
-    <script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
+    <script src="../js/animations/js/animations.min.js " type="text/javascript "></script>
+    <script src="../js/onepage3/bootstrap.min.js "></script>
+    <script src="../js/onepage3/jPinning.js "></script>
+    <script src="../js/scrolltotop/totop.js " type="text/javascript "></script>
+    <script src="../js/tabs/assets/js/responsive-tabs.min.js " type="text/javascript "></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false " type="text/javascript "></script>
 </body>
 
 </html>
