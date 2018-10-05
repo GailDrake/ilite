@@ -5,7 +5,7 @@
 <!--[if (gt IE 9)|!(IE)]><!-->
 <html lang="en-gb" class="no-js"> <!--<![endif]-->
 <head>
-	<title>ILITE Robotics | Home</title>
+	<title>ILITE Robotics | Season</title>
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="keywords" content="" />
@@ -77,7 +77,9 @@
 	<div class="third__image" style="background-image: url('../images/ILITE_Flag.JPG');"></div>
 		<div class="third__image" style="background-image: url('../images/ILITE_Airship.JPG');"></div>
 		<br><br><br>
-<p><br>The FIRST 2018 season has yet to begin, however, ILITE is already hard at work. We are reaching out into the community, teaching and inspiring kids in STEAM and FIRST. ILITE is also hosting events for FIRST Tech Challenge and the previous 2017 season. We are all excited for the upcoming 2018 season and eagerly await it's arrival.</p>
+<p><br>With the 2018 season midway, ILITE Robotics has been hard at work for the past several months.  Beginning with the kickoff in January announcing Power Up, we tackled the challenge of building not only a quality robot, but a quality First Program and inspire the youth around us.
+Upon completion of those six weeks, we immediately started off by hosting the first regional competition in Northern Virginia.  We went on to compete ourselves in the second and third qualifying events, District Champs, and finally the First Robotics World Championship in Detroit.   </p>
+<p>Meanwhile, our outreach and business teams were busy hosting all sorts of events, ranging from the STEAM Expo to Women in Aviation and Payton's Walk. We then hosted some of the most popular summer camps in our region for younger kids. Basic programming, wiring, Cyber Defense, and Lego robotics are among what we offered at our camps.</p>
 
 </div>
 </div><!-- end section -->

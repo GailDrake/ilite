@@ -49,7 +49,7 @@
 								<div class="home-image-inner-content">
 
 									<div class="headline-title">
-										<h1>FIRST Campaign</h1>
+										<h1>FIRST Outreach</h1>
 									</div>
 
 									<div class="head-image__subheader"></div>

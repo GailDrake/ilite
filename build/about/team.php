@@ -124,8 +124,8 @@
                     </div>
                   </div>
 
-									<!--<div class="post-container">
-                    <div class="post-thumb"><img src=""></div>
+									<div class="post-container">
+                    <div class="post-thumb"><img src="../images/members/Leadership/KristenG.png"></div>
                     <div class="post-content">
                       <h3 class="post-title">Kristen Giesler</h3><span class="title"><b>Title:</b>Co-Vice President</span>
 											<br>
@@ -135,7 +135,7 @@
 											<br>
                       <b>Favorite Memory:</b> Making waffles for breakfast in our hotel room at competition.
                     </div>
-                  </div>-->
+                  </div>
 
 									<div class="post-container">
                     <div class="post-thumb"><img src="../images/members/Leadership/Nicole C..jpg"></div>
@@ -1010,6 +1010,19 @@
                       <b>Fun Fact:</b> I only have half siblings.
                       <br>
                       <b>Favorite Memory:</b> Attending the IROC event.
+                    </div>
+                  </div>
+
+                  <div class="post-container">
+                    <div class="post-thumb"><img src="../images/members/Sponsorship/Caitlin C.jpg"></div>
+                    <div class="post-content">
+                      <h3 class="post-title">Caitlin Colsia</h3>
+											<br>
+                      <b>Year Joined:</b> 2017
+											<br>
+                      <b>Fun Fact:</b> I'm 70% coffee not water
+											<br>
+                      <b>Favorite Memory:</b> Rumble in the Roads 2017
                     </div>
                   </div>
 

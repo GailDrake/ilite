@@ -71,11 +71,11 @@
 </div>
 <div class="contentcontent">
 
-		<div class="outreach__image" style="background-image: url( ../images/site-img1.jpg );"></div>
     <h1>FLL Mentorship</h1>
-    <p>Our students have dedicated much of their time in robotics mentoring. Children from preschool to middle school are given a chance to learn from our best students. Our mentorship program was so successful, we kept an average of six students each day. All in all, we have mentored over 4,000 students from all over the community. As ILITE Robotics, we are always striving to inspire the next generation of engineers to try their hand at building and programming.</p>
+		<div class="outreach__image" style="background-image: url( ../images/site-img1.jpg );"></div>
+    <p>Our students have dedicated much of their time to robotics mentoring. Children from preschool to middle school are given a chance to learn from our best students. Our mentorship program was so successful, we kept an average of six students each day. All in all, we have mentored over 4,000 students from all over the community. As ILITE Robotics, we are always striving to inspire the next generation of engineers to try their hand at building and programming.</p>
 
-		<div class="outreach__image" style="background-image: url( ../images/site-img2.jpg );"></div>
+		<!-- <div class="outreach__image" style="background-image: url( ../images/site-img2.jpg );"></div>
     <h1>Fall Festival</h1>
     <p>Although the robotics club starts as early as October, nothing seems to kick us off as well as the fall festival. At Pumpkin Pandemonium, our young engineers mingle with the supportive locals in our community. Families can drive Team 1885 robots and learn how we program and create the  systems. There are merchandise stands run by student volunteers selling ILITE goods, and the t-shirts are often very popular with the supportive locals. Our dedicated members help set up in the morning, run the stands during the day, and tear down afterwards. Our hard work helps to get our name out not only by the field for driving robots, but by raising awareness through working with children on crafts, games, and more.</p>
 
@@ -87,7 +87,7 @@
     <p>From that thought we created the FIRST Forward program within ILITE Robotics. Our program involves spreading the best practices with other teams in the local area, the state, and beyond. ILITE hosts regular events at our school, inviting local teams from all around Northern Virginia to discuss strategies for the season, and share our good fortune with those around us. Team 1885 has shared various materials with schools all the way in Russia, such as presentations on how to start a FIRST team, starting the right way, and helping secure sponsors and mentors.</p>
     <p>One of the most successful moments of FIRST Forward has been the training of numerous rookie FRC teams in Washington, DC. Many of these schools suffer from low-income demographics and little or no access to mentorship. ILITE has hosted seminars in the fall of each year to train the teachers on these teams to be able to convey the concepts needed to build a successful robot, and even go through the logistics of registering and going to competition.</p>
     <p>FLL is our gift to younger generations of students with an interest of robotics and engineering. We at FIRST Forward encourage our students to build and program LEGO robots to complete simple engineering tasks. With the help of our mentors, our students improve their skills.</p>
-    <p>All we ask in return is that the fortune of FIRST will continue to be spread by those teams we help. Pay it forward!</p>
+    <p>All we ask in return is that the fortune of FIRST will continue to be spread by those teams we help. Pay it forward!</p> -->
 
 
 </div>

@@ -10,7 +10,7 @@
 
     <div class="col" >
       <h5 class="footer__header">LOCATION</h5>
-      <a class="footer__link" href="/about/contactus.php" >
+      <a class="footer__link" href="/getinvolved/whereisilite.php" >
         <i class="fa fa-map-marker"></i>
         Map &amp; Directions
       </a>
@@ -21,7 +21,7 @@
 
     <div class="col" >
       <h5 class="footer__header">CALENDAR</h5>
-      <a class="footer__link" href="/getinvolved/whereisilite.php">
+      <a class="footer__link" href="/getinvolved/studenteventportal.php">
         <i class="fa fa-calendar-o"></i>
         Team Events &amp; Schedule
       </a>

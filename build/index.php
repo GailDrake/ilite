@@ -59,7 +59,7 @@
             Community
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="nav__community__wrapper">
-              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a> <a class="nav__link__target" href='/community/surveys.php'>Summer Camp Surveys</a> <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='/community/hosted.php'>Hosted Events</a>
+              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a>  <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='/community/hosted.php'>Hosted Events</a>
             </div>
           </div><a class="nav__link no-caret" href='/media/media.php'>Media</a>
           <div class="nav__link action" id="nav__involved">
@@ -100,9 +100,9 @@
                 </div>
                 <div class="addes">
                   <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007">
-                  <i class="fa fa-map-marker"></i> Google Map</a></em> 
-                  <strong><a href="http://www.irocoffseason.org">FTC Robotics NoVA Regional</a></strong> 
-                  <strong>December 2th, 2017</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <i class="fa fa-map-marker"></i> Google Map</a></em>
+                  <strong><a href="community/summer-camps.php">2018 ILITE Summer Camps</a></strong>
+                  <strong>June 12th - 15th & June 18th - 22nd, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
               <div class="one_third animate" data-anim-delay="200" data-anim-type="fadeInUp">
@@ -110,8 +110,8 @@
                   <div class="home__img e2"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> 
-                  <strong><a href="community/hosted.php#ftc">4th Annual HayMaker STEM Expo</a></strong> 
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
+                  <strong><a href="community/hosted.php#ftc">4th Annual HayMaker STEM Expo</a></strong>
                   <strong>January 27th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
@@ -120,8 +120,8 @@
                   <div class="home__img e3"></div>
                 </div>
                 <div class="addes">
-                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em> 
-                  <strong><a href="community/hosted.php#frc">FRC District Event</a></strong> 
+                  <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
+                  <strong><a href="community/hosted.php#frc">FRC District Event</a></strong>
                   <strong>March 2nd, 3rd, and 4th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
@@ -137,9 +137,9 @@
                   <a class="home__img-holder" href="/getinvolved/firstfuel.php">
                   <div class="home__img n3"></div></a>
                   <div class="addes">
-                    <strong>FIRST Fuel Sign-Ups</strong> 
-                    Team-members and parents should be aware of the 
-                    <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>. 
+                    <strong>FIRST Fuel Sign-Ups</strong>
+                    Team-members and parents should be aware of the
+                    <a href="/getinvolved/firstfuel.php">FIRST Fuel page</a>.
                     We thank you for your continued support of ILITE!
                   </div>
                 </div><!-- end section -->
@@ -147,9 +147,9 @@
                   <a class="home__img-holder">
                   <div class="home__img n1"></div></a>
                   <div class="addes">
-                    <strong>2016 IROC Competition is Largest Ever Held</strong> 
-                    With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the 
-                    largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics, 
+                    <strong>2016 IROC Competition is Largest Ever Held</strong>
+                    With 33 registered teams, the 2016 ILITE Robotics Off-Season Challenge was the
+                    largest ever held. The winning alliance was composed of FRC Teams 384, Sparky Robotics,
                     5338, RoboLoCos, and 2363, Triple Helix. Congratulations teams!
                   </div>
                 </div><!-- end section -->
@@ -157,10 +157,10 @@
                   <a class="home__img-holder">
                   <div class="home__img n2"></div></a>
                   <div class="addes">
-                    <strong>ILITE Chosen To Be Kindness Ambassadors</strong> 
-                    ILITE has been chosen to be kindness ambassadors for our school 
-                    and community. Recent developments include enacting kindness rules 
-                    at our high school, starting a kindness week at out school, and 
+                    <strong>ILITE Chosen To Be Kindness Ambassadors</strong>
+                    ILITE has been chosen to be kindness ambassadors for our school
+                    and community. Recent developments include enacting kindness rules
+                    at our high school, starting a kindness week at out school, and
                     spreading kindess at the PWCS Walk for Autism.
                   </div>
                 </div><!-- end section -->
@@ -244,31 +244,7 @@
           </div>
         </div><!-- end events section -->
         <div class="clearfix"></div>
-        <div class="footer">
-          <div class="footerInfo">
-            <div class="col">
-              <h5 class="footer__header">CONTACT US</h5><a class="footer__link" href="mailto:gddrake@gmail.com">drakegd@pwcs.edu</a>
-              <p class="footer__text">Coach Gail Drake</p>
-              <p class="footer__text">(571)261-4726</p>
-            </div>
-            <div class="col">
-              <h5 class="footer__header">LOCATION</h5><a class="footer__link" href="/about/contactus.php"><i class="fa fa-map-marker"></i> Map &amp; Directions</a>
-              <p class="footer__text">ILITE Robotics</p>
-              <p class="footer__text">15000 Graduation Drive</p>
-              <p class="footer__text">Haymarket, VA 20169</p>
-            </div>
-            <div class="col">
-              <h5 class="footer__header">CALENDAR</h5><a class="footer__link" href="/getinvolved/whereisilite.php"><i class="fa fa-calendar-o"></i> Team Events &amp; Schedule</a>
-            </div>
-            <div class="col">
-              <h5 class="footer__header">GET CONNECTED</h5><a class="footer__social" href="https://www.facebook.com/iliterobotics/" target="_blank"><i class="fa fa-facebook"></i></a> <a class="footer__social" href="https://www.twitter.com/team1885" target="_blank"><i class="fa fa-twitter"></i></a> <a class="footer__social" href="https://www.youtube.com/channel/UCCWs22DHGwRloB613zOJ9UA" target="_blank"><i class="fa fa-youtube"></i></a> <a class="footer__social" href="https://www.instagram.com/team1885" target="_blank"><i class="fa fa-instagram"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="footer__copyright">
-          <p>&copy; <span id="copyright-year"></span> ILITE Robotics. All rights reserved.</p>
-        </div><a class="scrollup" href="#">Scroll</a> <!-- end scroll to top of the page-->
-      </div>
+        <?php include "includes/footer.php" ?>
       <nav class='menu width-0' id='side-menu'>
         <div class="nav-container">
           <div class="nav__link" id="side-menu__about">
@@ -289,7 +265,7 @@
             Community
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="side-menu__community__wrapper">
-              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a> <a class="nav__link__target" href='/community/surveys.php'>Summer Camps Surveys</a> <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <!-- <a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a> -->
+              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a> <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <!-- <a href='/community/hosted-events.php' class="nav__link__target">Hosted Events</a> -->
             </div>
           </div><a class="nav__link no-caret" href='/media/media.php'>Media</a>
           <div class="nav__link action" id="side-menu__involved">
