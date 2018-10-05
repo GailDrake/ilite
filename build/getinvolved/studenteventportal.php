@@ -68,7 +68,7 @@
   </ul>
   </div>
 <div class="contentcontent">
-<strong>Upcoming Events: September, 2017</strong>
+<strong>Upcoming Events: 2018-2019 Season</strong>
 <table class="table table-bordered">
 <thead>
 <tr>
@@ -79,79 +79,69 @@
 <th> Sign Up</th>
 </tr>
 </thead>
-<thead>
-<tr>
-<td>September 23, 2017</td>
-<td>Girls In Aviation</td>
-<td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions on the basic programming language "basic", and learn the basics of robotics. </span></td>
-<td><a href ="https://www.wai.org/giad"target="_blank">Manassas Regional Airport</a><br></br><a href= "https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191 target="_blank"">10600 Harry J Parrish Blvd <br> Manassas, VA 20110</a></td>
-<td><strong>None</strong></td>
-</tr>
-</thead>
+		<thead>
+							<tr>
+								<td>October 20, 2018</td>
+								<td>IROC Competition</td>
+								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features a modified version of the previous year’s FRC (FIRST Robotics Competition) game: Power Up.</td>
+								<td>
+									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
+									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
+								</td>
+								<td>
+									<a href="" target="_blank">Coming Soon</a>
+								</td>
+							</tr>
+						</thead>
+						<thead>
+							<tr>
+								<td>December 1, 2018</td>
+								<td>FTC Competition</td>
+								<td>ILITE Robotics will be hosting this years FIRST Tech Challenge, the Rover Ruckus! Teams will explore STEM concepts through a challenging, and out-of-this-world space-themed game. Learn more at firstinspires.org.</td>
+								<td>
+									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
+									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
+								</td>
+								<td>
+									<a href="https://www.firstinspires.org/ways-to-help/volunteer" target="_blank">Sign Up</a>
+								</td>
+							</tr>
+						</thead>
+					  <thead>
+							<tr>
+								<td>January 26, 2018</td>
+								<td>STEAM EXPO</td>
+								<td>ILITE Robotics will host its 5th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
+								<td>
+									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
+									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
+								</td>
+								<td>
+									<a href="" target="_blank">Coming Soon</a>
+								</td>
+							</tr>
+						</thead>
+						<thead>
+							<tr>
+								<td>March 2/3, 2018</td>
+								<td>FRC Competition</td>
+								<td>ILITE Robotics will be hosting this years FIRST Robotics Challenge, Deep Space! Teams will explore STEM concepts through a challenging, and out-of-this-world space-themed game. Learn more at firstinspires.org.</td>
+								<td>
+									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
+									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
+								</td>
+								<td>
+									<a href="https://www.firstinspires.org/ways-to-help/volunteer" target="_blank">Sign Up</a>
+								</td>
+							</tr>
+						</thead>
 </table>
 
-
-
-<div style="margin-top: 10.5px;"></div>
-<strong>Upcoming Events: 2017-2018</strong>
-<table class="table table-bordered">
-<thead>
-<tr>
-<th>Date</th>
-<th>Event Name</th>
-<th style="width: 400px;">Description</th>
-<th>Location</th>
-<th> Sign Up</th>
-</tr>
-</thead>
-<thead>
-	<tr>
-	<td>September 23, 2017</td>
-	<td>Girls In Aviation</td>
-	<td><span style="font-weight: 400;">This informative workshops will feature student and alumni-led sessions on the basic programming language "basic", and learn the basics of robotics. </span></td>
-	<td><a href ="https://www.wai.org/giad"target="_blank">Manassas Regional Airport</a><br></br><a href= "https://www.google.com/maps/place/Manassas+Regional+Airport/@38.7255746,-77.5145078,17z/data=!3m1!4b1!4m5!3m4!1s0x89b65e87e3d15897:0x5305166bad6cb4c9!8m2!3d38.7255746!4d-77.5123191 target="_blank"">10600 Harry J Parrish Blvd<br> Manassas, VA 20110</a></td>
-	<td><strong>None</strong></td>
-	</tr>
-<tr>
-<td>October 15, 2017</td>
-<td>Payton's Walk</td>
-<td><span style="font-weight: 400;">Join our walk in support of the Payton Project,and freeze bullying. Run or walk while enjoying live music, facepainting, refreshments, and much more!</span></td>
-<td><a href="http://paytonsproject.org/"target="_blank">Marris Pavillion </a><br></br><a href= "https://www.google.com/maps/place/Morris+Pavillion/@36.7777774,-103.9680488,4z/data=!4m8!1m2!2m1!1sMarris+Pavilion!3m4!1s0x8859f6dd77fba7b5:0x3923579b7f3f1955!8m2!3d35.6119634!4d-82.4401103"target="_blank">East Ln<br> Swannanoa, NC 28778</a></td>
-<td><strong>Coming soon</strong></td>
-</tr>
-<tr>
-<td>October 21, 2017</td>
-<td>IROC Competition</td>
-<td>ILITE (Inspiring Leaders in Technology and Engineering) Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
-<td><a href="https://battlefieldhs.pwcs.edu/"target="_blank">Battlefield Highschool</a><br></br><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068"target="_blank">15000 Graduation Dr<br> Haymarket, VA 20169</a></td>
-<td><a href="http://irocoffseason.org/registervolunteer/volunteer.php">Sign Up</a></td>
-</tr>
-<tr>
-<td>October 28, 2017</td>
-<td>Air and Scare</td>
-<td>Explore the spooky side of air and space at Air and Scare, our annual Halloween event at the Steven F. Udvar-Hazy Center in Chantilly, Va. Participate in creepy crafts, spooky science experiments, and other Halloween-themed activities. Arrive in costume to get into the Halloween spirit and enjoy safe indoor trick-or-treating.</td>
-<td><a href= "https://airandspace.si.edu/udvar-hazy-center"target="_blank">Udvar-Hazy Center</a><br></br><a href="https://www.google.com/maps/place/Steven+F.+Udvar-Hazy+Center/@38.9109231,-77.4463962,17z/data=!3m1!4b1!4m5!3m4!1s0x89b646eb32642073:0xb15e71e7680ccaa8!8m2!3d38.9109189!4d-77.4442075"target="_blank">14390 Air and Space Museum Pkwy<br> Chantilly, VA 20151</a></td>
-<td><strong>Coming soon</strong></td>
-</tr>
-<tr>
-<td>January 27, 2018</td>
-<td>HayMaker STEAM Expo</td>
-<td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
-<td><a href="https://battlefieldhs.pwcs.edu/"target="_blank">Battlefield Highschool</a><br></br><a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8453368,-77.6319955,17z/data=!3m1!4b1!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068"target="_blank">15000 Graduation Dr<br> Haymarket, VA 20169</a></td>
-<td><strong>Coming soon</strong></td>
-</tr>
-</thead>
-</table>
 </div>
-
-
 </div>
+<?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a> <!-- end scroll to top of the page--><!-- end scroll to top of the page-->
 </div><!-- end section -->
-
-<?php include "../includes/footer.php" ?>
-
-<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
-
+<!-- end scroll to top of the page--><!-- end scroll to top of the page-->
 </div>
 
 <?php include "../includes/side-menu.php" ?>

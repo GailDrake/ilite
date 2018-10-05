@@ -54,7 +54,8 @@
 				<div class="contentcontent">
 					<br>
 					<div style="margin-top: 15px;"></div>
-					<div style="margin-top: -35px;"></div><strong>Upcoming Events: October, 2017</strong>
+					<div style="margin-top: -35px;"></div>
+					<strong>Upcoming Events: 2018-2019 Season</strong>
 					<table class="table table-bordered">
 						<thead>
 							<tr>
@@ -67,84 +68,73 @@
 						</thead>
 						<thead>
 							<tr>
-								<td>October 21, 2017</td>
+								<td>October 20, 2018</td>
 								<td>IROC Competition</td>
-								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
+								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features a modified version of the previous year’s FRC (FIRST Robotics Competition) game: Power Up.</td>
 								<td>
 									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
 									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
 								</td>
 								<td>
-									<a href="http://irocoffseason.org/registervolunteer/volunteer.php" target="_blank">Sign Up</a>
+									<a href="" target="_blank">Coming Soon</a>
 								</td>
 							</tr>
 						</thead>
-					</table>&nbsp; <strong>Month of: October, 2017</strong>
-					<table class="table table-bordered">
 						<thead>
 							<tr>
-								<th>Date</th>
-								<th>Event Name</th>
-								<th style="width: 400px;">Description</th>
-								<th>Location</th>
-								<th>Sign Up</th>
-							</tr>
-						</thead>
-						<thead>
-							<tr>
-								<td>October 21, 2017</td>
-								<td>IROC Competition</td>
-								<td>ILITE Robotics is hosting their off-season robotics competition again this year. IROC, the ILITE Robotics Off-Season Challenge, features the previous year’s FRC (FIRST Robotics Competition) game. The 2017 game, FIRST Steamworks, is a steampunk-themed game in which robots are built and programmed by students to score goals on the airship, in addition to scoring balls in 12ft towers.</td>
+								<td>December 1, 2018</td>
+								<td>FTC Competition</td>
+								<td>ILITE Robotics will be hosting this years FIRST Tech Challenge, the Rover Ruckus! Teams will explore STEM concepts through a challenging, and out-of-this-world space-themed game. Learn more at firstinspires.org.</td>
 								<td>
 									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
 									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
 								</td>
 								<td>
-									<a href="http://irocoffseason.org/registervolunteer/volunteer.php" target="_blank">Sign Up</a>
+									<a href="https://www.firstinspires.org/ways-to-help/volunteer" target="_blank">Sign Up</a>
 								</td>
 							</tr>
 						</thead>
-					</table><strong>Month of: January, 2018</strong>
-					<table class="table table-bordered">
-						<thead>
+					  <thead>
 							<tr>
-								<th>Date</th>
-								<th>Event Name</th>
-								<th style="width: 400px;">Description</th>
-								<th>Location</th>
-								<th>Sign Up</th>
-							</tr>
-						</thead>
-						<thead>
-							<tr>
-								<td>January 27, 2018</td>
-								<td>HayMaker STEAM Expo</td>
-								<td>ILITE Robotics will host its 4th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
+								<td>January 26, 2018</td>
+								<td>STEAM EXPO</td>
+								<td>ILITE Robotics will host its 5th annual STEM and Robotics Expo. Numerous kid friendly activities will be offered including a Maker Fare sponsored in part by local businesses, universities, and organizations.</td>
 								<td>
 									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
 									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
 								</td>
-								<td><strong>Sign Up in December</strong></td>
+								<td>
+									<a href="" target="_blank">Coming Soon</a>
+								</td>
 							</tr>
 						</thead>
-					</table>
+						<thead>
+							<tr>
+								<td>March 2/3, 2018</td>
+								<td>FRC Competition</td>
+								<td>ILITE Robotics will be hosting this years FIRST Robotics Challenge, Deep Space! Teams will explore STEM concepts through a challenging, and out-of-this-world space-themed game. Learn more at firstinspires.org.</td>
+								<td>
+									<a href="https://battlefieldhs.pwcs.edu/" target="_blank">Battlefield High School</a>
+									<a href="https://www.google.com/maps/place/Battlefield+High+School/@38.8447595,-77.630538,17.55z/data=!4m5!3m4!1s0x89b668be1850b531:0x54b85e4d7455f560!8m2!3d38.8453326!4d-77.6298068" target="_blank"><br><br>15000 Graduation Dr. <br>Haymarket, VA 20169</a>
+								</td>
+								<td>
+									<a href="https://www.firstinspires.org/ways-to-help/volunteer" target="_blank">Sign Up</a>
+								</td>
+							</tr>
+						</thead>
+					</table>&nbsp;
 				</div>
 			</div><!-- end section -->
 			<?php include "../includes/footer.php" ?><a class="scrollup" href="#">Scroll</a><!-- end scroll to top of the page-->
-		</div><?php include "../includes/side-menu.php" ?><!-- ######### JS FILES ######### -->
+		</div>
+		<?php include "../includes/side-menu.php" ?><!-- ######### JS FILES ######### -->
 		<?php include "../includes/javascript.php" ?>
-		<script src="../js/animations/js/animations.min.js" type="text/javascript">
-		</script>
-		<script src="../js/onepage3/bootstrap.min.js">
-		</script>
-		<script src="../js/onepage3/jPinning.js">
-		</script>
-		<script src="../js/scrolltotop/totop.js" type="text/javascript">
-		</script>
-		<script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript">
-		</script>
-		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript">
-		</script>
+		<script src="../js/animations/js/animations.min.js" type="text/javascript"></script>
+		<script src="../js/onepage3/bootstrap.min.js"></script>
+		<script src="../js/onepage3/jPinning.js"></script>
+		<script src="../js/scrolltotop/totop.js" type="text/javascript"></script>
+		<script src="../js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false" type="text/javascript"></script>
 	</div>
 </body>
 </html>
