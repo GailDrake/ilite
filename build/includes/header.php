@@ -36,7 +36,7 @@
 				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
 				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
 				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Foundation</a>
-				<a href='/community/hosted.php' class="nav__link__target">Hosted Events</a> 
+				<a href='https://www.ilite.info/' class="nav__link__target">Hosted Events</a> 
 			</div>
 		</div>
 
