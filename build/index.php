@@ -32,7 +32,7 @@
   <div class="site_wrapper home">
     <div class="home__top-style right-0" id="wrap">
       <nav class="navigation" id="navigation">
-        <a class="nav__logo" href="../index.php"></a>
+        <a href="../index.php"><img  class="nav__logo" src="images/ilite-logo__white.png" /></a>
         <div id="burger">
           <div class="nav-mobile">
             <div id="nav-toggle">
