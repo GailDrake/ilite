@@ -55,11 +55,12 @@
               <a class="nav__link__target" href='/first/whatisfirst.php'>About FIRST</a> <a class="nav__link__target" href='http://www.firstinspires.org/scholarships'>Scholarships</a> <a class="nav__link__target" href='/first/firstcampaign.php'>FIRST Outreach</a> <a class="nav__link__target" href='/first/season.php'>FIRST 2018 Season</a>
             </div>
           </div>
+          <a href="https://www.ilite.info" class="nav__link">STEAM Expo</a>
           <div class="nav__link" id="nav__community">
             Community
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="nav__community__wrapper">
-              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a>  <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='https://www.ilite.info/'>Hosted Events</a>
+              <a class="nav__link__target" href='/community/sponsors.php'>Sponsors</a> <a class="nav__link__target" href='/community/summer-camps.php'>Summer Camps</a>  <a class="nav__link__target" href='/community/outreach.php'>Outreach</a> <a class="nav__link__target" href='/community/us-stem-foundation.php'>US STEM Foundation</a> <a class="nav__link__target" href='/community/hosted.php'>Hosted Events</a>
             </div>
           </div><a class="nav__link no-caret" href='/media/media.php'>Media</a>
           <div class="nav__link action" id="nav__involved">
@@ -111,8 +112,8 @@
                 </div>
                 <div class="addes">
                   <em><a href="https://www.google.com/maps/dir/''/battlefield+high+school/@38.8449798,-77.7005067,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89b668be1850b531:0x54b85e4d7455f560!2m2!1d-77.6304667!2d38.8450007"><i class="fa fa-map-marker"></i> Google Map</a></em>
-                  <strong><a href="community/hosted.php#ftc">4th Annual HayMaker STEM Expo</a></strong>
-                  <strong>January 27th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
+                  <strong><a href="https://www.ilite.info">5th Annual HayMaker STEM Expo</a></strong>
+                  <strong>January 26th, 2018</strong> 15000 Graduation Dr, Haymarket, VA 20169
                 </div>
               </div><!-- end section -->
               <div class="one_third last animate" data-anim-delay="300" data-anim-type="fadeInUp">
