@@ -29,6 +29,8 @@
 			</div>
 		</div>
 
+		<a href="https://www.ilite.info" class="nav__link">STEAM Expo</a>
+
     <div id="nav__community" class="nav__link">
 			Community <div class="caret"></div>
 			<div class="nav__link__wrapper" id="nav__community__wrapper">
@@ -36,7 +38,7 @@
 				<a href='/community/summer-camps.php' class="nav__link__target">Summer Camps</a>
 				<a href='/community/outreach.php' class="nav__link__target">Outreach</a>
 				<a href='/community/us-stem-foundation.php' class="nav__link__target">US STEM Foundation</a>
-				<a href='https://www.ilite.info/' class="nav__link__target">Hosted Events</a> 
+				<a href='/community/hosted.php' class="nav__link__target">Hosted Events</a> 
 			</div>
 		</div>
 
