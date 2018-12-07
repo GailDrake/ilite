@@ -67,7 +67,7 @@
             Get Involved
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="nav__involved__wrapper">
-              <a class="nav__link__target" href='/getinvolved/whereisilite.php'>Where is Team 1885</a> <a class="nav__link__target" href='/getinvolved/volunteereventportal.php'>Volunteer Portal</a> <a class="nav__link__target" href='/getinvolved/studenteventportal.php'>Student Event Portal</a> <a class="nav__link__target" href='/getinvolved/becomeasponsor.php'>Become a Sponsor</a> <a class="nav__link__target" href='/getinvolved/becomeamember.php'>Become a Member</a> <a class="nav__link__target" href='/getinvolved/becomeamentor.php'>Become a Mentor</a> <a class="nav__link__target" href='/getinvolved/firstfuel.php'>Help Feed the Team</a> <a class="nav__link__target" href='usstem.org'>Donate via US STEM</a>
+              <a class="nav__link__target" href='/getinvolved/whereisilite.php'>Where is Team 1885</a> <a class="nav__link__target" href='/getinvolved/volunteereventportal.php'>Volunteer Portal</a> <a class="nav__link__target" href='/getinvolved/studenteventportal.php'>Student Event Portal</a> <a class="nav__link__target" href='/getinvolved/becomeasponsor.php'>Become a Sponsor</a> <a class="nav__link__target" href='/getinvolved/becomeamember.php'>Become a Member</a> <a class="nav__link__target" href='/getinvolved/becomeamentor.php'>Become a Mentor</a> <a class="nav__link__target" href='/getinvolved/firstfuel.php'>Help Feed the Team</a> <a class="nav__link__target" href='https://www.usstem.org/'>Donate via US STEM</a>
             </div>
           </div>
         </div>
@@ -273,7 +273,14 @@
             Get Involved
             <div class="caret"></div>
             <div class="nav__link__wrapper" id="side-menu__involved__wrapper">
-              <a class="nav__link__target" href='/getinvolved/whereisilite.php'>Where is Team 1885</a> <a class="nav__link__target" href='/getinvolved/volunteereventportal.php'>Volunteer Portal</a> <a class="nav__link__target" href='/getinvolved/studenteventportal.php'>Student Event Portal</a> <a class="nav__link__target" href='/getinvolved/becomeasponsor.php'>Become a Sponsor</a> <a class="nav__link__target" href='/getinvolved/becomeamember.php'>Become a Member</a> <a class="nav__link__target" href='/getinvolved/becomeamentor.php'>Become a Mentor</a> <a class="nav__link__target" href='/getinvolved/firstfuel.php'>Help Feed the Team</a>
+              <a class="nav__link__target" href='/getinvolved/whereisilite.php'>Where is Team 1885</a> 
+							<a class="nav__link__target" href='/getinvolved/volunteereventportal.php'>Volunteer Portal</a> 
+							<a class="nav__link__target" href='/getinvolved/studenteventportal.php'>Student Event Portal</a> 
+							<a class="nav__link__target" href='/getinvolved/becomeasponsor.php'>Become a Sponsor</a> 
+							<a class="nav__link__target" href='/getinvolved/becomeamember.php'>Become a Member</a> 
+							<a class="nav__link__target" href='/getinvolved/becomeamentor.php'>Become a Mentor</a> 
+							<a class="nav__link__target" href='/getinvolved/firstfuel.php'>Help Feed the Team</a>
+							<a class="nav__link__target" href='https://www.usstem.org/'>Donate via US Stem</a>
             </div>
           </div>
         </div>

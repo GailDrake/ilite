@@ -54,7 +54,7 @@
 				<a href='/getinvolved/becomeamember.php' class="nav__link__target">Become a Member</a>
 				<a href='/getinvolved/becomeamentor.php' class="nav__link__target">Become a Mentor</a>
 				<a href='/getinvolved/firstfuel.php' class="nav__link__target">Help Feed the Team</a>
-				<a href='usstem.org' class="nav__link__target">Donate via US STEM</a>
+				<a href='https://www.usstem.org/' class="nav__link__target">Donate via US STEM</a>
 			</div>
 		</div>
 
